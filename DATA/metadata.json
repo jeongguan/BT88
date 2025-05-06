@@ -1,0 +1,7144 @@
+{
+  "symbols": {
+    "QQQ": {
+      "last_updated": "2025-05-06T12:33:03.407829",
+      "status": "success"
+    },
+    "IEFA": {
+      "last_updated": "2025-05-06T12:33:04.617791",
+      "status": "success"
+    },
+    "BND": {
+      "last_updated": "2025-05-06T12:33:05.790466",
+      "status": "success"
+    },
+    "VXUS": {
+      "last_updated": "2025-05-06T12:33:06.963303",
+      "status": "success"
+    },
+    "BNDX": {
+      "last_updated": "2025-05-06T12:33:08.099707",
+      "status": "success"
+    },
+    "IBIT": {
+      "last_updated": "2025-05-06T12:33:09.197480",
+      "status": "success"
+    },
+    "VCIT": {
+      "last_updated": "2025-05-06T12:33:10.378398",
+      "status": "success"
+    },
+    "QUAL": {
+      "last_updated": "2025-05-06T12:33:11.533337",
+      "status": "success"
+    },
+    "TLT": {
+      "last_updated": "2025-05-06T12:33:12.695979",
+      "status": "success"
+    },
+    "QQQM": {
+      "last_updated": "2025-05-06T12:33:13.882109",
+      "status": "success"
+    },
+    "IXUS": {
+      "last_updated": "2025-05-06T12:33:15.048244",
+      "status": "success"
+    },
+    "MBB": {
+      "last_updated": "2025-05-06T12:33:16.297039",
+      "status": "success"
+    },
+    "VCSH": {
+      "last_updated": "2025-05-06T12:33:17.463701",
+      "status": "success"
+    },
+    "IEF": {
+      "last_updated": "2025-05-06T12:33:18.996605",
+      "status": "success"
+    },
+    "IUSB": {
+      "last_updated": "2025-05-06T12:33:20.134319",
+      "status": "success"
+    },
+    "VGIT": {
+      "last_updated": "2025-05-06T12:33:21.286376",
+      "status": "success"
+    },
+    "GOVT": {
+      "last_updated": "2025-05-06T12:33:22.447777",
+      "status": "success"
+    },
+    "VONG": {
+      "last_updated": "2025-05-06T12:33:23.628671",
+      "status": "success"
+    },
+    "SHY": {
+      "last_updated": "2025-05-06T12:33:24.803020",
+      "status": "success"
+    },
+    "JEPQ": {
+      "last_updated": "2025-05-06T12:33:25.948337",
+      "status": "success"
+    },
+    "USMV": {
+      "last_updated": "2025-05-06T12:33:27.125660",
+      "status": "success"
+    },
+    "VGSH": {
+      "last_updated": "2025-05-06T12:33:28.268391",
+      "status": "success"
+    },
+    "SHV": {
+      "last_updated": "2025-05-06T12:33:29.447579",
+      "status": "success"
+    },
+    "USHY": {
+      "last_updated": "2025-05-06T12:33:30.622628",
+      "status": "success"
+    },
+    "IGSB": {
+      "last_updated": "2025-05-06T12:33:31.791833",
+      "status": "success"
+    },
+    "TQQQ": {
+      "last_updated": "2025-05-06T12:33:32.944467",
+      "status": "success"
+    },
+    "COWZ": {
+      "last_updated": "2025-05-06T12:33:34.075003",
+      "status": "success"
+    },
+    "EFV": {
+      "last_updated": "2025-05-06T12:33:35.238635",
+      "status": "success"
+    },
+    "IUSG": {
+      "last_updated": "2025-05-06T12:33:36.394219",
+      "status": "success"
+    },
+    "ACWI": {
+      "last_updated": "2025-05-06T12:33:37.570259",
+      "status": "success"
+    },
+    "IUSV": {
+      "last_updated": "2025-05-06T12:33:38.788856",
+      "status": "success"
+    },
+    "SMH": {
+      "last_updated": "2025-05-06T12:33:39.909241",
+      "status": "success"
+    },
+    "FBTC": {
+      "last_updated": "2025-05-06T12:33:41.006220",
+      "status": "success"
+    },
+    "DVY": {
+      "last_updated": "2025-05-06T12:33:42.226674",
+      "status": "success"
+    },
+    "IEI": {
+      "last_updated": "2025-05-06T12:33:43.379878",
+      "status": "success"
+    },
+    "VTIP": {
+      "last_updated": "2025-05-06T12:33:44.542635",
+      "status": "success"
+    },
+    "EMXC": {
+      "last_updated": "2025-05-06T12:33:45.703545",
+      "status": "success"
+    },
+    "IGIB": {
+      "last_updated": "2025-05-06T12:33:46.868694",
+      "status": "success"
+    },
+    "MTUM": {
+      "last_updated": "2025-05-06T12:33:48.024610",
+      "status": "success"
+    },
+    "DGRW": {
+      "last_updated": "2025-05-06T12:33:49.211966",
+      "status": "success"
+    },
+    "VMBS": {
+      "last_updated": "2025-05-06T12:33:50.417985",
+      "status": "success"
+    },
+    "PFF": {
+      "last_updated": "2025-05-06T12:33:51.577999",
+      "status": "success"
+    },
+    "RDVY": {
+      "last_updated": "2025-05-06T12:33:52.745580",
+      "status": "success"
+    },
+    "USIG": {
+      "last_updated": "2025-05-06T12:33:53.931220",
+      "status": "success"
+    },
+    "EMB": {
+      "last_updated": "2025-05-06T12:33:55.404339",
+      "status": "success"
+    },
+    "ESGU": {
+      "last_updated": "2025-05-06T12:33:56.553313",
+      "status": "success"
+    },
+    "EFG": {
+      "last_updated": "2025-05-06T12:33:57.742393",
+      "status": "success"
+    },
+    "MOAT": {
+      "last_updated": "2025-05-06T12:33:58.924643",
+      "status": "success"
+    },
+    "VCLT": {
+      "last_updated": "2025-05-06T12:34:00.112727",
+      "status": "success"
+    },
+    "BBJP": {
+      "last_updated": "2025-05-06T12:34:01.319528",
+      "status": "success"
+    },
+    "VONV": {
+      "last_updated": "2025-05-06T12:34:02.479256",
+      "status": "success"
+    },
+    "IGV": {
+      "last_updated": "2025-05-06T12:34:03.631062",
+      "status": "success"
+    },
+    "VTWO": {
+      "last_updated": "2025-05-06T12:34:04.803362",
+      "status": "success"
+    },
+    "NOBL": {
+      "last_updated": "2025-05-06T12:34:06.121964",
+      "status": "success"
+    },
+    "SOXX": {
+      "last_updated": "2025-05-06T12:34:07.335899",
+      "status": "success"
+    },
+    "VGLT": {
+      "last_updated": "2025-05-06T12:34:08.520337",
+      "status": "success"
+    },
+    "VYMI": {
+      "last_updated": "2025-05-06T12:34:09.741538",
+      "status": "success"
+    },
+    "ESGV": {
+      "last_updated": "2025-05-06T12:34:10.885370",
+      "status": "success"
+    },
+    "SCZ": {
+      "last_updated": "2025-05-06T12:34:12.035840",
+      "status": "success"
+    },
+    "ESGD": {
+      "last_updated": "2025-05-06T12:34:13.173724",
+      "status": "success"
+    },
+    "INDA": {
+      "last_updated": "2025-05-06T12:34:14.304967",
+      "status": "success"
+    },
+    "FLOT": {
+      "last_updated": "2025-05-06T12:34:15.491696",
+      "status": "success"
+    },
+    "DFIC": {
+      "last_updated": "2025-05-06T12:34:16.612547",
+      "status": "success"
+    },
+    "CIBR": {
+      "last_updated": "2025-05-06T12:34:17.745148",
+      "status": "success"
+    },
+    "QYLD": {
+      "last_updated": "2025-05-06T12:34:18.967067",
+      "status": "success"
+    },
+    "FTCS": {
+      "last_updated": "2025-05-06T12:34:20.130277",
+      "status": "success"
+    },
+    "HEFA": {
+      "last_updated": "2025-05-06T12:34:21.269770",
+      "status": "success"
+    },
+    "BBCA": {
+      "last_updated": "2025-05-06T12:34:22.546276",
+      "status": "success"
+    },
+    "VIGI": {
+      "last_updated": "2025-05-06T12:34:23.731851",
+      "status": "success"
+    },
+    "EZU": {
+      "last_updated": "2025-05-06T12:34:24.897615",
+      "status": "success"
+    },
+    "PAVE": {
+      "last_updated": "2025-05-06T12:34:26.030899",
+      "status": "success"
+    },
+    "SDVY": {
+      "last_updated": "2025-05-06T12:34:27.203211",
+      "status": "success"
+    },
+    "ONEQ": {
+      "last_updated": "2025-05-06T12:34:28.392540",
+      "status": "success"
+    },
+    "IAGG": {
+      "last_updated": "2025-05-06T12:34:29.548607",
+      "status": "success"
+    },
+    "FTSM": {
+      "last_updated": "2025-05-06T12:34:30.750771",
+      "status": "success"
+    },
+    "ITA": {
+      "last_updated": "2025-05-06T12:34:31.920897",
+      "status": "success"
+    },
+    "IGF": {
+      "last_updated": "2025-05-06T12:34:33.076906",
+      "status": "success"
+    },
+    "BUFQ": {
+      "last_updated": "2025-05-06T12:34:34.214250",
+      "status": "success"
+    },
+    "PBUS": {
+      "last_updated": "2025-05-06T12:34:35.339430",
+      "status": "success"
+    },
+    "JGLO": {
+      "last_updated": "2025-05-06T12:34:36.444730",
+      "status": "success"
+    },
+    "JCPB": {
+      "last_updated": "2025-05-06T12:34:37.586660",
+      "status": "success"
+    },
+    "VLUE": {
+      "last_updated": "2025-05-06T12:34:38.738990",
+      "status": "success"
+    },
+    "BOXX": {
+      "last_updated": "2025-05-06T12:34:39.852447",
+      "status": "success"
+    },
+    "ACWX": {
+      "last_updated": "2025-05-06T12:34:41.000152",
+      "status": "success"
+    },
+    "ULTR": {
+      "last_updated": "2025-05-06T12:34:42.132102",
+      "status": "success"
+    },
+    "TBIL": {
+      "last_updated": "2025-05-06T12:34:43.241159",
+      "status": "success"
+    },
+    "VONE": {
+      "last_updated": "2025-05-06T12:34:44.396128",
+      "status": "success"
+    },
+    "IJT": {
+      "last_updated": "2025-05-06T12:34:45.560751",
+      "status": "success"
+    },
+    "MCHI": {
+      "last_updated": "2025-05-06T12:34:46.720696",
+      "status": "success"
+    },
+    "BOND": {
+      "last_updated": "2025-05-06T12:34:47.870826",
+      "status": "success"
+    },
+    "EFAV": {
+      "last_updated": "2025-05-06T12:34:49.023288",
+      "status": "success"
+    },
+    "IBB": {
+      "last_updated": "2025-05-06T12:34:50.180417",
+      "status": "success"
+    },
+    "VUSB": {
+      "last_updated": "2025-05-06T12:34:51.331613",
+      "status": "success"
+    },
+    "ARKK": {
+      "last_updated": "2025-05-06T12:34:52.482904",
+      "status": "success"
+    },
+    "BBIN": {
+      "last_updated": "2025-05-06T12:34:53.637305",
+      "status": "success"
+    },
+    "LMBS": {
+      "last_updated": "2025-05-06T12:34:54.786867",
+      "status": "success"
+    },
+    "TSLL": {
+      "last_updated": "2025-05-06T12:34:55.906730",
+      "status": "success"
+    },
+    "BBAX": {
+      "last_updated": "2025-05-06T12:34:57.069603",
+      "status": "success"
+    },
+    "VWOB": {
+      "last_updated": "2025-05-06T12:34:58.224100",
+      "status": "success"
+    },
+    "IDV": {
+      "last_updated": "2025-05-06T12:34:59.378248",
+      "status": "success"
+    },
+    "OMFL": {
+      "last_updated": "2025-05-06T12:35:00.530752",
+      "status": "success"
+    },
+    "ARKB": {
+      "last_updated": "2025-05-06T12:35:01.617755",
+      "status": "success"
+    },
+    "ESGE": {
+      "last_updated": "2025-05-06T12:35:02.753892",
+      "status": "success"
+    },
+    "ISTB": {
+      "last_updated": "2025-05-06T12:35:03.945463",
+      "status": "success"
+    },
+    "PDBC": {
+      "last_updated": "2025-05-06T12:35:05.118821",
+      "status": "success"
+    },
+    "BBUS": {
+      "last_updated": "2025-05-06T12:35:06.270787",
+      "status": "success"
+    },
+    "BBEU": {
+      "last_updated": "2025-05-06T12:35:07.445538",
+      "status": "success"
+    },
+    "VSGX": {
+      "last_updated": "2025-05-06T12:35:08.577444",
+      "status": "success"
+    },
+    "EEMV": {
+      "last_updated": "2025-05-06T12:35:09.719326",
+      "status": "success"
+    },
+    "BSCQ": {
+      "last_updated": "2025-05-06T12:35:10.856630",
+      "status": "success"
+    },
+    "CALF": {
+      "last_updated": "2025-05-06T12:35:12.033662",
+      "status": "success"
+    },
+    "FBCG": {
+      "last_updated": "2025-05-06T12:35:13.161264",
+      "status": "success"
+    },
+    "DIHP": {
+      "last_updated": "2025-05-06T12:35:14.273985",
+      "status": "success"
+    },
+    "VFLO": {
+      "last_updated": "2025-05-06T12:35:15.398074",
+      "status": "success"
+    },
+    "KNG": {
+      "last_updated": "2025-05-06T12:35:16.588572",
+      "status": "success"
+    },
+    "FIXD": {
+      "last_updated": "2025-05-06T12:35:17.745989",
+      "status": "success"
+    },
+    "KBWB": {
+      "last_updated": "2025-05-06T12:35:18.884933",
+      "status": "success"
+    },
+    "BSCP": {
+      "last_updated": "2025-05-06T12:35:20.049410",
+      "status": "success"
+    },
+    "JMST": {
+      "last_updated": "2025-05-06T12:35:21.221483",
+      "status": "success"
+    },
+    "BSCR": {
+      "last_updated": "2025-05-06T12:35:22.414319",
+      "status": "success"
+    },
+    "FV": {
+      "last_updated": "2025-05-06T12:35:24.166975",
+      "status": "success"
+    },
+    "GVI": {
+      "last_updated": "2025-05-06T12:35:25.340161",
+      "status": "success"
+    },
+    "ACWV": {
+      "last_updated": "2025-05-06T12:35:26.466239",
+      "status": "success"
+    },
+    "HYD": {
+      "last_updated": "2025-05-06T12:35:27.617744",
+      "status": "success"
+    },
+    "NVDL": {
+      "last_updated": "2025-05-06T12:35:28.725525",
+      "status": "success"
+    },
+    "VNQI": {
+      "last_updated": "2025-05-06T12:35:29.850916",
+      "status": "success"
+    },
+    "SPYI": {
+      "last_updated": "2025-05-06T12:35:30.964762",
+      "status": "success"
+    },
+    "PTLC": {
+      "last_updated": "2025-05-06T12:35:32.096356",
+      "status": "success"
+    },
+    "NEAR": {
+      "last_updated": "2025-05-06T12:35:33.222436",
+      "status": "success"
+    },
+    "AIRR": {
+      "last_updated": "2025-05-06T12:35:34.377002",
+      "status": "success"
+    },
+    "SQQQ": {
+      "last_updated": "2025-05-06T12:35:35.531291",
+      "status": "success"
+    },
+    "EUFN": {
+      "last_updated": "2025-05-06T12:35:36.704782",
+      "status": "success"
+    },
+    "SKYY": {
+      "last_updated": "2025-05-06T12:35:37.864996",
+      "status": "success"
+    },
+    "XT": {
+      "last_updated": "2025-05-06T12:35:38.995381",
+      "status": "success"
+    },
+    "VTHR": {
+      "last_updated": "2025-05-06T12:35:40.147635",
+      "status": "success"
+    },
+    "AIQ": {
+      "last_updated": "2025-05-06T12:35:41.282623",
+      "status": "success"
+    },
+    "ANGL": {
+      "last_updated": "2025-05-06T12:35:42.453724",
+      "status": "success"
+    },
+    "DISV": {
+      "last_updated": "2025-05-06T12:35:43.580009",
+      "status": "success"
+    },
+    "VCRB": {
+      "last_updated": "2025-05-06T12:35:44.666716",
+      "status": "success"
+    },
+    "JMUB": {
+      "last_updated": "2025-05-06T12:35:45.832492",
+      "status": "success"
+    },
+    "DFIS": {
+      "last_updated": "2025-05-06T12:35:46.968325",
+      "status": "success"
+    },
+    "TDIV": {
+      "last_updated": "2025-05-06T12:35:48.470899",
+      "status": "success"
+    },
+    "ITB": {
+      "last_updated": "2025-05-06T12:35:49.666192",
+      "status": "success"
+    },
+    "USMC": {
+      "last_updated": "2025-05-06T12:35:50.837139",
+      "status": "success"
+    },
+    "BSCS": {
+      "last_updated": "2025-05-06T12:35:51.980914",
+      "status": "success"
+    },
+    "BITX": {
+      "last_updated": "2025-05-06T12:35:53.093751",
+      "status": "success"
+    },
+    "GSUS": {
+      "last_updated": "2025-05-06T12:35:54.239874",
+      "status": "success"
+    },
+    "AAXJ": {
+      "last_updated": "2025-05-06T12:35:55.788192",
+      "status": "success"
+    },
+    "LVHI": {
+      "last_updated": "2025-05-06T12:35:56.956620",
+      "status": "success"
+    },
+    "UITB": {
+      "last_updated": "2025-05-06T12:35:58.128713",
+      "status": "success"
+    },
+    "ICVT": {
+      "last_updated": "2025-05-06T12:35:59.282155",
+      "status": "success"
+    },
+    "QTEC": {
+      "last_updated": "2025-05-06T12:36:00.435761",
+      "status": "success"
+    },
+    "FTGC": {
+      "last_updated": "2025-05-06T12:36:01.597920",
+      "status": "success"
+    },
+    "BOTZ": {
+      "last_updated": "2025-05-06T12:36:05.640073",
+      "status": "success"
+    },
+    "ETHA": {
+      "last_updated": "2025-05-06T12:36:06.748801",
+      "status": "success"
+    },
+    "IFRA": {
+      "last_updated": "2025-05-06T12:36:07.900011",
+      "status": "success"
+    },
+    "SLQD": {
+      "last_updated": "2025-05-06T12:36:09.056911",
+      "status": "success"
+    },
+    "USCL": {
+      "last_updated": "2025-05-06T12:36:10.170893",
+      "status": "success"
+    },
+    "GCOW": {
+      "last_updated": "2025-05-06T12:36:11.319250",
+      "status": "success"
+    },
+    "PRFZ": {
+      "last_updated": "2025-05-06T12:36:12.527170",
+      "status": "success"
+    },
+    "IBTF": {
+      "last_updated": "2025-05-06T12:36:13.687269",
+      "status": "success"
+    },
+    "PABU": {
+      "last_updated": "2025-05-06T12:36:14.934599",
+      "status": "success"
+    },
+    "GRID": {
+      "last_updated": "2025-05-06T12:36:16.140090",
+      "status": "success"
+    },
+    "PHO": {
+      "last_updated": "2025-05-06T12:36:17.356464",
+      "status": "success"
+    },
+    "MAGS": {
+      "last_updated": "2025-05-06T12:36:18.482581",
+      "status": "success"
+    },
+    "BSCT": {
+      "last_updated": "2025-05-06T12:36:19.660626",
+      "status": "success"
+    },
+    "ITM": {
+      "last_updated": "2025-05-06T12:36:20.833443",
+      "status": "success"
+    },
+    "USRT": {
+      "last_updated": "2025-05-06T12:36:22.013527",
+      "status": "success"
+    },
+    "FMB": {
+      "last_updated": "2025-05-06T12:36:23.155726",
+      "status": "success"
+    },
+    "JBND": {
+      "last_updated": "2025-05-06T12:36:24.494885",
+      "status": "success"
+    },
+    "IBTG": {
+      "last_updated": "2025-05-06T12:36:25.805743",
+      "status": "success"
+    },
+    "MSTX": {
+      "last_updated": "2025-05-06T12:36:26.908694",
+      "status": "success"
+    },
+    "SECT": {
+      "last_updated": "2025-05-06T12:36:28.095876",
+      "status": "success"
+    },
+    "HYMU": {
+      "last_updated": "2025-05-06T12:36:29.236308",
+      "status": "success"
+    },
+    "FDIV": {
+      "last_updated": "2025-05-06T12:36:30.351860",
+      "status": "success"
+    },
+    "ACIO": {
+      "last_updated": "2025-05-06T12:36:31.481449",
+      "status": "success"
+    },
+    "EVTR": {
+      "last_updated": "2025-05-06T12:36:32.579321",
+      "status": "success"
+    },
+    "QQEW": {
+      "last_updated": "2025-05-06T12:36:33.756469",
+      "status": "success"
+    },
+    "ESML": {
+      "last_updated": "2025-05-06T12:36:34.919428",
+      "status": "success"
+    },
+    "REGL": {
+      "last_updated": "2025-05-06T12:36:36.061312",
+      "status": "success"
+    },
+    "FALN": {
+      "last_updated": "2025-05-06T12:36:37.228701",
+      "status": "success"
+    },
+    "MSTU": {
+      "last_updated": "2025-05-06T12:36:38.328991",
+      "status": "success"
+    },
+    "HYLS": {
+      "last_updated": "2025-05-06T12:36:39.574726",
+      "status": "success"
+    },
+    "TILT": {
+      "last_updated": "2025-05-06T12:36:40.739310",
+      "status": "success"
+    },
+    "NULV": {
+      "last_updated": "2025-05-06T12:36:41.957183",
+      "status": "success"
+    },
+    "HYDB": {
+      "last_updated": "2025-05-06T12:36:43.139051",
+      "status": "success"
+    },
+    "BSCU": {
+      "last_updated": "2025-05-06T12:36:44.330103",
+      "status": "success"
+    },
+    "IBTH": {
+      "last_updated": "2025-05-06T12:36:45.507350",
+      "status": "success"
+    },
+    "FLQM": {
+      "last_updated": "2025-05-06T12:36:46.669805",
+      "status": "success"
+    },
+    "ARKW": {
+      "last_updated": "2025-05-06T12:36:47.829890",
+      "status": "success"
+    },
+    "IYJ": {
+      "last_updated": "2025-05-06T12:36:49.025166",
+      "status": "success"
+    },
+    "COWG": {
+      "last_updated": "2025-05-06T12:36:50.151138",
+      "status": "success"
+    },
+    "AAAU": {
+      "last_updated": "2025-05-06T12:36:51.287034",
+      "status": "success"
+    },
+    "JTEK": {
+      "last_updated": "2025-05-06T12:36:52.392559",
+      "status": "success"
+    },
+    "NULG": {
+      "last_updated": "2025-05-06T12:36:53.536292",
+      "status": "success"
+    },
+    "DFGP": {
+      "last_updated": "2025-05-06T12:36:54.650923",
+      "status": "success"
+    },
+    "HODL": {
+      "last_updated": "2025-05-06T12:36:55.764910",
+      "status": "success"
+    },
+    "BALT": {
+      "last_updated": "2025-05-06T12:36:56.876897",
+      "status": "success"
+    },
+    "RING": {
+      "last_updated": "2025-05-06T12:36:58.065660",
+      "status": "success"
+    },
+    "FLQL": {
+      "last_updated": "2025-05-06T12:36:59.219446",
+      "status": "success"
+    },
+    "SMMD": {
+      "last_updated": "2025-05-06T12:37:00.414459",
+      "status": "success"
+    },
+    "QQQI": {
+      "last_updated": "2025-05-06T12:37:01.521767",
+      "status": "success"
+    },
+    "JPEF": {
+      "last_updated": "2025-05-06T12:37:02.628602",
+      "status": "success"
+    },
+    "ICLN": {
+      "last_updated": "2025-05-06T12:37:03.778959",
+      "status": "success"
+    },
+    "JBBB": {
+      "last_updated": "2025-05-06T12:37:04.903070",
+      "status": "success"
+    },
+    "BSVO": {
+      "last_updated": "2025-05-06T12:37:06.028325",
+      "status": "success"
+    },
+    "VRIG": {
+      "last_updated": "2025-05-06T12:37:07.316171",
+      "status": "success"
+    },
+    "BUFD": {
+      "last_updated": "2025-05-06T12:37:08.422202",
+      "status": "success"
+    },
+    "PTNQ": {
+      "last_updated": "2025-05-06T12:37:09.601539",
+      "status": "success"
+    },
+    "TMFC": {
+      "last_updated": "2025-05-06T12:37:10.744707",
+      "status": "success"
+    },
+    "FTHI": {
+      "last_updated": "2025-05-06T12:37:11.893196",
+      "status": "success"
+    },
+    "UNIY": {
+      "last_updated": "2025-05-06T12:37:13.012930",
+      "status": "success"
+    },
+    "PJAN": {
+      "last_updated": "2025-05-06T12:37:14.164049",
+      "status": "success"
+    },
+    "FEX": {
+      "last_updated": "2025-05-06T12:37:15.318341",
+      "status": "success"
+    },
+    "GLOV": {
+      "last_updated": "2025-05-06T12:37:16.460989",
+      "status": "success"
+    },
+    "USXF": {
+      "last_updated": "2025-05-06T12:37:17.613745",
+      "status": "success"
+    },
+    "BNDW": {
+      "last_updated": "2025-05-06T12:37:18.791779",
+      "status": "success"
+    },
+    "JPLD": {
+      "last_updated": "2025-05-06T12:37:19.917145",
+      "status": "success"
+    },
+    "PDP": {
+      "last_updated": "2025-05-06T12:37:21.049122",
+      "status": "success"
+    },
+    "USTB": {
+      "last_updated": "2025-05-06T12:37:22.203141",
+      "status": "success"
+    },
+    "VTC": {
+      "last_updated": "2025-05-06T12:37:23.343250",
+      "status": "success"
+    },
+    "DRSK": {
+      "last_updated": "2025-05-06T12:37:24.504973",
+      "status": "success"
+    },
+    "PKW": {
+      "last_updated": "2025-05-06T12:37:25.991367",
+      "status": "success"
+    },
+    "GSEW": {
+      "last_updated": "2025-05-06T12:37:27.147103",
+      "status": "success"
+    },
+    "FLEX": {
+      "last_updated": "2025-05-06T12:37:28.264170",
+      "status": "success"
+    },
+    "SUSC": {
+      "last_updated": "2025-05-06T12:37:29.391485",
+      "status": "success"
+    },
+    "QQQE": {
+      "last_updated": "2025-05-06T12:37:30.599761",
+      "status": "success"
+    },
+    "JEMA": {
+      "last_updated": "2025-05-06T12:37:31.728975",
+      "status": "success"
+    },
+    "PEY": {
+      "last_updated": "2025-05-06T12:37:32.972485",
+      "status": "success"
+    },
+    "IGRO": {
+      "last_updated": "2025-05-06T12:37:34.133414",
+      "status": "success"
+    },
+    "IGEB": {
+      "last_updated": "2025-05-06T12:37:35.368911",
+      "status": "success"
+    },
+    "FTA": {
+      "last_updated": "2025-05-06T12:37:36.543542",
+      "status": "success"
+    },
+    "NUSC": {
+      "last_updated": "2025-05-06T12:37:37.700717",
+      "status": "success"
+    },
+    "FNX": {
+      "last_updated": "2025-05-06T12:37:38.881446",
+      "status": "success"
+    },
+    "VBIL": {
+      "last_updated": "2025-05-06T12:37:39.955588",
+      "status": "success"
+    },
+    "FLBL": {
+      "last_updated": "2025-05-06T12:37:41.139205",
+      "status": "success"
+    },
+    "TLTW": {
+      "last_updated": "2025-05-06T12:37:42.253121",
+      "status": "success"
+    },
+    "ICOW": {
+      "last_updated": "2025-05-06T12:37:43.386164",
+      "status": "success"
+    },
+    "FTC": {
+      "last_updated": "2025-05-06T12:37:44.520106",
+      "status": "success"
+    },
+    "QTUM": {
+      "last_updated": "2025-05-06T12:37:45.652893",
+      "status": "success"
+    },
+    "QQXT": {
+      "last_updated": "2025-05-06T12:37:46.791162",
+      "status": "success"
+    },
+    "BUG": {
+      "last_updated": "2025-05-06T12:37:47.940653",
+      "status": "success"
+    },
+    "MEAR": {
+      "last_updated": "2025-05-06T12:37:49.090712",
+      "status": "success"
+    },
+    "FRDM": {
+      "last_updated": "2025-05-06T12:37:50.251608",
+      "status": "success"
+    },
+    "MSFT": {
+      "last_updated": "2025-05-06T13:05:40.584016",
+      "status": "success"
+    },
+    "AMZN": {
+      "last_updated": "2025-05-06T13:05:44.093405",
+      "status": "success"
+    },
+    "GOOGL": {
+      "last_updated": "2025-05-06T13:05:45.240903",
+      "status": "success"
+    },
+    "GOOG": {
+      "last_updated": "2025-05-06T13:05:46.389254",
+      "status": "success"
+    },
+    "META": {
+      "last_updated": "2025-05-06T13:05:47.507234",
+      "status": "success"
+    },
+    "TSLA": {
+      "last_updated": "2025-05-06T13:05:50.883936",
+      "status": "success"
+    },
+    "WMT": {
+      "last_updated": "2025-05-06T13:05:52.163150",
+      "status": "success"
+    },
+    "NFLX": {
+      "last_updated": "2025-05-06T13:06:00.288321",
+      "status": "success"
+    },
+    "COST": {
+      "last_updated": "2025-05-06T13:06:02.640431",
+      "status": "success"
+    },
+    "ORCL": {
+      "last_updated": "2025-05-06T13:06:04.120730",
+      "status": "success"
+    },
+    "HD": {
+      "last_updated": "2025-05-06T13:06:08.869529",
+      "status": "success"
+    },
+    "SAP": {
+      "last_updated": "2025-05-06T12:59:22.523925",
+      "status": "success"
+    },
+    "BABA": {
+      "last_updated": "2025-05-06T13:06:14.686512",
+      "status": "success"
+    },
+    "PLTR": {
+      "last_updated": "2025-05-06T13:06:15.786868",
+      "status": "success"
+    },
+    "CRM": {
+      "last_updated": "2025-05-06T13:06:20.379931",
+      "status": "success"
+    },
+    "IBM": {
+      "last_updated": "2025-05-06T13:06:26.370440",
+      "status": "success"
+    },
+    "MCD": {
+      "last_updated": "2025-05-06T13:06:27.577074",
+      "status": "success"
+    },
+    "NOW": {
+      "last_updated": "2025-05-06T13:06:33.551714",
+      "status": "success"
+    },
+    "ACN": {
+      "last_updated": "2025-05-06T13:06:39.752588",
+      "status": "success"
+    },
+    "INTU": {
+      "last_updated": "2025-05-06T13:00:00.533863",
+      "status": "success"
+    },
+    "DIS": {
+      "last_updated": "2025-05-06T13:06:49.384413",
+      "status": "success"
+    },
+    "ADBE": {
+      "last_updated": "2025-05-06T13:06:52.809641",
+      "status": "success"
+    },
+    "PDD": {
+      "last_updated": "2025-05-06T13:07:00.906286",
+      "status": "success"
+    },
+    "TJX": {
+      "last_updated": "2025-05-06T13:07:06.748818",
+      "status": "success"
+    },
+    "NEE": {
+      "last_updated": "2025-05-06T13:07:10.282419",
+      "status": "success"
+    },
+    "SPOT": {
+      "last_updated": "2025-05-06T13:07:19.547270",
+      "status": "success"
+    },
+    "CMCSA": {
+      "last_updated": "2025-05-06T13:07:21.827545",
+      "status": "success"
+    },
+    "SHOP": {
+      "last_updated": "2025-05-06T13:07:22.991434",
+      "status": "success"
+    },
+    "LOW": {
+      "last_updated": "2025-05-06T13:07:24.153132",
+      "status": "success"
+    },
+    "PANW": {
+      "last_updated": "2025-05-06T13:07:26.415893",
+      "status": "success"
+    },
+    "ADP": {
+      "last_updated": "2025-05-06T13:00:52.654387",
+      "status": "success"
+    },
+    "CRWD": {
+      "last_updated": "2025-05-06T13:07:35.709172",
+      "status": "success"
+    },
+    "CHTR": {
+      "last_updated": "2025-05-06T13:01:08.863424",
+      "status": "success"
+    },
+    "MSTR": {
+      "last_updated": "2025-05-06T13:07:40.273107",
+      "status": "success"
+    },
+    "APP": {
+      "last_updated": "2025-05-06T13:07:42.548589",
+      "status": "success"
+    },
+    "SO": {
+      "last_updated": "2025-05-06T13:07:53.125847",
+      "status": "success"
+    },
+    "SBUX": {
+      "last_updated": "2025-05-06T13:07:58.901105",
+      "status": "success"
+    },
+    "DUK": {
+      "last_updated": "2025-05-06T13:08:02.370587",
+      "status": "success"
+    },
+    "CTAS": {
+      "last_updated": "2025-05-06T13:01:50.986101",
+      "status": "success"
+    },
+    "CVS": {
+      "last_updated": "2025-05-06T13:08:11.748191",
+      "status": "success"
+    },
+    "CDNS": {
+      "last_updated": "2025-05-06T13:08:12.880290",
+      "status": "success"
+    },
+    "SE": {
+      "last_updated": "2025-05-06T13:08:14.008981",
+      "status": "success"
+    },
+    "FTNT": {
+      "last_updated": "2025-05-06T13:08:17.413670",
+      "status": "success"
+    },
+    "ABNB": {
+      "last_updated": "2025-05-06T13:08:18.541376",
+      "status": "success"
+    },
+    "CEG": {
+      "last_updated": "2025-05-06T13:08:20.806500",
+      "status": "success"
+    },
+    "INFY": {
+      "last_updated": "2025-05-06T13:08:25.562048",
+      "status": "success"
+    },
+    "WMB": {
+      "last_updated": "2025-05-06T13:08:28.010526",
+      "status": "success"
+    },
+    "SNPS": {
+      "last_updated": "2025-05-06T13:02:14.571748",
+      "status": "success"
+    },
+    "CMG": {
+      "last_updated": "2025-05-06T13:08:36.200121",
+      "status": "success"
+    },
+    "NGG": {
+      "last_updated": "2025-05-06T12:38:51.979209",
+      "status": "success"
+    },
+    "MAR": {
+      "last_updated": "2025-05-06T13:08:37.350574",
+      "status": "success"
+    },
+    "WDAY": {
+      "last_updated": "2025-05-06T13:02:30.063300",
+      "status": "success"
+    },
+    "RCL": {
+      "last_updated": "2025-05-06T13:08:50.340085",
+      "status": "success"
+    },
+    "AEP": {
+      "last_updated": "2025-05-06T13:08:58.712565",
+      "status": "success"
+    },
+    "CPRT": {
+      "last_updated": "2025-05-06T13:02:58.090466",
+      "status": "success"
+    },
+    "CMPGY": {
+      "last_updated": "2025-05-06T12:38:59.096033",
+      "status": "success"
+    },
+    "HLT": {
+      "last_updated": "2025-05-06T13:03:05.039331",
+      "status": "success"
+    },
+    "SNOW": {
+      "last_updated": "2025-05-06T13:03:11.950477",
+      "status": "success"
+    },
+    "CVNA": {
+      "last_updated": "2025-05-06T13:03:14.211847",
+      "status": "success"
+    },
+    "TEAM": {
+      "last_updated": "2025-05-06T13:03:15.360240",
+      "status": "success"
+    },
+    "PAYX": {
+      "last_updated": "2025-05-06T13:03:19.967735",
+      "status": "success"
+    },
+    "RBLX": {
+      "last_updated": "2025-05-06T13:03:39.963572",
+      "status": "success"
+    },
+    "SRE": {
+      "last_updated": "2025-05-06T13:03:41.116855",
+      "status": "success"
+    },
+    "KR": {
+      "last_updated": "2025-05-06T13:03:49.289051",
+      "status": "success"
+    },
+    "VST": {
+      "last_updated": "2025-05-06T13:03:52.679838",
+      "status": "success"
+    },
+    "EXC": {
+      "last_updated": "2025-05-06T13:03:57.553188",
+      "status": "success"
+    },
+    "D": {
+      "last_updated": "2025-05-06T13:03:58.793713",
+      "status": "success"
+    },
+    "ROST": {
+      "last_updated": "2025-05-06T13:04:02.329818",
+      "status": "success"
+    },
+    "TGT": {
+      "last_updated": "2025-05-06T13:04:09.269555",
+      "status": "success"
+    },
+    "FLUT": {
+      "last_updated": "2025-05-06T13:04:11.578719",
+      "status": "success"
+    },
+    "CPNG": {
+      "last_updated": "2025-05-06T13:04:12.723947",
+      "status": "success"
+    },
+    "GM": {
+      "last_updated": "2025-05-06T13:04:15.034027",
+      "status": "success"
+    },
+    "JD": {
+      "last_updated": "2025-05-06T13:04:16.186722",
+      "status": "success"
+    },
+    "NET": {
+      "last_updated": "2025-05-06T13:04:18.520419",
+      "status": "success"
+    },
+    "YUM": {
+      "last_updated": "2025-05-06T13:04:21.924528",
+      "status": "success"
+    },
+    "FIS": {
+      "last_updated": "2025-05-06T13:04:23.092401",
+      "status": "success"
+    },
+    "F": {
+      "last_updated": "2025-05-06T13:04:27.977551",
+      "status": "success"
+    },
+    "XEL": {
+      "last_updated": "2025-05-06T13:04:29.184442",
+      "status": "success"
+    },
+    "TCOM": {
+      "last_updated": "2025-05-06T13:04:31.504806",
+      "status": "success"
+    },
+    "PEG": {
+      "last_updated": "2025-05-06T13:04:32.695670",
+      "status": "success"
+    },
+    "ED": {
+      "last_updated": "2025-05-06T13:04:35.103000",
+      "status": "success"
+    },
+    "EA": {
+      "last_updated": "2025-05-06T13:04:36.622211",
+      "status": "success"
+    },
+    "DHI": {
+      "last_updated": "2025-05-06T13:04:42.449048",
+      "status": "success"
+    },
+    "TTWO": {
+      "last_updated": "2025-05-06T13:04:43.567047",
+      "status": "success"
+    },
+    "CTSH": {
+      "last_updated": "2025-05-06T13:04:45.818828",
+      "status": "success"
+    },
+    "PCG": {
+      "last_updated": "2025-05-06T13:04:51.620059",
+      "status": "success"
+    },
+    "ETR": {
+      "last_updated": "2025-05-06T13:04:56.392776",
+      "status": "success"
+    },
+    "DDOG": {
+      "last_updated": "2025-05-06T13:04:57.512095",
+      "status": "success"
+    },
+    "STLA": {
+      "last_updated": "2025-05-06T13:04:59.780553",
+      "status": "success"
+    },
+    "ZS": {
+      "last_updated": "2025-05-06T13:05:03.295985",
+      "status": "success"
+    },
+    "TRGP": {
+      "last_updated": "2025-05-06T13:05:05.601268",
+      "status": "success"
+    },
+    "WEC": {
+      "last_updated": "2025-05-06T13:05:09.178876",
+      "status": "success"
+    },
+    "CSGP": {
+      "last_updated": "2025-05-06T13:05:19.660521",
+      "status": "success"
+    },
+    "TSCDY": {
+      "last_updated": "2025-05-06T12:39:44.759699",
+      "status": "success"
+    },
+    "EBAY": {
+      "last_updated": "2025-05-06T13:05:25.444679",
+      "status": "success"
+    },
+    "BIDU": {
+      "last_updated": "2025-05-06T13:05:26.569720",
+      "status": "success"
+    },
+    "LYV": {
+      "last_updated": "2025-05-06T13:05:27.696159",
+      "status": "success"
+    },
+    "QSR": {
+      "last_updated": "2025-05-06T13:05:35.958279",
+      "status": "success"
+    },
+    "WIT": {
+      "last_updated": "2025-05-06T12:39:50.517555",
+      "status": "success"
+    },
+    "FWONK": {
+      "last_updated": "2025-05-06T12:39:51.690332",
+      "status": "success"
+    },
+    "LEN": {
+      "last_updated": "2025-05-06T12:39:52.977772",
+      "status": "success"
+    },
+    "AWK": {
+      "last_updated": "2025-05-06T12:39:54.174437",
+      "status": "success"
+    },
+    "TKO": {
+      "last_updated": "2025-05-06T12:39:55.535091",
+      "status": "success"
+    },
+    "TSCO": {
+      "last_updated": "2025-05-06T12:39:56.740838",
+      "status": "success"
+    },
+    "LVS": {
+      "last_updated": "2025-05-06T12:39:57.977717",
+      "status": "success"
+    },
+    "AEE": {
+      "last_updated": "2025-05-06T12:39:59.224949",
+      "status": "success"
+    },
+    "TTD": {
+      "last_updated": "2025-05-06T12:40:00.656182",
+      "status": "success"
+    },
+    "PPL": {
+      "last_updated": "2025-05-06T12:40:01.928083",
+      "status": "success"
+    },
+    "VRSN": {
+      "last_updated": "2025-05-06T12:40:03.100843",
+      "status": "success"
+    },
+    "LI": {
+      "last_updated": "2025-05-06T12:40:04.245536",
+      "status": "success"
+    },
+    "CNP": {
+      "last_updated": "2025-05-06T12:40:05.512550",
+      "status": "success"
+    },
+    "CCL": {
+      "last_updated": "2025-05-06T12:40:06.717926",
+      "status": "success"
+    },
+    "CUK": {
+      "last_updated": "2025-05-06T12:40:07.906104",
+      "status": "success"
+    },
+    "FE": {
+      "last_updated": "2025-05-06T12:40:09.094547",
+      "status": "success"
+    },
+    "SSEZY": {
+      "last_updated": "2025-05-06T12:40:10.259297",
+      "status": "success"
+    },
+    "GDDY": {
+      "last_updated": "2025-05-06T12:40:11.418269",
+      "status": "success"
+    },
+    "ZM": {
+      "last_updated": "2025-05-06T12:40:12.560026",
+      "status": "success"
+    },
+    "NRG": {
+      "last_updated": "2025-05-06T12:40:13.962476",
+      "status": "success"
+    },
+    "IOT": {
+      "last_updated": "2025-05-06T12:40:15.080078",
+      "status": "success"
+    },
+    "DUOL": {
+      "last_updated": "2025-05-06T12:40:16.181229",
+      "status": "success"
+    },
+    "CDW": {
+      "last_updated": "2025-05-06T12:40:17.654167",
+      "status": "success"
+    },
+    "CMS": {
+      "last_updated": "2025-05-06T12:40:18.946060",
+      "status": "success"
+    },
+    "FOXA": {
+      "last_updated": "2025-05-06T12:40:20.098283",
+      "status": "success"
+    },
+    "FOX": {
+      "last_updated": "2025-05-06T12:40:21.405381",
+      "status": "success"
+    },
+    "ES": {
+      "last_updated": "2025-05-06T12:40:22.620882",
+      "status": "success"
+    },
+    "WBD": {
+      "last_updated": "2025-05-06T12:40:23.773885",
+      "status": "success"
+    },
+    "EIX": {
+      "last_updated": "2025-05-06T12:40:25.034981",
+      "status": "success"
+    },
+    "PHM": {
+      "last_updated": "2025-05-06T12:40:26.270236",
+      "status": "success"
+    },
+    "TOST": {
+      "last_updated": "2025-05-06T12:40:27.396699",
+      "status": "success"
+    },
+    "TME": {
+      "last_updated": "2025-05-06T12:40:28.556216",
+      "status": "success"
+    },
+    "EXPE": {
+      "last_updated": "2025-05-06T12:40:29.685821",
+      "status": "success"
+    },
+    "RDDT": {
+      "last_updated": "2025-05-06T12:40:30.774584",
+      "status": "success"
+    },
+    "DG": {
+      "last_updated": "2025-05-06T12:40:32.396000",
+      "status": "success"
+    },
+    "WSM": {
+      "last_updated": "2025-05-06T12:40:33.569707",
+      "status": "success"
+    },
+    "OKTA": {
+      "last_updated": "2025-05-06T12:40:34.694219",
+      "status": "success"
+    },
+    "NTNX": {
+      "last_updated": "2025-05-06T12:40:35.835587",
+      "status": "success"
+    },
+    "SSNC": {
+      "last_updated": "2025-05-06T12:40:36.998417",
+      "status": "success"
+    },
+    "LDOS": {
+      "last_updated": "2025-05-06T12:40:38.287718",
+      "status": "success"
+    },
+    "CTRA": {
+      "last_updated": "2025-05-06T12:40:39.705111",
+      "status": "success"
+    },
+    "CCJ": {
+      "last_updated": "2025-05-06T12:40:40.870216",
+      "status": "success"
+    },
+    "MRVL": {
+      "last_updated": "2025-05-06T13:03:18.817706",
+      "status": "success"
+    },
+    "ZBRA": {
+      "last_updated": "2025-05-06T12:40:43.177365",
+      "status": "success"
+    },
+    "KLAC": {
+      "last_updated": "2025-05-06T12:40:44.385172",
+      "status": "success"
+    },
+    "ADI": {
+      "last_updated": "2025-05-06T13:07:56.585243",
+      "status": "success"
+    },
+    "NVDA": {
+      "last_updated": "2025-05-06T13:05:42.941166",
+      "status": "success"
+    },
+    "VUSA.L": {
+      "last_updated": "2025-05-06T12:40:49.903015",
+      "status": "success"
+    },
+    "SPY5.L": {
+      "last_updated": "2025-05-06T12:43:04.833801",
+      "status": "success"
+    },
+    "CSPX.L": {
+      "last_updated": "2025-05-06T12:41:01.722106",
+      "status": "success"
+    },
+    "EQQQ.L": {
+      "last_updated": "2025-05-06T12:44:02.839187",
+      "status": "success"
+    },
+    "VEUD.L": {
+      "last_updated": "2025-05-06T12:40:57.671789",
+      "status": "success"
+    },
+    "IWDA.L": {
+      "last_updated": "2025-05-06T12:41:04.091267",
+      "status": "success"
+    },
+    "VFEM.L": {
+      "last_updated": "2025-05-06T12:50:13.633297",
+      "status": "success"
+    },
+    "SXLF.L": {
+      "last_updated": "2025-05-06T12:41:46.854323",
+      "status": "success"
+    },
+    "IAUP.L": {
+      "last_updated": "2025-05-06T12:41:49.513180",
+      "status": "success"
+    },
+    "VUSD.L": {
+      "last_updated": "2025-05-06T12:41:54.424399",
+      "status": "success"
+    },
+    "VEUA.L": {
+      "last_updated": "2025-05-06T12:41:55.593167",
+      "status": "success"
+    },
+    "SDIA.L": {
+      "last_updated": "2025-05-06T12:41:58.061500",
+      "status": "success"
+    },
+    "SPXS.L": {
+      "last_updated": "2025-05-06T12:42:03.834786",
+      "status": "success"
+    },
+    "XLES.L": {
+      "last_updated": "2025-05-06T12:42:07.297487",
+      "status": "success"
+    },
+    "VEUR.L": {
+      "last_updated": "2025-05-06T12:47:13.490849",
+      "status": "success"
+    },
+    "EIMI.L": {
+      "last_updated": "2025-05-06T12:42:10.652916",
+      "status": "success"
+    },
+    "SGLN.L": {
+      "last_updated": "2025-05-06T12:42:14.008856",
+      "status": "success"
+    },
+    "VUAA.L": {
+      "last_updated": "2025-05-06T12:42:16.260226",
+      "status": "success"
+    },
+    "SGLP.L": {
+      "last_updated": "2025-05-06T12:42:19.735446",
+      "status": "success"
+    },
+    "ACWI.L": {
+      "last_updated": "2025-05-06T12:42:21.210393",
+      "status": "success"
+    },
+    "VWRA.L": {
+      "last_updated": "2025-05-06T12:42:23.540858",
+      "status": "success"
+    },
+    "SMGB.L": {
+      "last_updated": "2025-05-06T12:42:24.665610",
+      "status": "success"
+    },
+    "SXLY.L": {
+      "last_updated": "2025-05-06T12:42:25.809297",
+      "status": "success"
+    },
+    "SSAC.L": {
+      "last_updated": "2025-05-06T12:42:31.506480",
+      "status": "success"
+    },
+    "IUSA.L": {
+      "last_updated": "2025-05-06T12:42:34.236935",
+      "status": "success"
+    },
+    "VWRD.L": {
+      "last_updated": "2025-05-06T12:42:36.491046",
+      "status": "success"
+    },
+    "CNDX.L": {
+      "last_updated": "2025-05-06T12:42:44.012321",
+      "status": "success"
+    },
+    "ISF.L": {
+      "last_updated": "2025-05-06T12:42:46.279631",
+      "status": "success"
+    },
+    "XDWD.L": {
+      "last_updated": "2025-05-06T12:42:51.892840",
+      "status": "success"
+    },
+    "IB01.L": {
+      "last_updated": "2025-05-06T12:42:53.024025",
+      "status": "success"
+    },
+    "SLVR.L": {
+      "last_updated": "2025-05-06T12:42:55.390425",
+      "status": "success"
+    },
+    "IMEU.L": {
+      "last_updated": "2025-05-06T12:43:13.313244",
+      "status": "success"
+    },
+    "HMWO.L": {
+      "last_updated": "2025-05-06T12:43:15.545465",
+      "status": "success"
+    },
+    "IUAG.L": {
+      "last_updated": "2025-05-06T12:43:17.864587",
+      "status": "success"
+    },
+    "SWRD.L": {
+      "last_updated": "2025-05-06T12:43:21.293798",
+      "status": "success"
+    },
+    "500U.L": {
+      "last_updated": "2025-05-06T12:43:28.530354",
+      "status": "success"
+    },
+    "XDEW.L": {
+      "last_updated": "2025-05-06T12:43:31.146739",
+      "status": "success"
+    },
+    "IEAC.L": {
+      "last_updated": "2025-05-06T12:43:33.641034",
+      "status": "success"
+    },
+    "IUIT.L": {
+      "last_updated": "2025-05-06T12:43:36.068506",
+      "status": "success"
+    },
+    "JREU.L": {
+      "last_updated": "2025-05-06T12:43:38.465246",
+      "status": "success"
+    },
+    "SUSE.L": {
+      "last_updated": "2025-05-06T12:43:40.994228",
+      "status": "success"
+    },
+    "IMEA.L": {
+      "last_updated": "2025-05-06T12:43:43.245702",
+      "status": "success"
+    },
+    "CW8U.L": {
+      "last_updated": "2025-05-06T12:43:48.005668",
+      "status": "success"
+    },
+    "EUE.L": {
+      "last_updated": "2025-05-06T12:45:33.868676",
+      "status": "success"
+    },
+    "I500.L": {
+      "last_updated": "2025-05-06T12:43:56.665605",
+      "status": "success"
+    },
+    "CIBR.L": {
+      "last_updated": "2025-05-06T12:43:57.780600",
+      "status": "success"
+    },
+    "SPX5.L": {
+      "last_updated": "2025-05-06T12:44:05.060069",
+      "status": "success"
+    },
+    "GLDA.L": {
+      "last_updated": "2025-05-06T12:44:11.629941",
+      "status": "success"
+    },
+    "SUWS.L": {
+      "last_updated": "2025-05-06T12:44:13.977411",
+      "status": "success"
+    },
+    "IWRD.L": {
+      "last_updated": "2025-05-06T12:44:16.185302",
+      "status": "success"
+    },
+    "XZMU.L": {
+      "last_updated": "2025-05-06T12:44:18.445184",
+      "status": "success"
+    },
+    "XDAX.L": {
+      "last_updated": "2025-05-06T12:44:21.905809",
+      "status": "success"
+    },
+    "USCR.L": {
+      "last_updated": "2025-05-06T12:44:23.026406",
+      "status": "success"
+    },
+    "IUES.L": {
+      "last_updated": "2025-05-06T12:44:24.146883",
+      "status": "success"
+    },
+    "HSPX.L": {
+      "last_updated": "2025-05-06T12:44:30.000091",
+      "status": "success"
+    },
+    "IBTM.L": {
+      "last_updated": "2025-05-06T12:46:44.743317",
+      "status": "success"
+    },
+    "MXWO.L": {
+      "last_updated": "2025-05-06T12:44:35.658681",
+      "status": "success"
+    },
+    "XGDU.L": {
+      "last_updated": "2025-05-06T12:44:37.824299",
+      "status": "success"
+    },
+    "JREG.L": {
+      "last_updated": "2025-05-06T12:44:40.123510",
+      "status": "success"
+    },
+    "XMME.L": {
+      "last_updated": "2025-05-06T12:44:42.318292",
+      "status": "success"
+    },
+    "PHAU.L": {
+      "last_updated": "2025-05-06T12:44:44.471433",
+      "status": "success"
+    },
+    "IEGA.L": {
+      "last_updated": "2025-05-06T12:51:07.127164",
+      "status": "success"
+    },
+    "CBU7.L": {
+      "last_updated": "2025-05-06T12:44:50.546378",
+      "status": "success"
+    },
+    "VHYD.L": {
+      "last_updated": "2025-05-06T12:44:52.732030",
+      "status": "success"
+    },
+    "IJPA.L": {
+      "last_updated": "2025-05-06T12:44:55.949241",
+      "status": "success"
+    },
+    "SPXD.L": {
+      "last_updated": "2025-05-06T12:44:58.366676",
+      "status": "success"
+    },
+    "IHYG.L": {
+      "last_updated": "2025-05-06T12:45:00.597244",
+      "status": "success"
+    },
+    "XSPU.L": {
+      "last_updated": "2025-05-06T12:45:02.825343",
+      "status": "success"
+    },
+    "CSX5.L": {
+      "last_updated": "2025-05-06T12:45:05.019885",
+      "status": "success"
+    },
+    "IBTA.L": {
+      "last_updated": "2025-05-06T12:45:17.017382",
+      "status": "success"
+    },
+    "XESC.L": {
+      "last_updated": "2025-05-06T12:51:10.657195",
+      "status": "success"
+    },
+    "XESX.L": {
+      "last_updated": "2025-05-06T12:45:19.251766",
+      "status": "success"
+    },
+    "XMEU.L": {
+      "last_updated": "2025-05-06T12:45:21.437232",
+      "status": "success"
+    },
+    "ARKK.L": {
+      "last_updated": "2025-05-06T12:45:22.572726",
+      "status": "success"
+    },
+    "GDXJ.L": {
+      "last_updated": "2025-05-06T12:45:23.707355",
+      "status": "success"
+    },
+    "ECRP.L": {
+      "last_updated": "2025-05-06T12:45:24.792646",
+      "status": "success"
+    },
+    "MXUS.L": {
+      "last_updated": "2025-05-06T12:45:25.917622",
+      "status": "success"
+    },
+    "WLDS.L": {
+      "last_updated": "2025-05-06T12:45:29.399834",
+      "status": "success"
+    },
+    "MWRD.L": {
+      "last_updated": "2025-05-06T12:45:30.536272",
+      "status": "success"
+    },
+    "CEU.L": {
+      "last_updated": "2025-05-06T12:45:32.665019",
+      "status": "success"
+    },
+    "IDEM.L": {
+      "last_updated": "2025-05-06T12:45:36.127051",
+      "status": "success"
+    },
+    "SDIG.L": {
+      "last_updated": "2025-05-06T12:45:37.274966",
+      "status": "success"
+    },
+    "XZW0.L": {
+      "last_updated": "2025-05-06T12:45:42.123084",
+      "status": "success"
+    },
+    "VUKE.L": {
+      "last_updated": "2025-05-06T12:51:48.558161",
+      "status": "success"
+    },
+    "EMGU.L": {
+      "last_updated": "2025-05-06T12:45:44.397254",
+      "status": "success"
+    },
+    "LCJP.L": {
+      "last_updated": "2025-05-06T12:45:46.555436",
+      "status": "success"
+    },
+    "XWD1.L": {
+      "last_updated": "2025-05-06T12:45:47.641363",
+      "status": "success"
+    },
+    "ACWD.L": {
+      "last_updated": "2025-05-06T12:46:00.392427",
+      "status": "success"
+    },
+    "CMCI.L": {
+      "last_updated": "2025-05-06T12:46:01.472273",
+      "status": "success"
+    },
+    "IE15.L": {
+      "last_updated": "2025-05-06T12:46:03.683211",
+      "status": "success"
+    },
+    "SUOE.L": {
+      "last_updated": "2025-05-06T12:46:04.797931",
+      "status": "success"
+    },
+    "SPY4.L": {
+      "last_updated": "2025-05-06T12:46:12.256001",
+      "status": "success"
+    },
+    "XAIX.L": {
+      "last_updated": "2025-05-06T12:46:15.882110",
+      "status": "success"
+    },
+    "XWTS.L": {
+      "last_updated": "2025-05-06T12:46:18.078229",
+      "status": "success"
+    },
+    "LQDE.L": {
+      "last_updated": "2025-05-06T12:46:20.302641",
+      "status": "success"
+    },
+    "IWDE.L": {
+      "last_updated": "2025-05-06T12:46:27.482919",
+      "status": "success"
+    },
+    "XDW0.L": {
+      "last_updated": "2025-05-06T12:46:29.684061",
+      "status": "success"
+    },
+    "EEUD.L": {
+      "last_updated": "2025-05-06T12:46:33.243497",
+      "status": "success"
+    },
+    "XMUS.L": {
+      "last_updated": "2025-05-06T12:46:38.134927",
+      "status": "success"
+    },
+    "IDTM.L": {
+      "last_updated": "2025-05-06T12:46:40.337468",
+      "status": "success"
+    },
+    "SEMA.L": {
+      "last_updated": "2025-05-06T12:46:51.489704",
+      "status": "success"
+    },
+    "XSPX.L": {
+      "last_updated": "2025-05-06T12:46:53.663939",
+      "status": "success"
+    },
+    "EIMU.L": {
+      "last_updated": "2025-05-06T12:46:57.493582",
+      "status": "success"
+    },
+    "IUAA.L": {
+      "last_updated": "2025-05-06T12:46:58.609893",
+      "status": "success"
+    },
+    "VHVG.L": {
+      "last_updated": "2025-05-06T12:47:00.847609",
+      "status": "success"
+    },
+    "ANXU.L": {
+      "last_updated": "2025-05-06T12:47:08.046071",
+      "status": "success"
+    },
+    "IWQU.L": {
+      "last_updated": "2025-05-06T12:47:10.208919",
+      "status": "success"
+    },
+    "EEUR.L": {
+      "last_updated": "2025-05-06T12:47:11.288863",
+      "status": "success"
+    },
+    "CACX.L": {
+      "last_updated": "2025-05-06T12:47:15.894291",
+      "status": "success"
+    },
+    "IESE.L": {
+      "last_updated": "2025-05-06T12:47:24.206367",
+      "status": "success"
+    },
+    "GBS.L": {
+      "last_updated": "2025-05-06T12:47:27.436173",
+      "status": "success"
+    },
+    "IGLT.L": {
+      "last_updated": "2025-05-06T12:47:30.681739",
+      "status": "success"
+    },
+    "XZWG.L": {
+      "last_updated": "2025-05-06T12:47:31.777950",
+      "status": "success"
+    },
+    "LQDA.L": {
+      "last_updated": "2025-05-06T12:47:32.914272",
+      "status": "success"
+    },
+    "R2US.L": {
+      "last_updated": "2025-05-06T12:47:35.080006",
+      "status": "success"
+    },
+    "ERNE.L": {
+      "last_updated": "2025-05-06T12:47:42.298166",
+      "status": "success"
+    },
+    "MVOL.L": {
+      "last_updated": "2025-05-06T12:53:19.714863",
+      "status": "success"
+    },
+    "IWVL.L": {
+      "last_updated": "2025-05-06T12:47:49.560392",
+      "status": "success"
+    },
+    "SUAS.L": {
+      "last_updated": "2025-05-06T12:47:51.724554",
+      "status": "success"
+    },
+    "VEVE.L": {
+      "last_updated": "2025-05-06T12:47:53.914542",
+      "status": "success"
+    },
+    "UDVD.L": {
+      "last_updated": "2025-05-06T12:47:59.944104",
+      "status": "success"
+    },
+    "VECA.L": {
+      "last_updated": "2025-05-06T12:48:04.063043",
+      "status": "success"
+    },
+    "XSX6.L": {
+      "last_updated": "2025-05-06T12:48:05.159828",
+      "status": "success"
+    },
+    "CUKX.L": {
+      "last_updated": "2025-05-06T12:48:20.189653",
+      "status": "success"
+    },
+    "SDIV.L": {
+      "last_updated": "2025-05-06T12:48:21.307112",
+      "status": "success"
+    },
+    "IEBC.L": {
+      "last_updated": "2025-05-06T12:50:40.133678",
+      "status": "success"
+    },
+    "VERX.L": {
+      "last_updated": "2025-05-06T12:48:24.806770",
+      "status": "success"
+    },
+    "SPYY.L": {
+      "last_updated": "2025-05-06T12:48:26.952256",
+      "status": "success"
+    },
+    "CPJ1.L": {
+      "last_updated": "2025-05-06T12:48:29.155406",
+      "status": "success"
+    },
+    "AEMC.L": {
+      "last_updated": "2025-05-06T12:51:33.597063",
+      "status": "success"
+    },
+    "SUSS.L": {
+      "last_updated": "2025-05-06T12:48:36.062534",
+      "status": "success"
+    },
+    "CEU2.L": {
+      "last_updated": "2025-05-06T12:48:40.884253",
+      "status": "success"
+    },
+    "JREE.L": {
+      "last_updated": "2025-05-06T12:48:56.429573",
+      "status": "success"
+    },
+    "UB12.L": {
+      "last_updated": "2025-05-06T12:48:57.522042",
+      "status": "success"
+    },
+    "IHYU.L": {
+      "last_updated": "2025-05-06T12:48:59.781530",
+      "status": "success"
+    },
+    "RBTX.L": {
+      "last_updated": "2025-05-06T12:49:03.394779",
+      "status": "success"
+    },
+    "CMOD.L": {
+      "last_updated": "2025-05-06T12:49:05.613211",
+      "status": "success"
+    },
+    "MXUD.L": {
+      "last_updated": "2025-05-06T12:49:07.857465",
+      "status": "success"
+    },
+    "GSPX.L": {
+      "last_updated": "2025-05-06T12:49:09.016538",
+      "status": "success"
+    },
+    "SUES.L": {
+      "last_updated": "2025-05-06T12:49:37.520428",
+      "status": "success"
+    },
+    "IWFM.L": {
+      "last_updated": "2025-05-06T12:49:39.688991",
+      "status": "success"
+    },
+    "VUCP.L": {
+      "last_updated": "2025-05-06T12:49:41.906567",
+      "status": "success"
+    },
+    "FLOT.L": {
+      "last_updated": "2025-05-06T12:49:43.051496",
+      "status": "success"
+    },
+    "IGLS.L": {
+      "last_updated": "2025-05-06T12:51:08.300855",
+      "status": "success"
+    },
+    "XDEV.L": {
+      "last_updated": "2025-05-06T12:50:05.363904",
+      "status": "success"
+    },
+    "ITPS.L": {
+      "last_updated": "2025-05-06T12:50:07.555368",
+      "status": "success"
+    },
+    "ISPY.L": {
+      "last_updated": "2025-05-06T12:50:27.278123",
+      "status": "success"
+    },
+    "VECP.L": {
+      "last_updated": "2025-05-06T12:50:33.333504",
+      "status": "success"
+    },
+    "IBGE.L": {
+      "last_updated": "2025-05-06T12:50:36.789615",
+      "status": "success"
+    },
+    "BOTZ.L": {
+      "last_updated": "2025-05-06T12:50:41.302476",
+      "status": "success"
+    },
+    "XMWD.L": {
+      "last_updated": "2025-05-06T12:50:43.499655",
+      "status": "success"
+    },
+    "EMUG.L": {
+      "last_updated": "2025-05-06T12:50:47.244662",
+      "status": "success"
+    },
+    "IUHC.L": {
+      "last_updated": "2025-05-06T12:50:52.105572",
+      "status": "success"
+    },
+    "IUFS.L": {
+      "last_updated": "2025-05-06T12:50:58.613883",
+      "status": "success"
+    },
+    "XZMJ.L": {
+      "last_updated": "2025-05-06T12:51:05.887831",
+      "status": "success"
+    },
+    "VJPN.L": {
+      "last_updated": "2025-05-06T12:51:12.908695",
+      "status": "success"
+    },
+    "IH2O.L": {
+      "last_updated": "2025-05-06T12:51:15.113934",
+      "status": "success"
+    },
+    "HMEF.L": {
+      "last_updated": "2025-05-06T12:51:17.348017",
+      "status": "success"
+    },
+    "MEUD.L": {
+      "last_updated": "2025-05-06T12:51:20.808534",
+      "status": "success"
+    },
+    "UC44.L": {
+      "last_updated": "2025-05-06T12:51:21.935904",
+      "status": "success"
+    },
+    "SPGP.L": {
+      "last_updated": "2025-05-06T12:51:24.123437",
+      "status": "success"
+    },
+    "VNRT.L": {
+      "last_updated": "2025-05-06T12:51:26.364051",
+      "status": "success"
+    },
+    "IDTL.L": {
+      "last_updated": "2025-05-06T12:51:27.498751",
+      "status": "success"
+    },
+    "UKSR.L": {
+      "last_updated": "2025-05-06T12:51:32.436012",
+      "status": "success"
+    },
+    "VUSC.L": {
+      "last_updated": "2025-05-06T12:51:35.864667",
+      "status": "success"
+    },
+    "BNKE.L": {
+      "last_updated": "2025-05-06T12:51:39.504177",
+      "status": "success"
+    },
+    "SMH.L": {
+      "last_updated": "2025-05-06T12:51:43.944307",
+      "status": "success"
+    },
+    "FEMR.L": {
+      "last_updated": "2025-05-06T12:51:47.415243",
+      "status": "success"
+    },
+    "VAGP.L": {
+      "last_updated": "2025-05-06T12:51:49.730343",
+      "status": "success"
+    },
+    "VMID.L": {
+      "last_updated": "2025-05-06T12:51:50.905248",
+      "status": "success"
+    },
+    "MINT.L": {
+      "last_updated": "2025-05-06T12:51:52.076109",
+      "status": "success"
+    },
+    "NATO.L": {
+      "last_updated": "2025-05-06T12:51:54.452601",
+      "status": "success"
+    },
+    "EMHG.L": {
+      "last_updated": "2025-05-06T12:51:55.861172",
+      "status": "success"
+    },
+    "PABU.L": {
+      "last_updated": "2025-05-06T12:51:57.177699",
+      "status": "success"
+    },
+    "PABG.L": {
+      "last_updated": "2025-05-06T12:51:59.703002",
+      "status": "success"
+    },
+    "IS15.L": {
+      "last_updated": "2025-05-06T12:52:08.996506",
+      "status": "success"
+    },
+    "IEAG.L": {
+      "last_updated": "2025-05-06T12:52:10.137059",
+      "status": "success"
+    },
+    "PHAG.L": {
+      "last_updated": "2025-05-06T12:52:13.360586",
+      "status": "success"
+    },
+    "IUVD.L": {
+      "last_updated": "2025-05-06T12:52:15.553725",
+      "status": "success"
+    },
+    "TRES.L": {
+      "last_updated": "2025-05-06T12:52:16.727106",
+      "status": "success"
+    },
+    "EMXC.L": {
+      "last_updated": "2025-05-06T12:52:17.861473",
+      "status": "success"
+    },
+    "GBSP.L": {
+      "last_updated": "2025-05-06T12:52:22.368200",
+      "status": "success"
+    },
+    "IUQA.L": {
+      "last_updated": "2025-05-06T12:52:24.585089",
+      "status": "success"
+    },
+    "PRIJ.L": {
+      "last_updated": "2025-05-06T12:52:26.818721",
+      "status": "success"
+    },
+    "GDIG.L": {
+      "last_updated": "2025-05-06T12:52:29.108499",
+      "status": "success"
+    },
+    "XGLD.L": {
+      "last_updated": "2025-05-06T12:52:32.659528",
+      "status": "success"
+    },
+    "CSUS.L": {
+      "last_updated": "2025-05-06T12:52:34.818990",
+      "status": "success"
+    },
+    "ICOV.L": {
+      "last_updated": "2025-05-06T12:52:37.244158",
+      "status": "success"
+    },
+    "IMBS.L": {
+      "last_updated": "2025-05-06T12:52:38.390129",
+      "status": "success"
+    },
+    "ISP6.L": {
+      "last_updated": "2025-05-06T12:52:40.619329",
+      "status": "success"
+    },
+    "INRG.L": {
+      "last_updated": "2025-05-06T12:52:44.103671",
+      "status": "success"
+    },
+    "IEVL.L": {
+      "last_updated": "2025-05-06T12:52:48.879341",
+      "status": "success"
+    },
+    "VUTA.L": {
+      "last_updated": "2025-05-06T12:52:49.997874",
+      "status": "success"
+    },
+    "CRPH.L": {
+      "last_updated": "2025-05-06T12:52:51.140830",
+      "status": "success"
+    },
+    "IBTE.L": {
+      "last_updated": "2025-05-06T12:52:52.257631",
+      "status": "success"
+    },
+    "XMUJ.L": {
+      "last_updated": "2025-05-06T12:52:55.775199",
+      "status": "success"
+    },
+    "CUS1.L": {
+      "last_updated": "2025-05-06T12:53:00.592182",
+      "status": "success"
+    },
+    "GILS.L": {
+      "last_updated": "2025-05-06T12:53:03.020824",
+      "status": "success"
+    },
+    "AGGG.L": {
+      "last_updated": "2025-05-06T12:53:04.227223",
+      "status": "success"
+    },
+    "XUFN.L": {
+      "last_updated": "2025-05-06T12:53:06.512480",
+      "status": "success"
+    },
+    "WATR.L": {
+      "last_updated": "2025-05-06T12:53:08.725347",
+      "status": "success"
+    },
+    "PHGP.L": {
+      "last_updated": "2025-05-06T12:53:12.386283",
+      "status": "success"
+    },
+    "IWMO.L": {
+      "last_updated": "2025-05-06T12:53:22.078187",
+      "status": "success"
+    },
+    "AZN.L": {
+      "last_updated": "2025-05-06T12:53:28.106713",
+      "status": "success"
+    },
+    "HSBA.L": {
+      "last_updated": "2025-05-06T12:53:29.293102",
+      "status": "success"
+    },
+    "SHEL.L": {
+      "last_updated": "2025-05-06T12:53:30.437761",
+      "status": "success"
+    },
+    "ULVR.L": {
+      "last_updated": "2025-05-06T12:53:31.601148",
+      "status": "success"
+    },
+    "TTE.L": {
+      "last_updated": "2025-05-06T12:53:32.770258",
+      "status": "success"
+    },
+    "RIO.L": {
+      "last_updated": "2025-05-06T12:53:33.928449",
+      "status": "success"
+    },
+    "REL.L": {
+      "last_updated": "2025-05-06T12:53:35.107846",
+      "status": "success"
+    },
+    "BATS.L": {
+      "last_updated": "2025-05-06T12:53:36.290616",
+      "status": "success"
+    },
+    "RR.L": {
+      "last_updated": "2025-05-06T12:53:37.443432",
+      "status": "success"
+    },
+    "BVA.L": {
+      "last_updated": "2025-05-06T12:53:38.608856",
+      "status": "success"
+    },
+    "GSK.L": {
+      "last_updated": "2025-05-06T12:53:39.824748",
+      "status": "success"
+    },
+    "BP.L": {
+      "last_updated": "2025-05-06T12:53:41.002498",
+      "status": "success"
+    },
+    "NG.L": {
+      "last_updated": "2025-05-06T12:53:42.137565",
+      "status": "success"
+    },
+    "BA.L": {
+      "last_updated": "2025-05-06T12:53:43.308518",
+      "status": "success"
+    },
+    "DGE.L": {
+      "last_updated": "2025-05-06T12:53:44.467735",
+      "status": "success"
+    },
+    "CPG.L": {
+      "last_updated": "2025-05-06T12:53:45.611202",
+      "status": "success"
+    },
+    "BARC.L": {
+      "last_updated": "2025-05-06T12:53:46.810843",
+      "status": "success"
+    },
+    "LLOY.L": {
+      "last_updated": "2025-05-06T12:53:47.973034",
+      "status": "success"
+    },
+    "III.L": {
+      "last_updated": "2025-05-06T12:53:49.131700",
+      "status": "success"
+    },
+    "NWG.L": {
+      "last_updated": "2025-05-06T12:53:50.319143",
+      "status": "success"
+    },
+    "HLN.L": {
+      "last_updated": "2025-05-06T12:53:51.448350",
+      "status": "success"
+    },
+    "EXPN.L": {
+      "last_updated": "2025-05-06T12:53:52.606912",
+      "status": "success"
+    },
+    "RKT.L": {
+      "last_updated": "2025-05-06T12:53:53.787579",
+      "status": "success"
+    },
+    "GLEN.L": {
+      "last_updated": "2025-05-06T12:53:54.946106",
+      "status": "success"
+    },
+    "AAL.L": {
+      "last_updated": "2025-05-06T12:53:56.175711",
+      "status": "success"
+    },
+    "STAN.L": {
+      "last_updated": "2025-05-06T12:53:57.343012",
+      "status": "success"
+    },
+    "IMB.L": {
+      "last_updated": "2025-05-06T12:53:58.495684",
+      "status": "success"
+    },
+    "TSCO.L": {
+      "last_updated": "2025-05-06T12:53:59.717024",
+      "status": "success"
+    },
+    "PRU.L": {
+      "last_updated": "2025-05-06T12:54:00.915291",
+      "status": "success"
+    },
+    "SSE.L": {
+      "last_updated": "2025-05-06T12:54:02.073789",
+      "status": "success"
+    },
+    "VOD.L": {
+      "last_updated": "2025-05-06T12:54:03.340561",
+      "status": "success"
+    },
+    "ANTO.L": {
+      "last_updated": "2025-05-06T12:54:04.507150",
+      "status": "success"
+    },
+    "BT-A.L": {
+      "last_updated": "2025-05-06T12:54:05.686945",
+      "status": "success"
+    },
+    "AV.L": {
+      "last_updated": "2025-05-06T12:54:06.840361",
+      "status": "success"
+    },
+    "WISE.L": {
+      "last_updated": "2025-05-06T12:54:07.943910",
+      "status": "success"
+    },
+    "LGEN.L": {
+      "last_updated": "2025-05-06T12:54:09.108833",
+      "status": "success"
+    },
+    "IAG.L": {
+      "last_updated": "2025-05-06T12:54:10.231487",
+      "status": "success"
+    },
+    "SGE.L": {
+      "last_updated": "2025-05-06T12:54:11.431553",
+      "status": "success"
+    },
+    "SMT.L": {
+      "last_updated": "2025-05-06T12:54:13.010590",
+      "status": "success"
+    },
+    "INF.L": {
+      "last_updated": "2025-05-06T12:54:14.229445",
+      "status": "success"
+    },
+    "SN.L": {
+      "last_updated": "2025-05-06T12:54:15.398097",
+      "status": "success"
+    },
+    "SGRO.L": {
+      "last_updated": "2025-05-06T12:54:16.561929",
+      "status": "success"
+    },
+    "RTO.L": {
+      "last_updated": "2025-05-06T12:54:17.716950",
+      "status": "success"
+    },
+    "CNA.L": {
+      "last_updated": "2025-05-06T12:54:18.944116",
+      "status": "success"
+    },
+    "BNZL.L": {
+      "last_updated": "2025-05-06T12:54:20.100622",
+      "status": "success"
+    },
+    "PSON.L": {
+      "last_updated": "2025-05-06T12:54:21.276334",
+      "status": "success"
+    },
+    "MKS.L": {
+      "last_updated": "2025-05-06T12:54:22.442832",
+      "status": "success"
+    },
+    "UU.L": {
+      "last_updated": "2025-05-06T12:54:23.653292",
+      "status": "success"
+    },
+    "AUTO.L": {
+      "last_updated": "2025-05-06T12:54:24.780412",
+      "status": "success"
+    },
+    "WPP.L": {
+      "last_updated": "2025-05-06T12:54:28.498516",
+      "status": "success"
+    },
+    "SMIN.L": {
+      "last_updated": "2025-05-06T12:54:29.660375",
+      "status": "success"
+    },
+    "AAF.L": {
+      "last_updated": "2025-05-06T12:54:30.792130",
+      "status": "success"
+    },
+    "SBRY.L": {
+      "last_updated": "2025-05-06T12:54:31.953419",
+      "status": "success"
+    },
+    "PHNX.L": {
+      "last_updated": "2025-05-06T12:54:33.113078",
+      "status": "success"
+    },
+    "RMV.L": {
+      "last_updated": "2025-05-06T12:54:34.251284",
+      "status": "success"
+    },
+    "MRO.L": {
+      "last_updated": "2025-05-06T12:54:35.462774",
+      "status": "success"
+    },
+    "BEZ.L": {
+      "last_updated": "2025-05-06T12:54:36.621213",
+      "status": "success"
+    },
+    "ICG.L": {
+      "last_updated": "2025-05-06T12:54:37.836694",
+      "status": "success"
+    },
+    "STJ.L": {
+      "last_updated": "2025-05-06T12:54:39.033977",
+      "status": "success"
+    },
+    "CTEC.L": {
+      "last_updated": "2025-05-06T12:54:40.180248",
+      "status": "success"
+    },
+    "SDR.L": {
+      "last_updated": "2025-05-06T12:54:41.358566",
+      "status": "success"
+    },
+    "KGF.L": {
+      "last_updated": "2025-05-06T12:54:42.542660",
+      "status": "success"
+    },
+    "MNG.L": {
+      "last_updated": "2025-05-06T12:54:43.721769",
+      "status": "success"
+    },
+    "LAND.L": {
+      "last_updated": "2025-05-06T12:54:44.904572",
+      "status": "success"
+    },
+    "HWDN.L": {
+      "last_updated": "2025-05-06T12:54:46.064601",
+      "status": "success"
+    },
+    "PSN.L": {
+      "last_updated": "2025-05-06T12:54:47.386395",
+      "status": "success"
+    },
+    "ENT.L": {
+      "last_updated": "2025-05-06T12:54:48.644692",
+      "status": "success"
+    },
+    "TW.L": {
+      "last_updated": "2025-05-06T12:54:49.943463",
+      "status": "success"
+    },
+    "UTG.L": {
+      "last_updated": "2025-05-06T12:54:51.603221",
+      "status": "success"
+    },
+    "BAB.L": {
+      "last_updated": "2025-05-06T12:54:53.002884",
+      "status": "success"
+    },
+    "JD.L": {
+      "last_updated": "2025-05-06T12:54:54.302924",
+      "status": "success"
+    },
+    "BLND.L": {
+      "last_updated": "2025-05-06T12:54:55.491984",
+      "status": "success"
+    },
+    "LMP.L": {
+      "last_updated": "2025-05-06T12:54:56.623640",
+      "status": "success"
+    },
+    "EZJ.L": {
+      "last_updated": "2025-05-06T12:54:57.808494",
+      "status": "success"
+    },
+    "HSX.L": {
+      "last_updated": "2025-05-06T12:54:58.946788",
+      "status": "success"
+    },
+    "IGG.L": {
+      "last_updated": "2025-05-06T12:55:00.101025",
+      "status": "success"
+    },
+    "DLG.L": {
+      "last_updated": "2025-05-06T12:55:01.232663",
+      "status": "success"
+    },
+    "BBOX.L": {
+      "last_updated": "2025-05-06T12:55:02.364476",
+      "status": "success"
+    },
+    "PCT.L": {
+      "last_updated": "2025-05-06T12:55:03.496129",
+      "status": "success"
+    },
+    "IDS.L": {
+      "last_updated": "2025-05-06T12:55:04.634474",
+      "status": "success"
+    },
+    "BME.L": {
+      "last_updated": "2025-05-06T12:55:05.761367",
+      "status": "success"
+    },
+    "3IN.L": {
+      "last_updated": "2025-05-06T12:55:06.919645",
+      "status": "success"
+    },
+    "ITV.L": {
+      "last_updated": "2025-05-06T12:55:08.119412",
+      "status": "success"
+    },
+    "SHC.L": {
+      "last_updated": "2025-05-06T12:55:11.725606",
+      "status": "success"
+    },
+    "JGGI.L": {
+      "last_updated": "2025-05-06T12:55:13.044174",
+      "status": "success"
+    },
+    "HBR.L": {
+      "last_updated": "2025-05-06T12:55:14.581941",
+      "status": "success"
+    },
+    "UKW.L": {
+      "last_updated": "2025-05-06T12:55:15.957792",
+      "status": "success"
+    },
+    "BRBY.L": {
+      "last_updated": "2025-05-06T12:55:17.128006",
+      "status": "success"
+    },
+    "ROR.L": {
+      "last_updated": "2025-05-06T12:55:18.330733",
+      "status": "success"
+    },
+    "INCH.L": {
+      "last_updated": "2025-05-06T12:55:19.509576",
+      "status": "success"
+    },
+    "ROO.L": {
+      "last_updated": "2025-05-06T12:55:20.615058",
+      "status": "success"
+    },
+    "PTEC.L": {
+      "last_updated": "2025-05-06T12:55:21.797984",
+      "status": "success"
+    },
+    "PNN.L": {
+      "last_updated": "2025-05-06T12:55:22.963023",
+      "status": "success"
+    },
+    "HICL.L": {
+      "last_updated": "2025-05-06T12:55:24.154930",
+      "status": "success"
+    },
+    "OCDO.L": {
+      "last_updated": "2025-05-06T12:55:25.256540",
+      "status": "success"
+    },
+    "QQ.L": {
+      "last_updated": "2025-05-06T12:55:26.401962",
+      "status": "success"
+    },
+    "DRX.L": {
+      "last_updated": "2025-05-06T12:55:27.566525",
+      "status": "success"
+    },
+    "INPP.L": {
+      "last_updated": "2025-05-06T12:55:28.755574",
+      "status": "success"
+    },
+    "TRIG.L": {
+      "last_updated": "2025-05-06T12:55:29.883443",
+      "status": "success"
+    },
+    "EMG.L": {
+      "last_updated": "2025-05-06T12:55:31.047544",
+      "status": "success"
+    },
+    "IWG.L": {
+      "last_updated": "2025-05-06T12:55:32.216691",
+      "status": "success"
+    },
+    "TCAP.L": {
+      "last_updated": "2025-05-06T12:55:33.399971",
+      "status": "success"
+    },
+    "QLT.L": {
+      "last_updated": "2025-05-06T12:55:34.545769",
+      "status": "success"
+    },
+    "MTO.L": {
+      "last_updated": "2025-05-06T12:55:35.702466",
+      "status": "success"
+    },
+    "GGP.L": {
+      "last_updated": "2025-05-06T12:55:36.812147",
+      "status": "success"
+    },
+    "SRP.L": {
+      "last_updated": "2025-05-06T12:55:37.987366",
+      "status": "success"
+    },
+    "MRC.L": {
+      "last_updated": "2025-05-06T12:55:39.181423",
+      "status": "success"
+    },
+    "OSB.L": {
+      "last_updated": "2025-05-06T12:55:40.293580",
+      "status": "success"
+    },
+    "TEM.L": {
+      "last_updated": "2025-05-06T12:55:41.466435",
+      "status": "success"
+    },
+    "PFD.L": {
+      "last_updated": "2025-05-06T12:55:42.620757",
+      "status": "success"
+    },
+    "AGR.L": {
+      "last_updated": "2025-05-06T12:55:43.763748",
+      "status": "success"
+    },
+    "DATA.L": {
+      "last_updated": "2025-05-06T12:55:44.924047",
+      "status": "success"
+    },
+    "JUST.L": {
+      "last_updated": "2025-05-06T12:55:46.045828",
+      "status": "success"
+    },
+    "HOC.L": {
+      "last_updated": "2025-05-06T12:55:47.184392",
+      "status": "success"
+    },
+    "SRE.L": {
+      "last_updated": "2025-05-06T12:55:48.347205",
+      "status": "success"
+    },
+    "PHP.L": {
+      "last_updated": "2025-05-06T12:55:49.502762",
+      "status": "success"
+    },
+    "CURY.L": {
+      "last_updated": "2025-05-06T12:55:50.651740",
+      "status": "success"
+    },
+    "SSPG.L": {
+      "last_updated": "2025-05-06T12:55:51.792383",
+      "status": "success"
+    },
+    "TPK.L": {
+      "last_updated": "2025-05-06T12:55:52.949858",
+      "status": "success"
+    },
+    "ONT.L": {
+      "last_updated": "2025-05-06T12:55:54.050329",
+      "status": "success"
+    },
+    "HTWS.L": {
+      "last_updated": "2025-05-06T12:55:55.160512",
+      "status": "success"
+    },
+    "SEQI.L": {
+      "last_updated": "2025-05-06T12:55:56.305165",
+      "status": "success"
+    },
+    "HAS.L": {
+      "last_updated": "2025-05-06T12:55:57.497406",
+      "status": "success"
+    },
+    "COA.L": {
+      "last_updated": "2025-05-06T12:55:58.681810",
+      "status": "success"
+    },
+    "JMG.L": {
+      "last_updated": "2025-05-06T12:55:59.849231",
+      "status": "success"
+    },
+    "SRC.L": {
+      "last_updated": "2025-05-06T12:56:00.970559",
+      "status": "success"
+    },
+    "SPT.L": {
+      "last_updated": "2025-05-06T12:56:02.131666",
+      "status": "success"
+    },
+    "BBGI.L": {
+      "last_updated": "2025-05-06T12:56:03.344156",
+      "status": "success"
+    },
+    "SUPR.L": {
+      "last_updated": "2025-05-06T12:56:04.508709",
+      "status": "success"
+    },
+    "AWE.L": {
+      "last_updated": "2025-05-06T12:56:05.623589",
+      "status": "success"
+    },
+    "TRST.L": {
+      "last_updated": "2025-05-06T12:56:06.745765",
+      "status": "success"
+    },
+    "DWL.L": {
+      "last_updated": "2025-05-06T12:56:07.886861",
+      "status": "success"
+    },
+    "WOSG.L": {
+      "last_updated": "2025-05-06T12:56:09.011233",
+      "status": "success"
+    },
+    "GNC.L": {
+      "last_updated": "2025-05-06T12:56:10.148753",
+      "status": "success"
+    },
+    "PAF.L": {
+      "last_updated": "2025-05-06T12:56:11.900566",
+      "status": "success"
+    },
+    "SHED.L": {
+      "last_updated": "2025-05-06T12:56:13.075934",
+      "status": "success"
+    },
+    "AML.L": {
+      "last_updated": "2025-05-06T12:56:14.205402",
+      "status": "success"
+    },
+    "KIE.L": {
+      "last_updated": "2025-05-06T12:56:15.521642",
+      "status": "success"
+    },
+    "CORD.L": {
+      "last_updated": "2025-05-06T12:56:16.747223",
+      "status": "success"
+    },
+    "THRL.L": {
+      "last_updated": "2025-05-06T12:56:18.086476",
+      "status": "success"
+    },
+    "SQZ.L": {
+      "last_updated": "2025-05-06T12:56:19.229615",
+      "status": "success"
+    },
+    "GROW.L": {
+      "last_updated": "2025-05-06T12:56:20.335495",
+      "status": "success"
+    },
+    "JEGI.L": {
+      "last_updated": "2025-05-06T12:56:21.531956",
+      "status": "success"
+    },
+    "WHR.L": {
+      "last_updated": "2025-05-06T12:56:22.705083",
+      "status": "success"
+    },
+    "FXPO.L": {
+      "last_updated": "2025-05-06T12:56:23.859684",
+      "status": "success"
+    },
+    "CREI.L": {
+      "last_updated": "2025-05-06T12:56:25.050697",
+      "status": "success"
+    },
+    "NESF.L": {
+      "last_updated": "2025-05-06T12:56:26.191099",
+      "status": "success"
+    },
+    "IPO.L": {
+      "last_updated": "2025-05-06T12:56:27.332853",
+      "status": "success"
+    },
+    "PANR.L": {
+      "last_updated": "2025-05-06T12:56:28.570012",
+      "status": "success"
+    },
+    "APH.L": {
+      "last_updated": "2025-05-06T12:56:29.713795",
+      "status": "success"
+    },
+    "THG.L": {
+      "last_updated": "2025-05-06T12:56:30.816475",
+      "status": "success"
+    },
+    "RKH.L": {
+      "last_updated": "2025-05-06T12:56:31.937893",
+      "status": "success"
+    },
+    "NCYF.L": {
+      "last_updated": "2025-05-06T12:56:33.105976",
+      "status": "success"
+    },
+    "BBH.L": {
+      "last_updated": "2025-05-06T12:56:34.219383",
+      "status": "success"
+    },
+    "SOHO.L": {
+      "last_updated": "2025-05-06T12:56:35.367385",
+      "status": "success"
+    },
+    "RWS.L": {
+      "last_updated": "2025-05-06T12:56:36.538935",
+      "status": "success"
+    },
+    "BOO.L": {
+      "last_updated": "2025-05-06T12:56:37.644184",
+      "status": "success"
+    },
+    "NIOX.L": {
+      "last_updated": "2025-05-06T12:56:38.829323",
+      "status": "success"
+    },
+    "SREI.L": {
+      "last_updated": "2025-05-06T12:56:40.005376",
+      "status": "success"
+    },
+    "ENQ.L": {
+      "last_updated": "2025-05-06T12:56:41.120961",
+      "status": "success"
+    },
+    "MARS.L": {
+      "last_updated": "2025-05-06T12:56:42.271634",
+      "status": "success"
+    },
+    "EVOK.L": {
+      "last_updated": "2025-05-06T12:56:43.414987",
+      "status": "success"
+    },
+    "SOLG.L": {
+      "last_updated": "2025-05-06T12:56:44.532238",
+      "status": "success"
+    },
+    "MTL.L": {
+      "last_updated": "2025-05-06T12:56:45.635336",
+      "status": "success"
+    },
+    "GMS.L": {
+      "last_updated": "2025-05-06T12:56:46.766140",
+      "status": "success"
+    },
+    "TLW.L": {
+      "last_updated": "2025-05-06T12:56:47.937587",
+      "status": "success"
+    },
+    "ITM.L": {
+      "last_updated": "2025-05-06T12:56:49.096060",
+      "status": "success"
+    },
+    "MCG.L": {
+      "last_updated": "2025-05-06T12:56:50.237118",
+      "status": "success"
+    },
+    "SFOR.L": {
+      "last_updated": "2025-05-06T12:56:51.353007",
+      "status": "success"
+    },
+    "EUA.L": {
+      "last_updated": "2025-05-06T12:56:52.502588",
+      "status": "success"
+    },
+    "KP2.L": {
+      "last_updated": "2025-05-06T12:56:53.620118",
+      "status": "success"
+    },
+    "HVO.L": {
+      "last_updated": "2025-05-06T12:56:54.736514",
+      "status": "success"
+    },
+    "SAV.L": {
+      "last_updated": "2025-05-06T12:56:55.851481",
+      "status": "success"
+    },
+    "JLP.L": {
+      "last_updated": "2025-05-06T12:56:56.964337",
+      "status": "success"
+    },
+    "QED.L": {
+      "last_updated": "2025-05-06T12:56:58.075205",
+      "status": "success"
+    },
+    "SDY.L": {
+      "last_updated": "2025-05-06T12:56:59.232155",
+      "status": "success"
+    },
+    "SEE.L": {
+      "last_updated": "2025-05-06T12:57:00.325229",
+      "status": "success"
+    },
+    "IQE.L": {
+      "last_updated": "2025-05-06T12:57:01.448514",
+      "status": "success"
+    },
+    "WJG.L": {
+      "last_updated": "2025-05-06T12:57:02.590149",
+      "status": "success"
+    },
+    "ZPHR.L": {
+      "last_updated": "2025-05-06T12:57:03.810987",
+      "status": "success"
+    },
+    "SFR.L": {
+      "last_updated": "2025-05-06T12:57:05.022058",
+      "status": "success"
+    },
+    "KOD.L": {
+      "last_updated": "2025-05-06T12:57:06.167079",
+      "status": "success"
+    },
+    "AFC.L": {
+      "last_updated": "2025-05-06T12:57:07.292845",
+      "status": "success"
+    },
+    "EEE.L": {
+      "last_updated": "2025-05-06T12:57:08.505737",
+      "status": "success"
+    },
+    "DGI9.L": {
+      "last_updated": "2025-05-06T12:57:09.624633",
+      "status": "success"
+    },
+    "HE1.L": {
+      "last_updated": "2025-05-06T12:57:10.730406",
+      "status": "success"
+    },
+    "KEFI.L": {
+      "last_updated": "2025-05-06T12:57:11.853489",
+      "status": "success"
+    },
+    "ALL.L": {
+      "last_updated": "2025-05-06T12:57:12.970397",
+      "status": "success"
+    },
+    "ATM.L": {
+      "last_updated": "2025-05-06T12:57:14.100042",
+      "status": "success"
+    },
+    "PAT.L": {
+      "last_updated": "2025-05-06T12:57:15.188201",
+      "status": "success"
+    },
+    "AEX.L": {
+      "last_updated": "2025-05-06T12:57:16.324831",
+      "status": "success"
+    },
+    "ARS.L": {
+      "last_updated": "2025-05-06T12:57:17.457376",
+      "status": "success"
+    },
+    "MATD.L": {
+      "last_updated": "2025-05-06T12:57:18.563817",
+      "status": "success"
+    },
+    "CYAN.L": {
+      "last_updated": "2025-05-06T12:57:20.058214",
+      "status": "success"
+    },
+    "GST.L": {
+      "last_updated": "2025-05-06T12:57:21.149419",
+      "status": "success"
+    },
+    "EML.L": {
+      "last_updated": "2025-05-06T12:57:22.256304",
+      "status": "success"
+    },
+    "STX.L": {
+      "last_updated": "2025-05-06T12:57:23.374834",
+      "status": "success"
+    },
+    "NANO.L": {
+      "last_updated": "2025-05-06T12:57:24.489232",
+      "status": "success"
+    },
+    "PHE.L": {
+      "last_updated": "2025-05-06T12:57:25.615433",
+      "status": "success"
+    },
+    "KAV.L": {
+      "last_updated": "2025-05-06T12:57:26.733705",
+      "status": "success"
+    },
+    "HEX.L": {
+      "last_updated": "2025-05-06T12:57:27.803118",
+      "status": "success"
+    },
+    "ARCM.L": {
+      "last_updated": "2025-05-06T12:57:28.954474",
+      "status": "success"
+    },
+    "88E.L": {
+      "last_updated": "2025-05-06T12:57:30.079844",
+      "status": "success"
+    },
+    "PRD.L": {
+      "last_updated": "2025-05-06T12:57:31.191015",
+      "status": "success"
+    },
+    "PREM.L": {
+      "last_updated": "2025-05-06T12:57:32.306586",
+      "status": "success"
+    },
+    "CHAR.L": {
+      "last_updated": "2025-05-06T12:57:33.444272",
+      "status": "success"
+    },
+    "IMM.L": {
+      "last_updated": "2025-05-06T12:57:34.582274",
+      "status": "success"
+    },
+    "SOU.L": {
+      "last_updated": "2025-05-06T12:57:35.696317",
+      "status": "success"
+    },
+    "KZG.L": {
+      "last_updated": "2025-05-06T12:57:36.838726",
+      "status": "success"
+    },
+    "POLB.L": {
+      "last_updated": "2025-05-06T12:57:37.975845",
+      "status": "success"
+    },
+    "UPL.L": {
+      "last_updated": "2025-05-06T12:57:39.082182",
+      "status": "success"
+    },
+    "SNDA.L": {
+      "last_updated": "2025-05-06T12:57:40.183085",
+      "status": "success"
+    },
+    "RMR.L": {
+      "last_updated": "2025-05-06T12:57:41.325622",
+      "status": "success"
+    },
+    "PXS.L": {
+      "last_updated": "2025-05-06T12:57:42.442638",
+      "status": "success"
+    },
+    "ANGS.L": {
+      "last_updated": "2025-05-06T12:57:43.598841",
+      "status": "success"
+    },
+    "VAST.L": {
+      "last_updated": "2025-05-06T12:57:44.719919",
+      "status": "success"
+    },
+    "80M.L": {
+      "last_updated": "2025-05-06T12:57:45.838459",
+      "status": "success"
+    },
+    "XLM.L": {
+      "last_updated": "2025-05-06T12:57:47.005051",
+      "status": "success"
+    },
+    "CRCL.L": {
+      "last_updated": "2025-05-06T12:57:48.126153",
+      "status": "success"
+    },
+    "MSMN.L": {
+      "last_updated": "2025-05-06T12:57:49.248528",
+      "status": "success"
+    },
+    "GDR.L": {
+      "last_updated": "2025-05-06T12:57:50.347560",
+      "status": "success"
+    },
+    "QBT.L": {
+      "last_updated": "2025-05-06T12:57:51.467157",
+      "status": "success"
+    },
+    "GRL.L": {
+      "last_updated": "2025-05-06T12:57:52.560168",
+      "status": "success"
+    },
+    "OBD.L": {
+      "last_updated": "2025-05-06T12:57:53.669683",
+      "status": "success"
+    },
+    "XTR.L": {
+      "last_updated": "2025-05-06T12:57:54.805979",
+      "status": "success"
+    },
+    "TRP.L": {
+      "last_updated": "2025-05-06T12:57:55.900771",
+      "status": "success"
+    },
+    "APTA.L": {
+      "last_updated": "2025-05-06T12:57:56.992587",
+      "status": "success"
+    },
+    "NARF.L": {
+      "last_updated": "2025-05-06T12:57:58.134926",
+      "status": "success"
+    },
+    "ORR.L": {
+      "last_updated": "2025-05-06T12:57:59.295791",
+      "status": "success"
+    },
+    "GROC.L": {
+      "last_updated": "2025-05-06T12:58:00.427023",
+      "status": "success"
+    },
+    "CPX.L": {
+      "last_updated": "2025-05-06T12:58:01.556875",
+      "status": "success"
+    },
+    "UFO.L": {
+      "last_updated": "2025-05-06T12:58:02.682747",
+      "status": "success"
+    },
+    "SML.L": {
+      "last_updated": "2025-05-06T12:58:03.799990",
+      "status": "success"
+    },
+    "SCGL.L": {
+      "last_updated": "2025-05-06T12:58:04.913637",
+      "status": "success"
+    },
+    "EOG.L": {
+      "last_updated": "2025-05-06T12:58:06.048208",
+      "status": "success"
+    },
+    "WBI.L": {
+      "last_updated": "2025-05-06T12:58:07.154931",
+      "status": "success"
+    },
+    "ECR.L": {
+      "last_updated": "2025-05-06T12:58:08.269844",
+      "status": "success"
+    },
+    "SCE.L": {
+      "last_updated": "2025-05-06T12:58:09.396565",
+      "status": "success"
+    },
+    "IRON.L": {
+      "last_updated": "2025-05-06T12:58:10.506569",
+      "status": "success"
+    },
+    "HAYD.L": {
+      "last_updated": "2025-05-06T12:58:11.622447",
+      "status": "success"
+    },
+    "RBD.L": {
+      "last_updated": "2025-05-06T12:58:12.741716",
+      "status": "success"
+    },
+    "MFAI.L": {
+      "last_updated": "2025-05-06T12:58:13.852409",
+      "status": "success"
+    },
+    "BMV.L": {
+      "last_updated": "2025-05-06T12:58:14.963388",
+      "status": "success"
+    },
+    "BZT.L": {
+      "last_updated": "2025-05-06T12:58:16.107619",
+      "status": "success"
+    },
+    "ROCK.L": {
+      "last_updated": "2025-05-06T12:58:17.233291",
+      "status": "success"
+    },
+    "EME.L": {
+      "last_updated": "2025-05-06T12:58:18.393346",
+      "status": "success"
+    },
+    "GENF.L": {
+      "last_updated": "2025-05-06T12:58:19.509615",
+      "status": "success"
+    },
+    "SYN.L": {
+      "last_updated": "2025-05-06T12:58:20.672723",
+      "status": "success"
+    },
+    "UOG.L": {
+      "last_updated": "2025-05-06T12:58:21.817113",
+      "status": "success"
+    },
+    "ALBA.L": {
+      "last_updated": "2025-05-06T12:58:23.056058",
+      "status": "success"
+    },
+    "GFIN.L": {
+      "last_updated": "2025-05-06T12:58:24.182629",
+      "status": "success"
+    },
+    "CLON.L": {
+      "last_updated": "2025-05-06T12:58:25.314348",
+      "status": "success"
+    },
+    "TLY.L": {
+      "last_updated": "2025-05-06T12:58:26.432662",
+      "status": "success"
+    },
+    "WSBN.L": {
+      "last_updated": "2025-05-06T12:58:27.556906",
+      "status": "success"
+    },
+    "RRR.L": {
+      "last_updated": "2025-05-06T12:58:28.659283",
+      "status": "success"
+    },
+    "NFX.L": {
+      "last_updated": "2025-05-06T12:58:32.320434",
+      "status": "success"
+    },
+    "TM1.L": {
+      "last_updated": "2025-05-06T12:58:33.428452",
+      "status": "success"
+    },
+    "ORCP.L": {
+      "last_updated": "2025-05-06T12:58:34.564721",
+      "status": "success"
+    },
+    "TOM.L": {
+      "last_updated": "2025-05-06T12:58:35.676832",
+      "status": "success"
+    },
+    "TYM.L": {
+      "last_updated": "2025-05-06T12:58:36.792948",
+      "status": "success"
+    },
+    "VRS.L": {
+      "last_updated": "2025-05-06T12:58:37.912649",
+      "status": "success"
+    },
+    "AMGO.L": {
+      "last_updated": "2025-05-06T12:58:39.022016",
+      "status": "success"
+    },
+    "CTAI.L": {
+      "last_updated": "2025-05-06T12:58:40.129062",
+      "status": "success"
+    },
+    "CLCO.L": {
+      "last_updated": "2025-05-06T12:58:41.238089",
+      "status": "success"
+    },
+    "ADME.L": {
+      "last_updated": "2025-05-06T12:58:42.365144",
+      "status": "success"
+    },
+    "CLAI.L": {
+      "last_updated": "2025-05-06T12:58:43.468452",
+      "status": "success"
+    },
+    "DIS.L": {
+      "last_updated": "2025-05-06T12:58:44.580398",
+      "status": "success"
+    },
+    "PYC.L": {
+      "last_updated": "2025-05-06T12:58:45.695065",
+      "status": "success"
+    },
+    "CDL.L": {
+      "last_updated": "2025-05-06T12:58:46.795302",
+      "status": "success"
+    },
+    "FPP.L": {
+      "last_updated": "2025-05-06T12:58:47.899736",
+      "status": "success"
+    },
+    "NTOG.L": {
+      "last_updated": "2025-05-06T12:58:49.014786",
+      "status": "success"
+    },
+    "AAPL": {
+      "last_updated": "2025-05-06T13:05:41.754337",
+      "status": "success"
+    },
+    "BRK-B": {
+      "last_updated": "2025-05-06T13:05:48.626272",
+      "status": "success"
+    },
+    "AVGO": {
+      "last_updated": "2025-05-06T13:05:49.755871",
+      "status": "success"
+    },
+    "LLY": {
+      "last_updated": "2025-05-06T13:05:53.383634",
+      "status": "success"
+    },
+    "TSM": {
+      "last_updated": "2025-05-06T13:05:54.534784",
+      "status": "success"
+    },
+    "JPM": {
+      "last_updated": "2025-05-06T13:05:55.718990",
+      "status": "success"
+    },
+    "V": {
+      "last_updated": "2025-05-06T13:05:56.862626",
+      "status": "success"
+    },
+    "TCEHY": {
+      "last_updated": "2025-05-06T13:05:58.051005",
+      "status": "success"
+    },
+    "MA": {
+      "last_updated": "2025-05-06T13:05:59.173166",
+      "status": "success"
+    },
+    "XOM": {
+      "last_updated": "2025-05-06T13:06:01.486367",
+      "status": "success"
+    },
+    "PG": {
+      "last_updated": "2025-05-06T13:06:05.329968",
+      "status": "success"
+    },
+    "JNJ": {
+      "last_updated": "2025-05-06T13:06:06.543758",
+      "status": "success"
+    },
+    "UNH": {
+      "last_updated": "2025-05-06T13:06:07.709517",
+      "status": "success"
+    },
+    "ABBV": {
+      "last_updated": "2025-05-06T13:06:10.008175",
+      "status": "success"
+    },
+    "BAC": {
+      "last_updated": "2025-05-06T13:06:11.195457",
+      "status": "success"
+    },
+    "KO": {
+      "last_updated": "2025-05-06T13:06:12.379946",
+      "status": "success"
+    },
+    "NVO": {
+      "last_updated": "2025-05-06T13:06:13.556481",
+      "status": "success"
+    },
+    "TMUS": {
+      "last_updated": "2025-05-06T13:06:16.964310",
+      "status": "success"
+    },
+    "ASML": {
+      "last_updated": "2025-05-06T12:59:31.227719",
+      "status": "success"
+    },
+    "PM": {
+      "last_updated": "2025-05-06T13:06:18.111638",
+      "status": "success"
+    },
+    "RHHBY": {
+      "last_updated": "2025-05-06T13:06:19.272608",
+      "status": "success"
+    },
+    "CVX": {
+      "last_updated": "2025-05-06T13:06:21.613584",
+      "status": "success"
+    },
+    "WFC": {
+      "last_updated": "2025-05-06T13:06:22.830814",
+      "status": "success"
+    },
+    "CSCO": {
+      "last_updated": "2025-05-06T13:06:23.986433",
+      "status": "success"
+    },
+    "ABT": {
+      "last_updated": "2025-05-06T13:06:25.151581",
+      "status": "success"
+    },
+    "GE": {
+      "last_updated": "2025-05-06T13:06:28.860981",
+      "status": "success"
+    },
+    "AZN": {
+      "last_updated": "2025-05-06T13:06:30.031095",
+      "status": "success"
+    },
+    "NVS": {
+      "last_updated": "2025-05-06T13:06:31.164593",
+      "status": "success"
+    },
+    "LIN": {
+      "last_updated": "2025-05-06T12:59:46.424295",
+      "status": "success"
+    },
+    "MRK": {
+      "last_updated": "2025-05-06T13:06:32.425228",
+      "status": "success"
+    },
+    "T": {
+      "last_updated": "2025-05-06T13:06:34.720367",
+      "status": "success"
+    },
+    "HSBC": {
+      "last_updated": "2025-05-06T12:59:51.198997",
+      "status": "success"
+    },
+    "SHEL": {
+      "last_updated": "2025-05-06T13:06:35.906678",
+      "status": "success"
+    },
+    "AXP": {
+      "last_updated": "2025-05-06T13:06:37.102721",
+      "status": "success"
+    },
+    "MS": {
+      "last_updated": "2025-05-06T13:06:38.253665",
+      "status": "success"
+    },
+    "ISRG": {
+      "last_updated": "2025-05-06T13:06:41.009978",
+      "status": "success"
+    },
+    "VZ": {
+      "last_updated": "2025-05-06T13:06:42.307104",
+      "status": "success"
+    },
+    "PEP": {
+      "last_updated": "2025-05-06T13:06:43.528809",
+      "status": "success"
+    },
+    "UBER": {
+      "last_updated": "2025-05-06T13:06:44.661238",
+      "status": "success"
+    },
+    "GS": {
+      "last_updated": "2025-05-06T13:06:45.825226",
+      "status": "success"
+    },
+    "RTX": {
+      "last_updated": "2025-05-06T13:06:47.023069",
+      "status": "success"
+    },
+    "HDB": {
+      "last_updated": "2025-05-06T13:06:48.173136",
+      "status": "success"
+    },
+    "BX": {
+      "last_updated": "2025-05-06T13:06:50.518418",
+      "status": "success"
+    },
+    "PGR": {
+      "last_updated": "2025-05-06T13:06:51.687268",
+      "status": "success"
+    },
+    "TMO": {
+      "last_updated": "2025-05-06T13:06:53.962949",
+      "status": "success"
+    },
+    "AMD": {
+      "last_updated": "2025-05-06T13:06:55.103061",
+      "status": "success"
+    },
+    "UL": {
+      "last_updated": "2025-05-06T13:06:56.247126",
+      "status": "success"
+    },
+    "SONY": {
+      "last_updated": "2025-05-06T13:06:57.477145",
+      "status": "success"
+    },
+    "BSX": {
+      "last_updated": "2025-05-06T13:06:58.596476",
+      "status": "success"
+    },
+    "SCHW": {
+      "last_updated": "2025-05-06T13:06:59.803449",
+      "status": "success"
+    },
+    "QCOM": {
+      "last_updated": "2025-05-06T13:07:02.049995",
+      "status": "success"
+    },
+    "CAT": {
+      "last_updated": "2025-05-06T13:07:03.270309",
+      "status": "success"
+    },
+    "AMGN": {
+      "last_updated": "2025-05-06T13:07:04.405017",
+      "status": "success"
+    },
+    "TXN": {
+      "last_updated": "2025-05-06T13:07:05.610319",
+      "status": "success"
+    },
+    "SYK": {
+      "last_updated": "2025-05-06T13:00:23.800658",
+      "status": "success"
+    },
+    "DHR": {
+      "last_updated": "2025-05-06T13:07:07.902485",
+      "status": "success"
+    },
+    "BA": {
+      "last_updated": "2025-05-06T13:07:09.096416",
+      "status": "success"
+    },
+    "EADSY": {
+      "last_updated": "2025-05-06T13:00:29.151058",
+      "status": "success"
+    },
+    "HON": {
+      "last_updated": "2025-05-06T13:07:11.521666",
+      "status": "success"
+    },
+    "PFE": {
+      "last_updated": "2025-05-06T13:07:12.734838",
+      "status": "success"
+    },
+    "MUFG": {
+      "last_updated": "2025-05-06T13:07:13.843986",
+      "status": "success"
+    },
+    "SNY": {
+      "last_updated": "2025-05-06T13:07:15.001093",
+      "status": "success"
+    },
+    "C": {
+      "last_updated": "2025-05-06T13:07:16.184553",
+      "status": "success"
+    },
+    "BUD": {
+      "last_updated": "2025-05-06T13:00:37.470343",
+      "status": "success"
+    },
+    "DE": {
+      "last_updated": "2025-05-06T13:00:38.763916",
+      "status": "success"
+    },
+    "UNP": {
+      "last_updated": "2025-05-06T13:07:17.345372",
+      "status": "success"
+    },
+    "ARM": {
+      "last_updated": "2025-05-06T13:07:18.418950",
+      "status": "success"
+    },
+    "GILD": {
+      "last_updated": "2025-05-06T13:07:20.649145",
+      "status": "success"
+    },
+    "VRTX": {
+      "last_updated": "2025-05-06T13:00:44.400175",
+      "status": "success"
+    },
+    "AMAT": {
+      "last_updated": "2025-05-06T13:07:25.294573",
+      "status": "success"
+    },
+    "BHP": {
+      "last_updated": "2025-05-06T13:07:27.601942",
+      "status": "success"
+    },
+    "TTE": {
+      "last_updated": "2025-05-06T13:00:53.805948",
+      "status": "success"
+    },
+    "IBN": {
+      "last_updated": "2025-05-06T13:07:28.757223",
+      "status": "success"
+    },
+    "ETN": {
+      "last_updated": "2025-05-06T13:07:29.961739",
+      "status": "success"
+    },
+    "COP": {
+      "last_updated": "2025-05-06T13:07:31.136450",
+      "status": "success"
+    },
+    "CB": {
+      "last_updated": "2025-05-06T13:00:58.501766",
+      "status": "success"
+    },
+    "ANET": {
+      "last_updated": "2025-05-06T13:07:32.297339",
+      "status": "success"
+    },
+    "TD": {
+      "last_updated": "2025-05-06T13:07:33.457380",
+      "status": "success"
+    },
+    "MMC": {
+      "last_updated": "2025-05-06T13:07:34.610652",
+      "status": "success"
+    },
+    "LMT": {
+      "last_updated": "2025-05-06T13:01:03.167066",
+      "status": "success"
+    },
+    "MDT": {
+      "last_updated": "2025-05-06T13:07:36.888996",
+      "status": "success"
+    },
+    "SAN": {
+      "last_updated": "2025-05-06T13:07:38.061681",
+      "status": "success"
+    },
+    "GEV": {
+      "last_updated": "2025-05-06T13:07:39.145173",
+      "status": "success"
+    },
+    "AMT": {
+      "last_updated": "2025-05-06T13:07:41.441372",
+      "status": "success"
+    },
+    "KKR": {
+      "last_updated": "2025-05-06T13:07:43.790637",
+      "status": "success"
+    },
+    "BMY": {
+      "last_updated": "2025-05-06T13:07:44.998256",
+      "status": "success"
+    },
+    "RIO": {
+      "last_updated": "2025-05-06T13:07:46.127370",
+      "status": "success"
+    },
+    "FI": {
+      "last_updated": "2025-05-06T13:07:47.219892",
+      "status": "success"
+    },
+    "ENB": {
+      "last_updated": "2025-05-06T13:07:48.355112",
+      "status": "success"
+    },
+    "CME": {
+      "last_updated": "2025-05-06T13:07:49.558369",
+      "status": "success"
+    },
+    "MO": {
+      "last_updated": "2025-05-06T13:07:50.745611",
+      "status": "success"
+    },
+    "PLD": {
+      "last_updated": "2025-05-06T13:07:51.899284",
+      "status": "success"
+    },
+    "ICE": {
+      "last_updated": "2025-05-06T13:07:54.253509",
+      "status": "success"
+    },
+    "NTDOY": {
+      "last_updated": "2025-05-06T13:01:25.085117",
+      "status": "success"
+    },
+    "WELL": {
+      "last_updated": "2025-05-06T13:07:55.435450",
+      "status": "success"
+    },
+    "APH": {
+      "last_updated": "2025-05-06T13:07:57.696984",
+      "status": "success"
+    },
+    "LRCX": {
+      "last_updated": "2025-05-06T13:08:00.050133",
+      "status": "success"
+    },
+    "UBS": {
+      "last_updated": "2025-05-06T13:08:01.187889",
+      "status": "success"
+    },
+    "WM": {
+      "last_updated": "2025-05-06T13:01:34.662807",
+      "status": "success"
+    },
+    "BTI": {
+      "last_updated": "2025-05-06T13:08:03.570147",
+      "status": "success"
+    },
+    "ELV": {
+      "last_updated": "2025-05-06T13:01:37.001778",
+      "status": "success"
+    },
+    "CI": {
+      "last_updated": "2025-05-06T13:01:38.213462",
+      "status": "success"
+    },
+    "MU": {
+      "last_updated": "2025-05-06T13:08:04.736189",
+      "status": "success"
+    },
+    "SHW": {
+      "last_updated": "2025-05-06T13:01:40.531750",
+      "status": "success"
+    },
+    "INTC": {
+      "last_updated": "2025-05-06T13:08:05.890921",
+      "status": "success"
+    },
+    "BAM": {
+      "last_updated": "2025-05-06T13:01:42.806607",
+      "status": "success"
+    },
+    "TT": {
+      "last_updated": "2025-05-06T13:01:43.976825",
+      "status": "success"
+    },
+    "RYCEY": {
+      "last_updated": "2025-05-06T13:08:07.041687",
+      "status": "success"
+    },
+    "MDLZ": {
+      "last_updated": "2025-05-06T13:08:08.275271",
+      "status": "success"
+    },
+    "SMFG": {
+      "last_updated": "2025-05-06T13:01:47.461298",
+      "status": "success"
+    },
+    "DASH": {
+      "last_updated": "2025-05-06T13:08:09.400576",
+      "status": "success"
+    },
+    "NKE": {
+      "last_updated": "2025-05-06T13:08:10.581211",
+      "status": "success"
+    },
+    "AJG": {
+      "last_updated": "2025-05-06T13:01:53.408283",
+      "status": "success"
+    },
+    "BN": {
+      "last_updated": "2025-05-06T13:08:15.167895",
+      "status": "success"
+    },
+    "UPS": {
+      "last_updated": "2025-05-06T13:08:16.302390",
+      "status": "success"
+    },
+    "BBVA": {
+      "last_updated": "2025-05-06T13:02:00.346032",
+      "status": "success"
+    },
+    "GSK": {
+      "last_updated": "2025-05-06T13:08:19.701213",
+      "status": "success"
+    },
+    "APO": {
+      "last_updated": "2025-05-06T13:08:21.973655",
+      "status": "success"
+    },
+    "AON": {
+      "last_updated": "2025-05-06T13:08:23.143918",
+      "status": "success"
+    },
+    "IBKR": {
+      "last_updated": "2025-05-06T13:02:07.376367",
+      "status": "success"
+    },
+    "MMM": {
+      "last_updated": "2025-05-06T13:08:24.420945",
+      "status": "success"
+    },
+    "CL": {
+      "last_updated": "2025-05-06T13:08:26.832947",
+      "status": "success"
+    },
+    "GD": {
+      "last_updated": "2025-05-06T13:02:12.257923",
+      "status": "success"
+    },
+    "BP": {
+      "last_updated": "2025-05-06T13:08:29.233727",
+      "status": "success"
+    },
+    "ECL": {
+      "last_updated": "2025-05-06T13:02:17.107120",
+      "status": "success"
+    },
+    "COF": {
+      "last_updated": "2025-05-06T13:08:30.416183",
+      "status": "success"
+    },
+    "PBR": {
+      "last_updated": "2025-05-06T13:08:31.561386",
+      "status": "success"
+    },
+    "PBR-A": {
+      "last_updated": "2025-05-06T13:08:32.718021",
+      "status": "success"
+    },
+    "ITW": {
+      "last_updated": "2025-05-06T13:02:21.788726",
+      "status": "success"
+    },
+    "NOC": {
+      "last_updated": "2025-05-06T13:02:22.975535",
+      "status": "success"
+    },
+    "ZTS": {
+      "last_updated": "2025-05-06T13:08:33.851512",
+      "status": "success"
+    },
+    "CP": {
+      "last_updated": "2025-05-06T13:08:35.047731",
+      "status": "success"
+    },
+    "CRH": {
+      "last_updated": "2025-05-06T13:08:38.520113",
+      "status": "success"
+    },
+    "DELL": {
+      "last_updated": "2025-05-06T13:08:39.677654",
+      "status": "success"
+    },
+    "EPD": {
+      "last_updated": "2025-05-06T13:08:40.819440",
+      "status": "success"
+    },
+    "PNC": {
+      "last_updated": "2025-05-06T13:08:41.997218",
+      "status": "success"
+    },
+    "PYPL": {
+      "last_updated": "2025-05-06T13:08:43.121031",
+      "status": "success"
+    },
+    "REGN": {
+      "last_updated": "2025-05-06T13:02:35.840255",
+      "status": "success"
+    },
+    "USB": {
+      "last_updated": "2025-05-06T13:08:44.320198",
+      "status": "success"
+    },
+    "ING": {
+      "last_updated": "2025-05-06T13:08:45.540182",
+      "status": "success"
+    },
+    "CNI": {
+      "last_updated": "2025-05-06T13:02:39.429331",
+      "status": "success"
+    },
+    "ITUB": {
+      "last_updated": "2025-05-06T13:08:46.832394",
+      "status": "success"
+    },
+    "EQNR": {
+      "last_updated": "2025-05-06T13:08:47.972528",
+      "status": "success"
+    },
+    "BNS": {
+      "last_updated": "2025-05-06T13:08:49.128510",
+      "status": "success"
+    },
+    "HWM": {
+      "last_updated": "2025-05-06T13:08:51.518434",
+      "status": "success"
+    },
+    "APD": {
+      "last_updated": "2025-05-06T13:02:46.479853",
+      "status": "success"
+    },
+    "CARR": {
+      "last_updated": "2025-05-06T13:08:52.654893",
+      "status": "success"
+    },
+    "EMR": {
+      "last_updated": "2025-05-06T13:08:53.858080",
+      "status": "success"
+    },
+    "CNQ": {
+      "last_updated": "2025-05-06T13:08:55.094962",
+      "status": "success"
+    },
+    "TRV": {
+      "last_updated": "2025-05-06T13:02:51.194120",
+      "status": "success"
+    },
+    "EOG": {
+      "last_updated": "2025-05-06T13:08:56.246917",
+      "status": "success"
+    },
+    "NU": {
+      "last_updated": "2025-05-06T13:08:57.457967",
+      "status": "success"
+    },
+    "KMI": {
+      "last_updated": "2025-05-06T13:02:55.849267",
+      "status": "success"
+    },
+    "MFG": {
+      "last_updated": "2025-05-06T13:02:56.958381",
+      "status": "success"
+    },
+    "BK": {
+      "last_updated": "2025-05-06T13:02:59.264888",
+      "status": "success"
+    },
+    "JCI": {
+      "last_updated": "2025-05-06T13:03:00.420556",
+      "status": "success"
+    },
+    "MNST": {
+      "last_updated": "2025-05-06T13:03:01.583279",
+      "status": "success"
+    },
+    "AFL": {
+      "last_updated": "2025-05-06T13:03:02.746827",
+      "status": "success"
+    },
+    "NEM": {
+      "last_updated": "2025-05-06T13:03:03.918630",
+      "status": "success"
+    },
+    "ET": {
+      "last_updated": "2025-05-06T13:03:06.182223",
+      "status": "success"
+    },
+    "BCS": {
+      "last_updated": "2025-05-06T13:03:07.353038",
+      "status": "success"
+    },
+    "COR": {
+      "last_updated": "2025-05-06T13:03:08.502060",
+      "status": "success"
+    },
+    "AEM": {
+      "last_updated": "2025-05-06T13:03:09.668979",
+      "status": "success"
+    },
+    "LYG": {
+      "last_updated": "2025-05-06T13:03:10.831935",
+      "status": "success"
+    },
+    "DLR": {
+      "last_updated": "2025-05-06T13:03:13.100441",
+      "status": "success"
+    },
+    "MFC": {
+      "last_updated": "2025-05-06T13:03:16.515780",
+      "status": "success"
+    },
+    "FCX": {
+      "last_updated": "2025-05-06T13:03:17.692452",
+      "status": "success"
+    },
+    "CSX": {
+      "last_updated": "2025-05-06T13:03:21.139133",
+      "status": "success"
+    },
+    "MPLX": {
+      "last_updated": "2025-05-06T13:03:22.310128",
+      "status": "success"
+    },
+    "TRP": {
+      "last_updated": "2025-05-06T13:03:23.472752",
+      "status": "success"
+    },
+    "ALL": {
+      "last_updated": "2025-05-06T13:03:24.674257",
+      "status": "success"
+    },
+    "SPG": {
+      "last_updated": "2025-05-06T13:03:25.860954",
+      "status": "success"
+    },
+    "FDX": {
+      "last_updated": "2025-05-06T13:03:27.000145",
+      "status": "success"
+    },
+    "AMX": {
+      "last_updated": "2025-05-06T13:03:28.162071",
+      "status": "success"
+    },
+    "LNG": {
+      "last_updated": "2025-05-06T13:03:29.282746",
+      "status": "success"
+    },
+    "MET": {
+      "last_updated": "2025-05-06T13:03:30.439058",
+      "status": "success"
+    },
+    "COIN": {
+      "last_updated": "2025-05-06T13:03:31.574083",
+      "status": "success"
+    },
+    "DB": {
+      "last_updated": "2025-05-06T13:03:32.721583",
+      "status": "success"
+    },
+    "OKE": {
+      "last_updated": "2025-05-06T13:03:34.227030",
+      "status": "success"
+    },
+    "TFC": {
+      "last_updated": "2025-05-06T13:03:35.400496",
+      "status": "success"
+    },
+    "NWG": {
+      "last_updated": "2025-05-06T13:03:36.523969",
+      "status": "success"
+    },
+    "O": {
+      "last_updated": "2025-05-06T13:03:37.683903",
+      "status": "success"
+    },
+    "NSC": {
+      "last_updated": "2025-05-06T13:03:38.858041",
+      "status": "success"
+    },
+    "ALC": {
+      "last_updated": "2025-05-06T13:03:42.243337",
+      "status": "success"
+    },
+    "AIG": {
+      "last_updated": "2025-05-06T13:03:43.454640",
+      "status": "success"
+    },
+    "BDX": {
+      "last_updated": "2025-05-06T13:03:44.688764",
+      "status": "success"
+    },
+    "TAK": {
+      "last_updated": "2025-05-06T13:03:45.804595",
+      "status": "success"
+    },
+    "DFS": {
+      "last_updated": "2025-05-06T13:03:46.935837",
+      "status": "success"
+    },
+    "HLN": {
+      "last_updated": "2025-05-06T13:03:48.043765",
+      "status": "success"
+    },
+    "PWR": {
+      "last_updated": "2025-05-06T13:03:50.432997",
+      "status": "success"
+    },
+    "NXPI": {
+      "last_updated": "2025-05-06T13:03:51.556176",
+      "status": "success"
+    },
+    "SLB": {
+      "last_updated": "2025-05-06T13:03:53.854641",
+      "status": "success"
+    },
+    "PCAR": {
+      "last_updated": "2025-05-06T13:03:55.047536",
+      "status": "success"
+    },
+    "FAST": {
+      "last_updated": "2025-05-06T13:03:56.272807",
+      "status": "success"
+    },
+    "KDP": {
+      "last_updated": "2025-05-06T13:03:59.972872",
+      "status": "success"
+    },
+    "CCI": {
+      "last_updated": "2025-05-06T13:04:01.128183",
+      "status": "success"
+    },
+    "KVUE": {
+      "last_updated": "2025-05-06T13:04:03.434422",
+      "status": "success"
+    },
+    "NDAQ": {
+      "last_updated": "2025-05-06T13:04:04.593742",
+      "status": "success"
+    },
+    "SU": {
+      "last_updated": "2025-05-06T13:04:05.762364",
+      "status": "success"
+    },
+    "TEL": {
+      "last_updated": "2025-05-06T13:04:06.943743",
+      "status": "success"
+    },
+    "EW": {
+      "last_updated": "2025-05-06T13:04:08.074520",
+      "status": "success"
+    },
+    "MPC": {
+      "last_updated": "2025-05-06T13:04:10.452318",
+      "status": "success"
+    },
+    "PSX": {
+      "last_updated": "2025-05-06T13:04:13.885282",
+      "status": "success"
+    },
+    "KMB": {
+      "last_updated": "2025-05-06T13:04:17.391154",
+      "status": "success"
+    },
+    "HOOD": {
+      "last_updated": "2025-05-06T13:04:19.631549",
+      "status": "success"
+    },
+    "CTVA": {
+      "last_updated": "2025-05-06T13:04:20.764355",
+      "status": "success"
+    },
+    "CCEP": {
+      "last_updated": "2025-05-06T13:04:24.406625",
+      "status": "success"
+    },
+    "LHX": {
+      "last_updated": "2025-05-06T13:04:25.581684",
+      "status": "success"
+    },
+    "HES": {
+      "last_updated": "2025-05-06T13:04:26.777211",
+      "status": "success"
+    },
+    "FANG": {
+      "last_updated": "2025-05-06T13:04:30.356858",
+      "status": "success"
+    },
+    "VALE": {
+      "last_updated": "2025-05-06T13:04:33.888961",
+      "status": "success"
+    },
+    "GLNCY": {
+      "last_updated": "2025-05-06T13:04:37.751381",
+      "status": "success"
+    },
+    "AME": {
+      "last_updated": "2025-05-06T13:04:38.947531",
+      "status": "success"
+    },
+    "GLW": {
+      "last_updated": "2025-05-06T13:04:40.143036",
+      "status": "success"
+    },
+    "ABEV": {
+      "last_updated": "2025-05-06T13:04:41.301703",
+      "status": "success"
+    },
+    "OTIS": {
+      "last_updated": "2025-05-06T13:04:44.693178",
+      "status": "success"
+    },
+    "OXY": {
+      "last_updated": "2025-05-06T13:04:46.997642",
+      "status": "success"
+    },
+    "IDXX": {
+      "last_updated": "2025-05-06T13:04:48.109771",
+      "status": "success"
+    },
+    "CBRE": {
+      "last_updated": "2025-05-06T13:04:49.232094",
+      "status": "success"
+    },
+    "VLO": {
+      "last_updated": "2025-05-06T13:04:50.427938",
+      "status": "success"
+    },
+    "BKR": {
+      "last_updated": "2025-05-06T13:04:52.798538",
+      "status": "success"
+    },
+    "PRU": {
+      "last_updated": "2025-05-06T13:04:53.986671",
+      "status": "success"
+    },
+    "WPM": {
+      "last_updated": "2025-05-06T13:04:55.150004",
+      "status": "success"
+    },
+    "VRT": {
+      "last_updated": "2025-05-06T13:04:58.642133",
+      "status": "success"
+    },
+    "HIG": {
+      "last_updated": "2025-05-06T13:05:01.011604",
+      "status": "success"
+    },
+    "CAH": {
+      "last_updated": "2025-05-06T13:05:02.175228",
+      "status": "success"
+    },
+    "VMC": {
+      "last_updated": "2025-05-06T13:05:04.477572",
+      "status": "success"
+    },
+    "LULU": {
+      "last_updated": "2025-05-06T13:05:06.722127",
+      "status": "success"
+    },
+    "ACGL": {
+      "last_updated": "2025-05-06T13:05:07.899353",
+      "status": "success"
+    },
+    "SYY": {
+      "last_updated": "2025-05-06T13:05:10.397972",
+      "status": "success"
+    },
+    "FERG": {
+      "last_updated": "2025-05-06T13:05:11.561554",
+      "status": "success"
+    },
+    "KHC": {
+      "last_updated": "2025-05-06T13:05:12.712316",
+      "status": "success"
+    },
+    "ARES": {
+      "last_updated": "2025-05-06T13:05:13.854240",
+      "status": "success"
+    },
+    "ODFL": {
+      "last_updated": "2025-05-06T13:05:15.036452",
+      "status": "success"
+    },
+    "VICI": {
+      "last_updated": "2025-05-06T13:05:16.160702",
+      "status": "success"
+    },
+    "STZ": {
+      "last_updated": "2025-05-06T13:05:17.313862",
+      "status": "success"
+    },
+    "HSY": {
+      "last_updated": "2025-05-06T13:05:18.505566",
+      "status": "success"
+    },
+    "GEHC": {
+      "last_updated": "2025-05-06T13:05:20.769528",
+      "status": "success"
+    },
+    "DXCM": {
+      "last_updated": "2025-05-06T13:05:21.912963",
+      "status": "success"
+    },
+    "BRO": {
+      "last_updated": "2025-05-06T13:05:23.081355",
+      "status": "success"
+    },
+    "GOLD": {
+      "last_updated": "2025-05-06T13:05:24.312289",
+      "status": "success"
+    },
+    "HUM": {
+      "last_updated": "2025-05-06T13:05:28.866017",
+      "status": "success"
+    },
+    "EQT": {
+      "last_updated": "2025-05-06T13:05:30.036167",
+      "status": "success"
+    },
+    "A": {
+      "last_updated": "2025-05-06T13:05:31.207161",
+      "status": "success"
+    },
+    "IR": {
+      "last_updated": "2025-05-06T13:05:32.431177",
+      "status": "success"
+    },
+    "VTR": {
+      "last_updated": "2025-05-06T13:05:33.600277",
+      "status": "success"
+    },
+    "GIS": {
+      "last_updated": "2025-05-06T13:05:34.800373",
+      "status": "success"
+    },
+    "XYL": {
+      "last_updated": "2025-05-06T13:05:37.114556",
+      "status": "success"
+    },
+    "CNC": {
+      "last_updated": "2025-05-06T08:59:04.460898",
+      "status": "success"
+    },
+    "DAL": {
+      "last_updated": "2025-05-06T08:59:07.272696",
+      "status": "success"
+    },
+    "K": {
+      "last_updated": "2025-05-06T08:59:08.818815",
+      "status": "success"
+    },
+    "NUE": {
+      "last_updated": "2025-05-06T08:59:19.484932",
+      "status": "success"
+    },
+    "OWL": {
+      "last_updated": "2025-05-06T08:59:22.064524",
+      "status": "success"
+    },
+    "DD": {
+      "last_updated": "2025-05-06T08:59:23.771601",
+      "status": "success"
+    },
+    "NTR": {
+      "last_updated": "2025-05-06T08:59:25.021692",
+      "status": "success"
+    },
+    "ERIC": {
+      "last_updated": "2025-05-06T08:59:26.342523",
+      "status": "success"
+    },
+    "ROL": {
+      "last_updated": "2025-05-06T08:59:27.702942",
+      "status": "success"
+    },
+    "NOK": {
+      "last_updated": "2025-05-06T08:59:34.713602",
+      "status": "success"
+    },
+    "STT": {
+      "last_updated": "2025-05-06T08:59:36.358771",
+      "status": "success"
+    },
+    "MCHP": {
+      "last_updated": "2025-05-06T08:59:37.795213",
+      "status": "success"
+    },
+    "BEKE": {
+      "last_updated": "2025-05-06T08:59:42.942946",
+      "status": "success"
+    },
+    "RKT": {
+      "last_updated": "2025-05-06T08:59:44.186496",
+      "status": "success"
+    },
+    "EXE": {
+      "last_updated": "2025-05-06T08:59:45.390982",
+      "status": "success"
+    },
+    "PPG": {
+      "last_updated": "2025-05-06T08:59:46.762482",
+      "status": "success"
+    },
+    "FITB": {
+      "last_updated": "2025-05-06T08:59:49.762064",
+      "status": "success"
+    },
+    "HPQ": {
+      "last_updated": "2025-05-06T08:59:51.028174",
+      "status": "success"
+    },
+    "IP": {
+      "last_updated": "2025-05-06T08:59:52.493722",
+      "status": "success"
+    },
+    "UAL": {
+      "last_updated": "2025-05-06T08:59:53.696465",
+      "status": "success"
+    },
+    "VOD": {
+      "last_updated": "2025-05-06T08:59:55.023907",
+      "status": "success"
+    },
+    "BBD": {
+      "last_updated": "2025-05-06T08:59:57.658721",
+      "status": "success"
+    },
+    "ADM": {
+      "last_updated": "2025-05-06T09:00:01.492633",
+      "status": "success"
+    },
+    "FTV": {
+      "last_updated": "2025-05-06T09:00:02.705369",
+      "status": "success"
+    },
+    "CHD": {
+      "last_updated": "2025-05-06T09:00:04.409565",
+      "status": "success"
+    },
+    "TU": {
+      "last_updated": "2025-05-06T09:00:05.733287",
+      "status": "success"
+    },
+    "HPE": {
+      "last_updated": "2025-05-06T09:00:07.048396",
+      "status": "success"
+    },
+    "HBAN": {
+      "last_updated": "2025-05-06T09:00:08.378377",
+      "status": "success"
+    },
+    "CVE": {
+      "last_updated": "2025-05-06T09:00:09.615305",
+      "status": "success"
+    },
+    "INVH": {
+      "last_updated": "2025-05-06T09:00:12.317684",
+      "status": "success"
+    },
+    "DOW": {
+      "last_updated": "2025-05-06T09:00:16.355619",
+      "status": "success"
+    },
+    "AMCR": {
+      "last_updated": "2025-05-06T09:00:17.885776",
+      "status": "success"
+    },
+    "SW": {
+      "last_updated": "2025-05-06T09:00:19.032916",
+      "status": "success"
+    },
+    "EL": {
+      "last_updated": "2025-05-06T09:00:20.380205",
+      "status": "success"
+    },
+    "TSN": {
+      "last_updated": "2025-05-06T09:00:22.589924",
+      "status": "success"
+    },
+    "STM": {
+      "last_updated": "2025-05-06T09:00:27.615501",
+      "status": "success"
+    },
+    "SMMT": {
+      "last_updated": "2025-05-06T09:00:31.147457",
+      "status": "success"
+    },
+    "SYF": {
+      "last_updated": "2025-05-06T09:00:32.357509",
+      "status": "success"
+    },
+    "TROW": {
+      "last_updated": "2025-05-06T09:00:36.265591",
+      "status": "success"
+    },
+    "AU": {
+      "last_updated": "2025-05-06T09:00:37.521518",
+      "status": "success"
+    },
+    "DVN": {
+      "last_updated": "2025-05-06T09:00:38.819686",
+      "status": "success"
+    },
+    "SMCI": {
+      "last_updated": "2025-05-06T09:00:40.015993",
+      "status": "success"
+    },
+    "GRAB": {
+      "last_updated": "2025-05-06T09:00:41.247770",
+      "status": "success"
+    },
+    "BCE": {
+      "last_updated": "2025-05-06T09:00:43.771120",
+      "status": "success"
+    },
+    "DIDIY": {
+      "last_updated": "2025-05-06T09:00:44.919169",
+      "status": "success"
+    },
+    "STX": {
+      "last_updated": "2025-05-06T09:00:46.249353",
+      "status": "success"
+    },
+    "GPN": {
+      "last_updated": "2025-05-06T09:00:50.162087",
+      "status": "success"
+    },
+    "RF": {
+      "last_updated": "2025-05-06T09:00:53.323632",
+      "status": "success"
+    },
+    "XPEV": {
+      "last_updated": "2025-05-06T09:00:55.483149",
+      "status": "success"
+    },
+    "WY": {
+      "last_updated": "2025-05-06T09:00:57.175087",
+      "status": "success"
+    },
+    "RPRX": {
+      "last_updated": "2025-05-06T09:00:59.035533",
+      "status": "success"
+    },
+    "GFI": {
+      "last_updated": "2025-05-06T09:01:00.602769",
+      "status": "success"
+    },
+    "ASX": {
+      "last_updated": "2025-05-06T09:01:02.118277",
+      "status": "success"
+    },
+    "LYB": {
+      "last_updated": "2025-05-06T09:01:03.573728",
+      "status": "success"
+    },
+    "VIK": {
+      "last_updated": "2025-05-06T09:01:04.737785",
+      "status": "success"
+    },
+    "NI": {
+      "last_updated": "2025-05-06T09:01:06.567662",
+      "status": "success"
+    },
+    "PINS": {
+      "last_updated": "2025-05-06T09:01:08.353485",
+      "status": "success"
+    },
+    "DLTR": {
+      "last_updated": "2025-05-06T09:01:09.998651",
+      "status": "success"
+    },
+    "UMC": {
+      "last_updated": "2025-05-06T09:01:11.709754",
+      "status": "success"
+    },
+    "TECK": {
+      "last_updated": "2025-05-06T09:01:13.298680",
+      "status": "success"
+    },
+    "DECK": {
+      "last_updated": "2025-05-06T09:01:14.670480",
+      "status": "success"
+    },
+    "HAL": {
+      "last_updated": "2025-05-06T09:01:16.154105",
+      "status": "success"
+    },
+    "ON": {
+      "last_updated": "2025-05-06T09:01:17.397195",
+      "status": "success"
+    },
+    "TEVA": {
+      "last_updated": "2025-05-06T09:01:18.757770",
+      "status": "success"
+    },
+    "KGC": {
+      "last_updated": "2025-05-06T09:01:20.091327",
+      "status": "success"
+    },
+    "DKNG": {
+      "last_updated": "2025-05-06T09:01:21.375203",
+      "status": "success"
+    },
+    "LUV": {
+      "last_updated": "2025-05-06T09:01:22.649877",
+      "status": "success"
+    },
+    "KEY": {
+      "last_updated": "2025-05-06T09:01:24.003849",
+      "status": "success"
+    },
+    "CRBG": {
+      "last_updated": "2025-05-06T09:01:25.168261",
+      "status": "success"
+    },
+    "AFRM": {
+      "last_updated": "2025-05-06T09:01:26.412679",
+      "status": "success"
+    },
+    "CFG": {
+      "last_updated": "2025-05-06T09:01:27.709963",
+      "status": "success"
+    },
+    "EC": {
+      "last_updated": "2025-05-06T09:01:28.965323",
+      "status": "success"
+    },
+    "TRU": {
+      "last_updated": "2025-05-06T09:01:30.314801",
+      "status": "success"
+    },
+    "Z": {
+      "last_updated": "2025-05-06T09:01:31.570473",
+      "status": "success"
+    },
+    "YUMC": {
+      "last_updated": "2025-05-06T09:01:32.801280",
+      "status": "success"
+    },
+    "NWSA": {
+      "last_updated": "2025-05-06T09:01:34.059524",
+      "status": "success"
+    },
+    "BF-B": {
+      "last_updated": "2025-05-06T09:01:35.340685",
+      "status": "success"
+    },
+    "HRL": {
+      "last_updated": "2025-05-06T09:01:36.570644",
+      "status": "success"
+    },
+    "GEN": {
+      "last_updated": "2025-05-06T09:01:37.800353",
+      "status": "success"
+    },
+    "RIVN": {
+      "last_updated": "2025-05-06T09:01:39.025738",
+      "status": "success"
+    },
+    "ONON": {
+      "last_updated": "2025-05-06T09:01:40.197195",
+      "status": "success"
+    },
+    "BAX": {
+      "last_updated": "2025-05-06T09:01:41.465874",
+      "status": "success"
+    },
+    "PSTG": {
+      "last_updated": "2025-05-06T09:01:42.671918",
+      "status": "success"
+    },
+    "WDC": {
+      "last_updated": "2025-05-06T09:01:43.991393",
+      "status": "success"
+    },
+    "CNH": {
+      "last_updated": "2025-05-06T09:01:45.206524",
+      "status": "success"
+    },
+    "TWLO": {
+      "last_updated": "2025-05-06T09:01:46.418601",
+      "status": "success"
+    },
+    "EQH": {
+      "last_updated": "2025-05-06T09:01:47.661381",
+      "status": "success"
+    },
+    "CHWY": {
+      "last_updated": "2025-05-06T09:01:48.856533",
+      "status": "success"
+    },
+    "TPR": {
+      "last_updated": "2025-05-06T09:01:50.031154",
+      "status": "success"
+    },
+    "OMC": {
+      "last_updated": "2025-05-06T09:01:51.255749",
+      "status": "success"
+    },
+    "CG": {
+      "last_updated": "2025-05-06T09:01:52.441619",
+      "status": "success"
+    },
+    "BALL": {
+      "last_updated": "2025-05-06T09:01:53.691083",
+      "status": "success"
+    },
+    "AMH": {
+      "last_updated": "2025-05-06T09:01:54.886873",
+      "status": "success"
+    },
+    "UDR": {
+      "last_updated": "2025-05-06T09:01:56.107419",
+      "status": "success"
+    },
+    "BBY": {
+      "last_updated": "2025-05-06T09:01:57.326748",
+      "status": "success"
+    },
+    "AUR": {
+      "last_updated": "2025-05-06T09:01:58.556189",
+      "status": "success"
+    },
+    "DT": {
+      "last_updated": "2025-05-06T09:01:59.715711",
+      "status": "success"
+    },
+    "KIM": {
+      "last_updated": "2025-05-06T09:02:01.043305",
+      "status": "success"
+    },
+    "ARCC": {
+      "last_updated": "2025-05-06T09:02:02.408994",
+      "status": "success"
+    },
+    "AS": {
+      "last_updated": "2025-05-06T09:02:03.580472",
+      "status": "success"
+    },
+    "SNAP": {
+      "last_updated": "2025-05-06T09:02:04.854435",
+      "status": "success"
+    },
+    "SOFI": {
+      "last_updated": "2025-05-06T09:02:07.474060",
+      "status": "success"
+    },
+    "FSLR": {
+      "last_updated": "2025-05-06T09:02:08.744489",
+      "status": "success"
+    },
+    "MDB": {
+      "last_updated": "2025-05-06T09:02:10.083214",
+      "status": "success"
+    },
+    "RBRK": {
+      "last_updated": "2025-05-06T09:02:11.652175",
+      "status": "success"
+    },
+    "INSM": {
+      "last_updated": "2025-05-06T09:02:13.063034",
+      "status": "success"
+    },
+    "MAS": {
+      "last_updated": "2025-05-06T09:02:14.499733",
+      "status": "success"
+    },
+    "DOC": {
+      "last_updated": "2025-05-06T09:02:16.924810",
+      "status": "success"
+    },
+    "XPO": {
+      "last_updated": "2025-05-06T09:02:18.343631",
+      "status": "success"
+    },
+    "APTV": {
+      "last_updated": "2025-05-06T09:02:19.665302",
+      "status": "success"
+    },
+    "ACI": {
+      "last_updated": "2025-05-06T09:02:21.005660",
+      "status": "success"
+    },
+    "ENTG": {
+      "last_updated": "2025-05-06T09:02:22.361707",
+      "status": "success"
+    },
+    "FTI": {
+      "last_updated": "2025-05-06T09:02:24.738927",
+      "status": "success"
+    },
+    "YMM": {
+      "last_updated": "2025-05-06T09:02:26.018329",
+      "status": "success"
+    },
+    "GME": {
+      "last_updated": "2025-05-06T09:02:27.275984",
+      "status": "success"
+    },
+    "JNPR": {
+      "last_updated": "2025-05-06T09:02:28.593648",
+      "status": "success"
+    },
+    "TER": {
+      "last_updated": "2025-05-06T09:02:30.294234",
+      "status": "success"
+    },
+    "HOLX": {
+      "last_updated": "2025-05-06T09:02:31.999717",
+      "status": "success"
+    },
+    "CART": {
+      "last_updated": "2025-05-06T09:02:33.254058",
+      "status": "success"
+    },
+    "MBLY": {
+      "last_updated": "2025-05-06T09:02:34.712360",
+      "status": "success"
+    },
+    "ALAB": {
+      "last_updated": "2025-05-06T09:02:35.972397",
+      "status": "success"
+    },
+    "PAA": {
+      "last_updated": "2025-05-06T09:02:37.522924",
+      "status": "success"
+    },
+    "ICLR": {
+      "last_updated": "2025-05-06T09:02:38.949944",
+      "status": "success"
+    },
+    "NLY": {
+      "last_updated": "2025-05-06T09:02:40.542854",
+      "status": "success"
+    },
+    "PHYS": {
+      "last_updated": "2025-05-06T09:02:41.939484",
+      "status": "success"
+    },
+    "CAG": {
+      "last_updated": "2025-05-06T09:02:43.556066",
+      "status": "success"
+    },
+    "CAVA": {
+      "last_updated": "2025-05-06T09:02:44.819986",
+      "status": "success"
+    },
+    "AR": {
+      "last_updated": "2025-05-06T09:02:46.393997",
+      "status": "success"
+    },
+    "COHR": {
+      "last_updated": "2025-05-06T09:02:47.803425",
+      "status": "success"
+    },
+    "EXEL": {
+      "last_updated": "2025-05-06T09:02:49.116575",
+      "status": "success"
+    },
+    "CLS": {
+      "last_updated": "2025-05-06T09:02:50.469482",
+      "status": "success"
+    },
+    "CPB": {
+      "last_updated": "2025-05-06T09:02:52.101025",
+      "status": "success"
+    },
+    "MRNA": {
+      "last_updated": "2025-05-06T09:02:53.469053",
+      "status": "success"
+    },
+    "OHI": {
+      "last_updated": "2025-05-06T09:02:54.860952",
+      "status": "success"
+    },
+    "RKLB": {
+      "last_updated": "2025-05-06T09:02:56.210240",
+      "status": "success"
+    },
+    "BEN": {
+      "last_updated": "2025-05-06T09:02:57.548241",
+      "status": "success"
+    },
+    "AGI": {
+      "last_updated": "2025-05-06T09:02:58.939303",
+      "status": "success"
+    },
+    "JHX": {
+      "last_updated": "2025-05-06T09:03:00.254049",
+      "status": "success"
+    },
+    "VTRS": {
+      "last_updated": "2025-05-06T09:03:01.550199",
+      "status": "success"
+    },
+    "HST": {
+      "last_updated": "2025-05-06T09:03:02.817632",
+      "status": "success"
+    },
+    "ALLY": {
+      "last_updated": "2025-05-06T09:03:04.120540",
+      "status": "success"
+    },
+    "KMX": {
+      "last_updated": "2025-05-06T09:03:05.349422",
+      "status": "success"
+    },
+    "LKQ": {
+      "last_updated": "2025-05-06T09:03:06.684462",
+      "status": "success"
+    },
+    "AEG": {
+      "last_updated": "2025-05-06T09:03:07.985705",
+      "status": "success"
+    },
+    "SWKS": {
+      "last_updated": "2025-05-06T09:03:09.734207",
+      "status": "success"
+    },
+    "X": {
+      "last_updated": "2025-05-06T09:03:11.480464",
+      "status": "success"
+    },
+    "BROS": {
+      "last_updated": "2025-05-06T09:03:13.080508",
+      "status": "success"
+    },
+    "TEM": {
+      "last_updated": "2025-05-06T09:03:14.587833",
+      "status": "success"
+    },
+    "PR": {
+      "last_updated": "2025-05-06T09:03:16.274358",
+      "status": "success"
+    },
+    "NVT": {
+      "last_updated": "2025-05-06T09:03:17.705409",
+      "status": "success"
+    },
+    "LKNCY": {
+      "last_updated": "2025-05-06T09:03:19.017280",
+      "status": "success"
+    },
+    "EXAS": {
+      "last_updated": "2025-05-06T09:03:20.350356",
+      "status": "success"
+    },
+    "MOS": {
+      "last_updated": "2025-05-06T09:03:21.694704",
+      "status": "success"
+    },
+    "FHN": {
+      "last_updated": "2025-05-06T09:03:23.118773",
+      "status": "success"
+    },
+    "SWK": {
+      "last_updated": "2025-05-06T09:03:24.632720",
+      "status": "success"
+    },
+    "WBA": {
+      "last_updated": "2025-05-06T09:03:26.307542",
+      "status": "success"
+    },
+    "HMY": {
+      "last_updated": "2025-05-06T09:03:27.755284",
+      "status": "success"
+    },
+    "ATI": {
+      "last_updated": "2025-05-06T09:03:29.102498",
+      "status": "success"
+    },
+    "IPG": {
+      "last_updated": "2025-05-06T09:03:30.437944",
+      "status": "success"
+    },
+    "CX": {
+      "last_updated": "2025-05-06T09:03:31.836003",
+      "status": "success"
+    },
+    "MGA": {
+      "last_updated": "2025-05-06T09:03:33.235180",
+      "status": "success"
+    },
+    "OVV": {
+      "last_updated": "2025-05-06T09:03:34.590253",
+      "status": "success"
+    },
+    "FTAI": {
+      "last_updated": "2025-05-06T09:03:36.326055",
+      "status": "success"
+    },
+    "HIMS": {
+      "last_updated": "2025-05-06T09:03:37.684440",
+      "status": "success"
+    },
+    "ROKU": {
+      "last_updated": "2025-05-06T09:03:38.951418",
+      "status": "success"
+    },
+    "KVYO": {
+      "last_updated": "2025-05-06T09:03:40.129894",
+      "status": "success"
+    },
+    "U": {
+      "last_updated": "2025-05-06T09:03:41.771314",
+      "status": "success"
+    },
+    "CELH": {
+      "last_updated": "2025-05-06T09:03:43.271490",
+      "status": "success"
+    },
+    "AVTR": {
+      "last_updated": "2025-05-06T09:03:44.578002",
+      "status": "success"
+    },
+    "MGM": {
+      "last_updated": "2025-05-06T09:03:46.175637",
+      "status": "success"
+    },
+    "XP": {
+      "last_updated": "2025-05-06T09:03:47.661032",
+      "status": "success"
+    },
+    "ASTS": {
+      "last_updated": "2025-05-06T09:03:49.045756",
+      "status": "success"
+    },
+    "GAP": {
+      "last_updated": "2025-05-06T09:03:50.474983",
+      "status": "success"
+    },
+    "ESTC": {
+      "last_updated": "2025-05-06T09:03:51.835738",
+      "status": "success"
+    },
+    "HAS": {
+      "last_updated": "2025-05-06T09:03:53.346731",
+      "status": "success"
+    },
+    "PAAS": {
+      "last_updated": "2025-05-06T09:03:55.321336",
+      "status": "success"
+    },
+    "AM": {
+      "last_updated": "2025-05-06T09:03:56.913603",
+      "status": "success"
+    },
+    "RRC": {
+      "last_updated": "2025-05-06T09:03:59.113258",
+      "status": "success"
+    },
+    "DBX": {
+      "last_updated": "2025-05-06T09:04:01.038595",
+      "status": "success"
+    },
+    "CRDO": {
+      "last_updated": "2025-05-06T09:04:04.365735",
+      "status": "success"
+    },
+    "ROIV": {
+      "last_updated": "2025-05-06T09:04:06.245114",
+      "status": "success"
+    },
+    "PARA": {
+      "last_updated": "2025-05-06T09:04:08.906752",
+      "status": "success"
+    },
+    "REXR": {
+      "last_updated": "2025-05-06T09:04:11.147019",
+      "status": "success"
+    },
+    "AGNC": {
+      "last_updated": "2025-05-06T09:04:13.155635",
+      "status": "success"
+    },
+    "FND": {
+      "last_updated": "2025-05-06T09:04:15.402005",
+      "status": "success"
+    },
+    "NIO": {
+      "last_updated": "2025-05-06T09:04:16.942903",
+      "status": "success"
+    },
+    "BRX": {
+      "last_updated": "2025-05-06T09:04:18.435709",
+      "status": "success"
+    },
+    "UWMC": {
+      "last_updated": "2025-05-06T09:04:20.024173",
+      "status": "success"
+    },
+    "LCID": {
+      "last_updated": "2025-05-06T09:04:21.458321",
+      "status": "success"
+    },
+    "NCLH": {
+      "last_updated": "2025-05-06T09:04:22.818668",
+      "status": "success"
+    },
+    "GTLB": {
+      "last_updated": "2025-05-06T09:04:24.375072",
+      "status": "success"
+    },
+    "EXLS": {
+      "last_updated": "2025-05-06T09:04:26.197114",
+      "status": "success"
+    },
+    "MTCH": {
+      "last_updated": "2025-05-06T09:04:27.836708",
+      "status": "success"
+    },
+    "IONQ": {
+      "last_updated": "2025-05-06T09:04:29.568486",
+      "status": "success"
+    },
+    "BILI": {
+      "last_updated": "2025-05-06T09:04:31.349392",
+      "status": "success"
+    },
+    "SKX": {
+      "last_updated": "2025-05-06T09:04:33.387161",
+      "status": "success"
+    },
+    "SRAD": {
+      "last_updated": "2025-05-06T09:04:34.864017",
+      "status": "success"
+    },
+    "FNMA": {
+      "last_updated": "2025-05-06T09:04:37.324232",
+      "status": "success"
+    },
+    "BBIO": {
+      "last_updated": "2025-05-06T09:04:38.863935",
+      "status": "success"
+    },
+    "VIPS": {
+      "last_updated": "2025-05-06T09:04:40.491278",
+      "status": "success"
+    },
+    "FOUR": {
+      "last_updated": "2025-05-06T09:04:42.870065",
+      "status": "success"
+    },
+    "AXTA": {
+      "last_updated": "2025-05-06T09:04:44.373686",
+      "status": "success"
+    },
+    "AES": {
+      "last_updated": "2025-05-06T09:04:46.059284",
+      "status": "success"
+    },
+    "OBDC": {
+      "last_updated": "2025-05-06T09:04:47.560817",
+      "status": "success"
+    },
+    "AZEK": {
+      "last_updated": "2025-05-06T09:04:49.240648",
+      "status": "success"
+    },
+    "UGI": {
+      "last_updated": "2025-05-06T09:04:51.251923",
+      "status": "success"
+    },
+    "LSCC": {
+      "last_updated": "2025-05-06T09:04:52.826978",
+      "status": "success"
+    },
+    "ALB": {
+      "last_updated": "2025-05-06T09:04:54.574137",
+      "status": "success"
+    },
+    "BZ": {
+      "last_updated": "2025-05-06T09:04:55.988730",
+      "status": "success"
+    },
+    "AAL": {
+      "last_updated": "2025-05-06T09:04:57.706838",
+      "status": "success"
+    },
+    "SIRI": {
+      "last_updated": "2025-05-06T09:04:59.310603",
+      "status": "success"
+    },
+    "TGTX": {
+      "last_updated": "2025-05-06T09:05:00.969895",
+      "status": "success"
+    },
+    "ONB": {
+      "last_updated": "2025-05-06T09:05:02.592061",
+      "status": "success"
+    },
+    "XHG": {
+      "last_updated": "2025-05-06T09:05:04.252256",
+      "status": "success"
+    },
+    "CFLT": {
+      "last_updated": "2025-05-06T09:05:05.786120",
+      "status": "success"
+    },
+    "KNX": {
+      "last_updated": "2025-05-06T09:05:07.453677",
+      "status": "success"
+    },
+    "BBWI": {
+      "last_updated": "2025-05-06T09:05:09.322951",
+      "status": "success"
+    },
+    "QRVO": {
+      "last_updated": "2025-05-06T09:05:11.002760",
+      "status": "success"
+    },
+    "INFA": {
+      "last_updated": "2025-05-06T09:05:12.334914",
+      "status": "success"
+    },
+    "AA": {
+      "last_updated": "2025-05-06T09:05:14.371476",
+      "status": "success"
+    },
+    "PATH": {
+      "last_updated": "2025-05-06T09:05:16.739444",
+      "status": "success"
+    },
+    "BRFS": {
+      "last_updated": "2025-05-06T09:05:18.309807",
+      "status": "success"
+    },
+    "GPK": {
+      "last_updated": "2025-05-06T09:05:19.925729",
+      "status": "success"
+    },
+    "CWAN": {
+      "last_updated": "2025-05-06T09:05:21.318601",
+      "status": "success"
+    },
+    "SLM": {
+      "last_updated": "2025-05-06T09:05:22.842687",
+      "status": "success"
+    },
+    "STWD": {
+      "last_updated": "2025-05-06T09:05:24.441028",
+      "status": "success"
+    },
+    "IVZ": {
+      "last_updated": "2025-05-06T09:05:26.284396",
+      "status": "success"
+    },
+    "LEVI": {
+      "last_updated": "2025-05-06T09:05:27.867307",
+      "status": "success"
+    },
+    "QXO": {
+      "last_updated": "2025-05-06T09:05:29.712044",
+      "status": "success"
+    },
+    "ADT": {
+      "last_updated": "2025-05-06T09:05:33.170500",
+      "status": "success"
+    },
+    "S": {
+      "last_updated": "2025-05-06T09:05:35.037037",
+      "status": "success"
+    },
+    "FLS": {
+      "last_updated": "2025-05-06T09:05:37.634155",
+      "status": "success"
+    },
+    "BRKR": {
+      "last_updated": "2025-05-06T09:05:39.471530",
+      "status": "success"
+    },
+    "CCCS": {
+      "last_updated": "2025-05-06T09:05:40.929243",
+      "status": "success"
+    },
+    "DINO": {
+      "last_updated": "2025-05-06T09:05:42.671017",
+      "status": "success"
+    },
+    "FLR": {
+      "last_updated": "2025-05-06T09:05:44.374854",
+      "status": "success"
+    },
+    "APA": {
+      "last_updated": "2025-05-06T09:05:46.774029",
+      "status": "success"
+    },
+    "RITM": {
+      "last_updated": "2025-05-06T09:05:49.114441",
+      "status": "success"
+    },
+    "NBIS": {
+      "last_updated": "2025-05-06T09:05:50.280135",
+      "status": "success"
+    },
+    "ENPH": {
+      "last_updated": "2025-05-06T09:05:53.499013",
+      "status": "success"
+    },
+    "CIG": {
+      "last_updated": "2025-05-06T09:05:55.330494",
+      "status": "success"
+    },
+    "CRK": {
+      "last_updated": "2025-05-06T09:05:56.973640",
+      "status": "success"
+    },
+    "EAT": {
+      "last_updated": "2025-05-06T09:05:58.405502",
+      "status": "success"
+    },
+    "GH": {
+      "last_updated": "2025-05-06T09:05:59.999884",
+      "status": "success"
+    },
+    "PSLV": {
+      "last_updated": "2025-05-06T09:06:01.827504",
+      "status": "success"
+    },
+    "CZR": {
+      "last_updated": "2025-05-06T09:06:03.289760",
+      "status": "success"
+    },
+    "ALK": {
+      "last_updated": "2025-05-06T09:06:04.732973",
+      "status": "success"
+    },
+    "ADMA": {
+      "last_updated": "2025-05-06T09:06:07.187357",
+      "status": "success"
+    },
+    "TAL": {
+      "last_updated": "2025-05-06T09:06:09.015772",
+      "status": "success"
+    },
+    "OPCH": {
+      "last_updated": "2025-05-06T09:06:10.704100",
+      "status": "success"
+    },
+    "HR": {
+      "last_updated": "2025-05-06T09:06:12.885358",
+      "status": "success"
+    },
+    "LYFT": {
+      "last_updated": "2025-05-06T09:06:14.874436",
+      "status": "success"
+    },
+    "AMTM": {
+      "last_updated": "2025-05-06T09:06:16.134808",
+      "status": "success"
+    },
+    "JOBY": {
+      "last_updated": "2025-05-06T09:06:17.565249",
+      "status": "success"
+    },
+    "GGB": {
+      "last_updated": "2025-05-06T09:06:19.143747",
+      "status": "success"
+    },
+    "MAT": {
+      "last_updated": "2025-05-06T09:06:20.699228",
+      "status": "success"
+    },
+    "ALKS": {
+      "last_updated": "2025-05-06T09:06:22.009251",
+      "status": "success"
+    },
+    "DAR": {
+      "last_updated": "2025-05-06T09:06:23.391189",
+      "status": "success"
+    },
+    "MTDR": {
+      "last_updated": "2025-05-06T09:06:25.053278",
+      "status": "success"
+    },
+    "CE": {
+      "last_updated": "2025-05-06T09:06:26.770420",
+      "status": "success"
+    },
+    "ESI": {
+      "last_updated": "2025-05-06T09:06:28.272016",
+      "status": "success"
+    },
+    "ACHR": {
+      "last_updated": "2025-05-06T09:06:29.877272",
+      "status": "success"
+    },
+    "GTES": {
+      "last_updated": "2025-05-06T09:06:31.608358",
+      "status": "success"
+    },
+    "MARA": {
+      "last_updated": "2025-05-06T09:06:33.105237",
+      "status": "success"
+    },
+    "VLY": {
+      "last_updated": "2025-05-06T09:06:35.530842",
+      "status": "success"
+    },
+    "VFC": {
+      "last_updated": "2025-05-06T09:06:37.057742",
+      "status": "success"
+    },
+    "WSC": {
+      "last_updated": "2025-05-06T09:06:38.983192",
+      "status": "success"
+    },
+    "SMR": {
+      "last_updated": "2025-05-06T09:06:40.373369",
+      "status": "success"
+    },
+    "COLB": {
+      "last_updated": "2025-05-06T09:06:42.449708",
+      "status": "success"
+    },
+    "KRG": {
+      "last_updated": "2025-05-06T09:06:44.448389",
+      "status": "success"
+    },
+    "FNB": {
+      "last_updated": "2025-05-06T09:06:46.402013",
+      "status": "success"
+    },
+    "GNTX": {
+      "last_updated": "2025-05-06T09:06:48.063145",
+      "status": "success"
+    },
+    "ELAN": {
+      "last_updated": "2025-05-06T09:06:49.457298",
+      "status": "success"
+    },
+    "CHX": {
+      "last_updated": "2025-05-06T09:06:51.086694",
+      "status": "success"
+    },
+    "UPST": {
+      "last_updated": "2025-05-06T09:06:52.718670",
+      "status": "success"
+    },
+    "FMC": {
+      "last_updated": "2025-05-06T09:06:54.440576",
+      "status": "success"
+    },
+    "CGNX": {
+      "last_updated": "2025-05-06T09:06:56.109084",
+      "status": "success"
+    },
+    "FIVE": {
+      "last_updated": "2025-05-06T09:06:57.613662",
+      "status": "success"
+    },
+    "RHI": {
+      "last_updated": "2025-05-06T09:06:59.285135",
+      "status": "success"
+    },
+    "ETSY": {
+      "last_updated": "2025-05-06T09:07:00.797067",
+      "status": "success"
+    },
+    "NOV": {
+      "last_updated": "2025-05-06T09:07:02.384609",
+      "status": "success"
+    },
+    "BGC": {
+      "last_updated": "2025-05-06T09:07:03.797023",
+      "status": "success"
+    },
+    "GEO": {
+      "last_updated": "2025-05-06T09:07:05.130915",
+      "status": "success"
+    },
+    "COTY": {
+      "last_updated": "2025-05-06T09:07:06.457207",
+      "status": "success"
+    },
+    "AMKR": {
+      "last_updated": "2025-05-06T09:07:08.155533",
+      "status": "success"
+    },
+    "CYTK": {
+      "last_updated": "2025-05-06T09:07:10.170357",
+      "status": "success"
+    },
+    "CLF": {
+      "last_updated": "2025-05-06T09:07:11.797821",
+      "status": "success"
+    },
+    "CNX": {
+      "last_updated": "2025-05-06T09:07:13.619900",
+      "status": "success"
+    },
+    "FUTU": {
+      "last_updated": "2025-05-06T09:07:15.346954",
+      "status": "success"
+    },
+    "FRSH": {
+      "last_updated": "2025-05-06T09:07:16.710229",
+      "status": "success"
+    },
+    "W": {
+      "last_updated": "2025-05-06T09:07:18.165480",
+      "status": "success"
+    },
+    "RELY": {
+      "last_updated": "2025-05-06T09:07:19.441995",
+      "status": "success"
+    },
+    "AQN": {
+      "last_updated": "2025-05-06T09:07:21.557038",
+      "status": "success"
+    },
+    "MGY": {
+      "last_updated": "2025-05-06T09:07:23.017505",
+      "status": "success"
+    },
+    "COMP": {
+      "last_updated": "2025-05-06T09:07:24.555048",
+      "status": "success"
+    },
+    "KC": {
+      "last_updated": "2025-05-06T09:07:26.335099",
+      "status": "success"
+    },
+    "MP": {
+      "last_updated": "2025-05-06T09:07:27.966607",
+      "status": "success"
+    },
+    "JWN": {
+      "last_updated": "2025-05-06T09:07:29.780250",
+      "status": "success"
+    },
+    "DNB": {
+      "last_updated": "2025-05-06T09:07:31.604209",
+      "status": "success"
+    },
+    "BTG": {
+      "last_updated": "2025-05-06T09:07:36.122306",
+      "status": "success"
+    },
+    "LUMN": {
+      "last_updated": "2025-05-06T09:07:37.969206",
+      "status": "success"
+    },
+    "IAG": {
+      "last_updated": "2025-05-06T09:07:39.419764",
+      "status": "success"
+    },
+    "ELF": {
+      "last_updated": "2025-05-06T09:07:41.136375",
+      "status": "success"
+    },
+    "BE": {
+      "last_updated": "2025-05-06T09:07:42.664805",
+      "status": "success"
+    },
+    "FRO": {
+      "last_updated": "2025-05-06T09:07:44.339619",
+      "status": "success"
+    },
+    "SOUN": {
+      "last_updated": "2025-05-06T09:07:45.760725",
+      "status": "success"
+    },
+    "EGO": {
+      "last_updated": "2025-05-06T09:07:47.328177",
+      "status": "success"
+    },
+    "STNE": {
+      "last_updated": "2025-05-06T09:07:48.975777",
+      "status": "success"
+    },
+    "OKLO": {
+      "last_updated": "2025-05-06T09:07:50.372106",
+      "status": "success"
+    },
+    "VRN": {
+      "last_updated": "2025-05-06T09:07:52.942496",
+      "status": "success"
+    },
+    "ALGM": {
+      "last_updated": "2025-05-06T09:07:54.593224",
+      "status": "success"
+    },
+    "NE": {
+      "last_updated": "2025-05-06T09:07:56.260998",
+      "status": "success"
+    },
+    "CNK": {
+      "last_updated": "2025-05-06T09:07:57.943231",
+      "status": "success"
+    },
+    "SWTX": {
+      "last_updated": "2025-05-06T09:07:59.297427",
+      "status": "success"
+    },
+    "CDE": {
+      "last_updated": "2025-05-06T09:08:00.673625",
+      "status": "success"
+    },
+    "M": {
+      "last_updated": "2025-05-06T09:08:02.044314",
+      "status": "success"
+    },
+    "VKTX": {
+      "last_updated": "2025-05-06T09:08:03.533529",
+      "status": "success"
+    },
+    "WFRD": {
+      "last_updated": "2025-05-06T09:08:05.673483",
+      "status": "success"
+    },
+    "ZETA": {
+      "last_updated": "2025-05-06T09:08:07.310799",
+      "status": "success"
+    },
+    "WU": {
+      "last_updated": "2025-05-06T09:08:09.060176",
+      "status": "success"
+    },
+    "SBSW": {
+      "last_updated": "2025-05-06T09:08:10.692531",
+      "status": "success"
+    },
+    "MPW": {
+      "last_updated": "2025-05-06T09:08:13.094167",
+      "status": "success"
+    },
+    "PAGS": {
+      "last_updated": "2025-05-06T09:08:14.645742",
+      "status": "success"
+    },
+    "GT": {
+      "last_updated": "2025-05-06T09:08:16.838525",
+      "status": "success"
+    },
+    "SMG": {
+      "last_updated": "2025-05-06T09:08:18.602099",
+      "status": "success"
+    },
+    "MUR": {
+      "last_updated": "2025-05-06T09:08:20.284507",
+      "status": "success"
+    },
+    "ALHC": {
+      "last_updated": "2025-05-06T09:08:21.654326",
+      "status": "success"
+    },
+    "RGTI": {
+      "last_updated": "2025-05-06T09:08:22.928152",
+      "status": "success"
+    },
+    "ZI": {
+      "last_updated": "2025-05-06T09:08:24.482200",
+      "status": "success"
+    },
+    "NGD": {
+      "last_updated": "2025-05-06T09:08:26.095214",
+      "status": "success"
+    },
+    "HAYW": {
+      "last_updated": "2025-05-06T09:08:27.654072",
+      "status": "success"
+    },
+    "NXE": {
+      "last_updated": "2025-05-06T09:08:29.363588",
+      "status": "success"
+    },
+    "RIOT": {
+      "last_updated": "2025-05-06T09:08:31.023949",
+      "status": "success"
+    },
+    "SMTC": {
+      "last_updated": "2025-05-06T09:08:32.505738",
+      "status": "success"
+    },
+    "CLVT": {
+      "last_updated": "2025-05-06T09:08:34.181099",
+      "status": "success"
+    },
+    "HBM": {
+      "last_updated": "2025-05-06T09:08:38.473153",
+      "status": "success"
+    },
+    "HOG": {
+      "last_updated": "2025-05-06T09:08:40.182784",
+      "status": "success"
+    },
+    "AI": {
+      "last_updated": "2025-05-06T09:08:41.724219",
+      "status": "success"
+    },
+    "GNW": {
+      "last_updated": "2025-05-06T09:08:43.455663",
+      "status": "success"
+    },
+    "OSCR": {
+      "last_updated": "2025-05-06T09:08:45.432588",
+      "status": "success"
+    },
+    "ALIT": {
+      "last_updated": "2025-05-06T09:08:47.151551",
+      "status": "success"
+    },
+    "NVST": {
+      "last_updated": "2025-05-06T09:08:48.927083",
+      "status": "success"
+    },
+    "HL": {
+      "last_updated": "2025-05-06T09:08:50.676310",
+      "status": "success"
+    },
+    "AG": {
+      "last_updated": "2025-05-06T09:08:52.482414",
+      "status": "success"
+    },
+    "EQX": {
+      "last_updated": "2025-05-06T09:08:54.401505",
+      "status": "success"
+    },
+    "GENI": {
+      "last_updated": "2025-05-06T09:08:56.666840",
+      "status": "success"
+    },
+    "XRAY": {
+      "last_updated": "2025-05-06T09:08:58.377153",
+      "status": "success"
+    },
+    "APLE": {
+      "last_updated": "2025-05-06T09:08:59.940188",
+      "status": "success"
+    },
+    "IRDM": {
+      "last_updated": "2025-05-06T09:09:02.067075",
+      "status": "success"
+    },
+    "PTON": {
+      "last_updated": "2025-05-06T09:09:04.059264",
+      "status": "success"
+    },
+    "PAYO": {
+      "last_updated": "2025-05-06T09:09:05.642084",
+      "status": "success"
+    },
+    "SM": {
+      "last_updated": "2025-05-06T09:09:07.298763",
+      "status": "success"
+    },
+    "CORZ": {
+      "last_updated": "2025-05-06T09:09:08.512272",
+      "status": "success"
+    },
+    "APLS": {
+      "last_updated": "2025-05-06T09:09:09.856514",
+      "status": "success"
+    },
+    "UAA": {
+      "last_updated": "2025-05-06T09:09:11.617189",
+      "status": "success"
+    },
+    "UA": {
+      "last_updated": "2025-05-06T09:09:13.067740",
+      "status": "success"
+    },
+    "AMRX": {
+      "last_updated": "2025-05-06T09:09:14.847566",
+      "status": "success"
+    },
+    "OGN": {
+      "last_updated": "2025-05-06T09:09:16.239979",
+      "status": "success"
+    },
+    "CLSK": {
+      "last_updated": "2025-05-06T09:09:17.870319",
+      "status": "success"
+    },
+    "WEN": {
+      "last_updated": "2025-05-06T09:09:19.636449",
+      "status": "success"
+    },
+    "SG": {
+      "last_updated": "2025-05-06T09:09:21.023997",
+      "status": "success"
+    },
+    "SAND": {
+      "last_updated": "2025-05-06T09:09:23.094416",
+      "status": "success"
+    },
+    "LU": {
+      "last_updated": "2025-05-06T09:09:25.145435",
+      "status": "success"
+    },
+    "RXO": {
+      "last_updated": "2025-05-06T09:09:26.813973",
+      "status": "success"
+    },
+    "LXP": {
+      "last_updated": "2025-05-06T09:09:28.462757",
+      "status": "success"
+    },
+    "PENN": {
+      "last_updated": "2025-05-06T09:09:30.181968",
+      "status": "success"
+    },
+    "HSAI": {
+      "last_updated": "2025-05-06T09:09:31.619105",
+      "status": "success"
+    },
+    "YETI": {
+      "last_updated": "2025-05-06T09:09:33.143563",
+      "status": "success"
+    },
+    "BHVN": {
+      "last_updated": "2025-05-06T09:09:34.452105",
+      "status": "success"
+    },
+    "CWK": {
+      "last_updated": "2025-05-06T09:09:35.964260",
+      "status": "success"
+    },
+    "PTEN": {
+      "last_updated": "2025-05-06T09:09:37.729919",
+      "status": "success"
+    },
+    "BANC": {
+      "last_updated": "2025-05-06T09:09:39.565578",
+      "status": "success"
+    },
+    "QBTS": {
+      "last_updated": "2025-05-06T09:09:40.906605",
+      "status": "success"
+    },
+    "RXRX": {
+      "last_updated": "2025-05-06T09:09:42.311129",
+      "status": "success"
+    },
+    "UEC": {
+      "last_updated": "2025-05-06T09:09:43.788663",
+      "status": "success"
+    },
+    "PSNY": {
+      "last_updated": "2025-05-06T09:09:45.143556",
+      "status": "success"
+    },
+    "MLCO": {
+      "last_updated": "2025-05-06T09:09:46.576594",
+      "status": "success"
+    },
+    "IBRX": {
+      "last_updated": "2025-05-06T09:09:47.988875",
+      "status": "success"
+    },
+    "QS": {
+      "last_updated": "2025-05-06T09:09:49.427499",
+      "status": "success"
+    },
+    "CRGY": {
+      "last_updated": "2025-05-06T09:09:50.762216",
+      "status": "success"
+    },
+    "CGON": {
+      "last_updated": "2025-05-06T09:09:51.939853",
+      "status": "success"
+    },
+    "NWL": {
+      "last_updated": "2025-05-06T09:09:53.947682",
+      "status": "success"
+    },
+    "AMBP": {
+      "last_updated": "2025-05-06T09:09:56.704854",
+      "status": "success"
+    },
+    "SID": {
+      "last_updated": "2025-05-06T09:09:58.652466",
+      "status": "success"
+    },
+    "ACHC": {
+      "last_updated": "2025-05-06T09:10:00.421601",
+      "status": "success"
+    },
+    "DAN": {
+      "last_updated": "2025-05-06T09:10:02.378183",
+      "status": "success"
+    },
+    "BTDR": {
+      "last_updated": "2025-05-06T09:10:03.800513",
+      "status": "success"
+    },
+    "HUN": {
+      "last_updated": "2025-05-06T09:10:05.482879",
+      "status": "success"
+    },
+    "CERT": {
+      "last_updated": "2025-05-06T09:10:07.235992",
+      "status": "success"
+    },
+    "RIG": {
+      "last_updated": "2025-05-06T09:10:08.847913",
+      "status": "success"
+    },
+    "BB": {
+      "last_updated": "2025-05-06T09:10:10.271977",
+      "status": "success"
+    },
+    "VIAV": {
+      "last_updated": "2025-05-06T09:10:11.908554",
+      "status": "success"
+    },
+    "PK": {
+      "last_updated": "2025-05-06T09:10:13.487236",
+      "status": "success"
+    },
+    "ABR": {
+      "last_updated": "2025-05-06T09:10:15.068538",
+      "status": "success"
+    },
+    "OXLC": {
+      "last_updated": "2025-05-06T09:10:16.565544",
+      "status": "success"
+    },
+    "WRBY": {
+      "last_updated": "2025-05-06T09:10:17.954698",
+      "status": "success"
+    },
+    "HTZ": {
+      "last_updated": "2025-05-06T09:10:19.327166",
+      "status": "success"
+    },
+    "FOLD": {
+      "last_updated": "2025-05-06T09:10:20.834430",
+      "status": "success"
+    },
+    "SSRM": {
+      "last_updated": "2025-05-06T09:10:22.387777",
+      "status": "success"
+    },
+    "PBF": {
+      "last_updated": "2025-05-06T09:10:23.986137",
+      "status": "success"
+    },
+    "WRD": {
+      "last_updated": "2025-05-06T09:10:25.127423",
+      "status": "success"
+    },
+    "BHC": {
+      "last_updated": "2025-05-06T09:10:26.463644",
+      "status": "success"
+    },
+    "LBRT": {
+      "last_updated": "2025-05-06T09:10:28.252139",
+      "status": "success"
+    },
+    "PII": {
+      "last_updated": "2025-05-06T09:10:31.096452",
+      "status": "success"
+    },
+    "VNET": {
+      "last_updated": "2025-05-06T09:10:32.575654",
+      "status": "success"
+    },
+    "WGS": {
+      "last_updated": "2025-05-06T09:10:34.061083",
+      "status": "success"
+    },
+    "AEO": {
+      "last_updated": "2025-05-06T09:10:36.585759",
+      "status": "success"
+    },
+    "FIVN": {
+      "last_updated": "2025-05-06T09:10:38.050197",
+      "status": "success"
+    },
+    "IQ": {
+      "last_updated": "2025-05-06T09:10:39.485411",
+      "status": "success"
+    },
+    "BCRX": {
+      "last_updated": "2025-05-06T09:10:40.859530",
+      "status": "success"
+    },
+    "CC": {
+      "last_updated": "2025-05-06T09:10:42.396550",
+      "status": "success"
+    },
+    "VSH": {
+      "last_updated": "2025-05-06T09:10:44.082030",
+      "status": "success"
+    },
+    "ZIM": {
+      "last_updated": "2025-05-06T09:10:46.000020",
+      "status": "success"
+    },
+    "CPRI": {
+      "last_updated": "2025-05-06T09:10:47.530748",
+      "status": "success"
+    },
+    "FSM": {
+      "last_updated": "2025-05-06T09:10:48.989816",
+      "status": "success"
+    },
+    "MQ": {
+      "last_updated": "2025-05-06T09:10:50.361109",
+      "status": "success"
+    },
+    "SHO": {
+      "last_updated": "2025-05-06T09:10:51.916948",
+      "status": "success"
+    },
+    "ATEC": {
+      "last_updated": "2025-05-06T09:10:53.595143",
+      "status": "success"
+    },
+    "DBRG": {
+      "last_updated": "2025-05-06T09:10:55.573351",
+      "status": "success"
+    },
+    "AGL": {
+      "last_updated": "2025-05-06T09:10:57.263951",
+      "status": "success"
+    },
+    "PLYA": {
+      "last_updated": "2025-05-06T09:10:59.230945",
+      "status": "success"
+    },
+    "MGNI": {
+      "last_updated": "2025-05-06T09:11:01.086062",
+      "status": "success"
+    },
+    "CLOV": {
+      "last_updated": "2025-05-06T09:11:03.177910",
+      "status": "success"
+    },
+    "JBLU": {
+      "last_updated": "2025-05-06T09:11:05.414515",
+      "status": "success"
+    },
+    "HBI": {
+      "last_updated": "2025-05-06T09:11:07.407340",
+      "status": "success"
+    },
+    "LUNR": {
+      "last_updated": "2025-05-06T09:11:08.997177",
+      "status": "success"
+    },
+    "NFE": {
+      "last_updated": "2025-05-06T09:11:11.254193",
+      "status": "success"
+    },
+    "RUN": {
+      "last_updated": "2025-05-06T09:11:12.799481",
+      "status": "success"
+    },
+    "DESP": {
+      "last_updated": "2025-05-06T09:11:14.240281",
+      "status": "success"
+    },
+    "GO": {
+      "last_updated": "2025-05-06T09:11:15.555025",
+      "status": "success"
+    },
+    "PSEC": {
+      "last_updated": "2025-05-06T09:11:16.945406",
+      "status": "success"
+    },
+    "DRH": {
+      "last_updated": "2025-05-06T09:11:18.411385",
+      "status": "success"
+    },
+    "CSTM": {
+      "last_updated": "2025-05-06T09:11:19.920781",
+      "status": "success"
+    },
+    "VSCO": {
+      "last_updated": "2025-05-06T09:11:21.305336",
+      "status": "success"
+    },
+    "TIGR": {
+      "last_updated": "2025-05-06T09:11:22.861483",
+      "status": "success"
+    },
+    "GOGL": {
+      "last_updated": "2025-05-06T09:11:24.808237",
+      "status": "success"
+    },
+    "BTU": {
+      "last_updated": "2025-05-06T09:11:27.358897",
+      "status": "success"
+    },
+    "BKD": {
+      "last_updated": "2025-05-06T09:11:29.862948",
+      "status": "success"
+    },
+    "ADPT": {
+      "last_updated": "2025-05-06T09:11:31.484131",
+      "status": "success"
+    },
+    "IREN": {
+      "last_updated": "2025-05-06T09:11:33.020477",
+      "status": "success"
+    },
+    "HUT": {
+      "last_updated": "2025-05-06T09:11:34.733028",
+      "status": "success"
+    },
+    "LX": {
+      "last_updated": "2025-05-06T09:11:36.771143",
+      "status": "success"
+    },
+    "CWH": {
+      "last_updated": "2025-05-06T09:11:38.760777",
+      "status": "success"
+    },
+    "HLMN": {
+      "last_updated": "2025-05-06T09:11:41.173324",
+      "status": "success"
+    },
+    "DVAX": {
+      "last_updated": "2025-05-06T09:11:42.940694",
+      "status": "success"
+    },
+    "NG": {
+      "last_updated": "2025-05-06T09:11:44.281257",
+      "status": "success"
+    },
+    "COUR": {
+      "last_updated": "2025-05-06T09:11:45.667552",
+      "status": "success"
+    },
+    "DYN": {
+      "last_updated": "2025-05-06T09:11:47.023046",
+      "status": "success"
+    },
+    "ARR": {
+      "last_updated": "2025-05-06T09:11:48.464480",
+      "status": "success"
+    },
+    "DNN": {
+      "last_updated": "2025-05-06T09:11:50.067700",
+      "status": "success"
+    },
+    "DX": {
+      "last_updated": "2025-05-06T09:11:51.810580",
+      "status": "success"
+    },
+    "LEG": {
+      "last_updated": "2025-05-06T09:11:53.455349",
+      "status": "success"
+    },
+    "BTE": {
+      "last_updated": "2025-05-06T09:11:54.864133",
+      "status": "success"
+    },
+    "MODG": {
+      "last_updated": "2025-05-06T09:11:56.261285",
+      "status": "success"
+    },
+    "NEOG": {
+      "last_updated": "2025-05-06T09:11:58.176420",
+      "status": "success"
+    },
+    "TDOC": {
+      "last_updated": "2025-05-06T09:11:59.984250",
+      "status": "success"
+    },
+    "FL": {
+      "last_updated": "2025-05-06T09:12:01.723328",
+      "status": "success"
+    },
+    "WULF": {
+      "last_updated": "2025-05-06T09:12:03.095760",
+      "status": "success"
+    },
+    "RDFN": {
+      "last_updated": "2025-05-06T09:12:04.608218",
+      "status": "success"
+    },
+    "ENVX": {
+      "last_updated": "2025-05-06T09:12:07.145901",
+      "status": "success"
+    },
+    "VSAT": {
+      "last_updated": "2025-05-06T09:12:09.274806",
+      "status": "success"
+    },
+    "EOSE": {
+      "last_updated": "2025-05-06T09:12:11.044541",
+      "status": "success"
+    },
+    "PCT": {
+      "last_updated": "2025-05-06T09:12:13.444236",
+      "status": "success"
+    },
+    "APLD": {
+      "last_updated": "2025-05-06T09:12:15.392513",
+      "status": "success"
+    },
+    "CIFR": {
+      "last_updated": "2025-05-06T09:12:17.320346",
+      "status": "success"
+    },
+    "IOVA": {
+      "last_updated": "2025-05-06T09:12:19.396629",
+      "status": "success"
+    },
+    "FLYW": {
+      "last_updated": "2025-05-06T09:12:21.394504",
+      "status": "success"
+    },
+    "AMC": {
+      "last_updated": "2025-05-06T09:12:23.521871",
+      "status": "success"
+    },
+    "ATUS": {
+      "last_updated": "2025-05-06T09:12:26.198029",
+      "status": "success"
+    },
+    "YALA": {
+      "last_updated": "2025-05-06T09:12:27.831816",
+      "status": "success"
+    },
+    "RLJ": {
+      "last_updated": "2025-05-06T09:12:29.469818",
+      "status": "success"
+    },
+    "QUBT": {
+      "last_updated": "2025-05-06T09:12:30.841025",
+      "status": "success"
+    },
+    "PEB": {
+      "last_updated": "2025-05-06T09:12:32.150671",
+      "status": "success"
+    },
+    "TMC": {
+      "last_updated": "2025-05-06T09:12:33.481007",
+      "status": "success"
+    },
+    "PL": {
+      "last_updated": "2025-05-06T09:12:34.827845",
+      "status": "success"
+    },
+    "TXG": {
+      "last_updated": "2025-05-06T09:12:36.318513",
+      "status": "success"
+    },
+    "NVAX": {
+      "last_updated": "2025-05-06T09:12:37.688999",
+      "status": "success"
+    },
+    "COMM": {
+      "last_updated": "2025-05-06T09:12:38.992397",
+      "status": "success"
+    },
+    "PGRE": {
+      "last_updated": "2025-05-06T09:12:40.384749",
+      "status": "success"
+    },
+    "HLX": {
+      "last_updated": "2025-05-06T09:12:41.780942",
+      "status": "success"
+    },
+    "UUUU": {
+      "last_updated": "2025-05-06T09:12:43.121419",
+      "status": "success"
+    },
+    "NEO": {
+      "last_updated": "2025-05-06T09:12:45.718415",
+      "status": "success"
+    },
+    "ARDX": {
+      "last_updated": "2025-05-06T09:12:47.545730",
+      "status": "success"
+    },
+    "BBAI": {
+      "last_updated": "2025-05-06T09:12:49.126825",
+      "status": "success"
+    },
+    "SABR": {
+      "last_updated": "2025-05-06T09:12:50.661334",
+      "status": "success"
+    },
+    "OPK": {
+      "last_updated": "2025-05-06T09:12:52.148499",
+      "status": "success"
+    },
+    "NTLA": {
+      "last_updated": "2025-05-06T09:12:53.655506",
+      "status": "success"
+    },
+    "TROX": {
+      "last_updated": "2025-05-06T09:12:55.084104",
+      "status": "success"
+    },
+    "EXK": {
+      "last_updated": "2025-05-06T09:12:56.886571",
+      "status": "success"
+    },
+    "GERN": {
+      "last_updated": "2025-05-06T09:12:58.264688",
+      "status": "success"
+    },
+    "EVGO": {
+      "last_updated": "2025-05-06T09:12:59.896400",
+      "status": "success"
+    },
+    "PLUG": {
+      "last_updated": "2025-05-06T09:13:02.254667",
+      "status": "success"
+    },
+    "EZPW": {
+      "last_updated": "2025-05-06T09:13:03.938724",
+      "status": "success"
+    },
+    "BLND": {
+      "last_updated": "2025-05-06T09:13:05.431527",
+      "status": "success"
+    },
+    "RCKT": {
+      "last_updated": "2025-05-06T09:13:06.864967",
+      "status": "success"
+    },
+    "TV": {
+      "last_updated": "2025-05-06T09:13:08.322985",
+      "status": "success"
+    },
+    "WOOF": {
+      "last_updated": "2025-05-06T09:13:09.585555",
+      "status": "success"
+    },
+    "NUVB": {
+      "last_updated": "2025-05-06T09:13:11.074595",
+      "status": "success"
+    },
+    "KSS": {
+      "last_updated": "2025-05-06T09:13:13.100186",
+      "status": "success"
+    },
+    "AAOI": {
+      "last_updated": "2025-05-06T09:13:14.866543",
+      "status": "success"
+    },
+    "FUBO": {
+      "last_updated": "2025-05-06T09:13:16.517947",
+      "status": "success"
+    },
+    "KOS": {
+      "last_updated": "2025-05-06T09:13:18.010600",
+      "status": "success"
+    },
+    "ETWO": {
+      "last_updated": "2025-05-06T09:13:19.336087",
+      "status": "success"
+    },
+    "FLNC": {
+      "last_updated": "2025-05-06T09:13:20.595865",
+      "status": "success"
+    },
+    "SEDG": {
+      "last_updated": "2025-05-06T09:13:22.099670",
+      "status": "success"
+    },
+    "RC": {
+      "last_updated": "2025-05-06T09:13:24.332427",
+      "status": "success"
+    },
+    "ARRY": {
+      "last_updated": "2025-05-06T09:13:25.824405",
+      "status": "success"
+    },
+    "SVM": {
+      "last_updated": "2025-05-06T09:13:27.175875",
+      "status": "success"
+    },
+    "ULCC": {
+      "last_updated": "2025-05-06T09:13:28.406543",
+      "status": "success"
+    },
+    "ORC": {
+      "last_updated": "2025-05-06T09:13:29.761598",
+      "status": "success"
+    },
+    "HLF": {
+      "last_updated": "2025-05-06T09:13:31.130546",
+      "status": "success"
+    },
+    "DNUT": {
+      "last_updated": "2025-05-06T09:13:32.417593",
+      "status": "success"
+    },
+    "XERS": {
+      "last_updated": "2025-05-06T09:13:33.661357",
+      "status": "success"
+    },
+    "ABCL": {
+      "last_updated": "2025-05-06T09:13:34.925008",
+      "status": "success"
+    },
+    "EVLV": {
+      "last_updated": "2025-05-06T09:13:36.206745",
+      "status": "success"
+    },
+    "BDN": {
+      "last_updated": "2025-05-06T09:13:37.468748",
+      "status": "success"
+    },
+    "REAL": {
+      "last_updated": "2025-05-06T09:13:38.710050",
+      "status": "success"
+    },
+    "MYGN": {
+      "last_updated": "2025-05-06T09:13:39.935596",
+      "status": "success"
+    },
+    "WOLF": {
+      "last_updated": "2025-05-06T09:13:41.154796",
+      "status": "success"
+    },
+    "BLMN": {
+      "last_updated": "2025-05-06T09:13:42.491360",
+      "status": "success"
+    },
+    "MVST": {
+      "last_updated": "2025-05-06T09:13:44.121669",
+      "status": "success"
+    },
+    "SHLS": {
+      "last_updated": "2025-05-06T09:13:45.514024",
+      "status": "success"
+    },
+    "LAC": {
+      "last_updated": "2025-05-06T09:13:46.799308",
+      "status": "success"
+    },
+    "AKBA": {
+      "last_updated": "2025-05-06T09:13:48.377949",
+      "status": "success"
+    },
+    "CSIQ": {
+      "last_updated": "2025-05-06T09:13:49.777849",
+      "status": "success"
+    },
+    "XRX": {
+      "last_updated": "2025-05-06T09:13:52.797418",
+      "status": "success"
+    },
+    "BFLY": {
+      "last_updated": "2025-05-06T09:13:54.685396",
+      "status": "success"
+    },
+    "PUMP": {
+      "last_updated": "2025-05-06T09:13:56.193492",
+      "status": "success"
+    },
+    "NAK": {
+      "last_updated": "2025-05-06T09:13:57.559886",
+      "status": "success"
+    },
+    "FTRE": {
+      "last_updated": "2025-05-06T09:13:58.954875",
+      "status": "success"
+    },
+    "ARVN": {
+      "last_updated": "2025-05-06T09:14:00.968746",
+      "status": "success"
+    },
+    "RLAY": {
+      "last_updated": "2025-05-06T09:14:02.616394",
+      "status": "success"
+    },
+    "RZLV": {
+      "last_updated": "2025-05-06T09:14:03.949894",
+      "status": "success"
+    },
+    "NAT": {
+      "last_updated": "2025-05-06T09:14:05.818146",
+      "status": "success"
+    },
+    "OPEN": {
+      "last_updated": "2025-05-06T09:14:07.459217",
+      "status": "success"
+    },
+    "ECX": {
+      "last_updated": "2025-05-06T09:14:08.950192",
+      "status": "success"
+    },
+    "RCAT": {
+      "last_updated": "2025-05-06T09:14:10.660714",
+      "status": "success"
+    },
+    "TSHA": {
+      "last_updated": "2025-05-06T09:14:12.583167",
+      "status": "success"
+    },
+    "RGLS": {
+      "last_updated": "2025-05-06T09:14:14.067047",
+      "status": "success"
+    },
+    "BITF": {
+      "last_updated": "2025-05-06T09:14:15.425497",
+      "status": "success"
+    },
+    "DADA": {
+      "last_updated": "2025-05-06T09:14:16.698299",
+      "status": "success"
+    },
+    "JELD": {
+      "last_updated": "2025-05-06T09:14:18.156370",
+      "status": "success"
+    },
+    "BMBL": {
+      "last_updated": "2025-05-06T09:14:19.950005",
+      "status": "success"
+    },
+    "AXL": {
+      "last_updated": "2025-05-06T09:14:21.367201",
+      "status": "success"
+    },
+    "SENS": {
+      "last_updated": "2025-05-06T09:14:22.863974",
+      "status": "success"
+    },
+    "VERV": {
+      "last_updated": "2025-05-06T09:14:24.555730",
+      "status": "success"
+    },
+    "TLRY": {
+      "last_updated": "2025-05-06T09:14:26.047741",
+      "status": "success"
+    },
+    "VLRS": {
+      "last_updated": "2025-05-06T09:14:27.609743",
+      "status": "success"
+    },
+    "ALT": {
+      "last_updated": "2025-05-06T09:14:29.188140",
+      "status": "success"
+    },
+    "BTBT": {
+      "last_updated": "2025-05-06T09:14:31.044175",
+      "status": "success"
+    },
+    "SANA": {
+      "last_updated": "2025-05-06T09:14:32.471387",
+      "status": "success"
+    },
+    "NWBO": {
+      "last_updated": "2025-05-06T09:14:33.960883",
+      "status": "success"
+    },
+    "BORR": {
+      "last_updated": "2025-05-06T09:14:35.602181",
+      "status": "success"
+    },
+    "SERV": {
+      "last_updated": "2025-05-06T09:14:36.820146",
+      "status": "success"
+    },
+    "CYDY": {
+      "last_updated": "2025-05-06T09:14:38.107929",
+      "status": "success"
+    },
+    "UAMY": {
+      "last_updated": "2025-05-06T09:14:39.464135",
+      "status": "success"
+    },
+    "CYH": {
+      "last_updated": "2025-05-06T09:14:41.364691",
+      "status": "success"
+    },
+    "NVTS": {
+      "last_updated": "2025-05-06T09:14:42.592625",
+      "status": "success"
+    },
+    "KULR": {
+      "last_updated": "2025-05-06T09:14:44.017369",
+      "status": "success"
+    },
+    "BLDP": {
+      "last_updated": "2025-05-06T09:14:46.009538",
+      "status": "success"
+    },
+    "ALLO": {
+      "last_updated": "2025-05-06T09:14:47.607795",
+      "status": "success"
+    },
+    "TTI": {
+      "last_updated": "2025-05-06T09:14:49.020233",
+      "status": "success"
+    },
+    "AUTL": {
+      "last_updated": "2025-05-06T09:14:50.760511",
+      "status": "success"
+    },
+    "RPAY": {
+      "last_updated": "2025-05-06T09:14:52.045076",
+      "status": "success"
+    },
+    "PACB": {
+      "last_updated": "2025-05-06T09:14:53.498178",
+      "status": "success"
+    },
+    "HPP": {
+      "last_updated": "2025-05-06T09:14:55.223947",
+      "status": "success"
+    },
+    "APPS": {
+      "last_updated": "2025-05-06T09:14:56.901783",
+      "status": "success"
+    },
+    "LFMD": {
+      "last_updated": "2025-05-06T09:14:58.419222",
+      "status": "success"
+    },
+    "LAES": {
+      "last_updated": "2025-05-06T09:14:59.774512",
+      "status": "success"
+    },
+    "ABEO": {
+      "last_updated": "2025-05-06T09:15:01.250259",
+      "status": "success"
+    },
+    "ASM": {
+      "last_updated": "2025-05-06T09:15:02.615861",
+      "status": "success"
+    },
+    "JMIA": {
+      "last_updated": "2025-05-06T09:15:04.069337",
+      "status": "success"
+    },
+    "SES": {
+      "last_updated": "2025-05-06T09:15:05.303743",
+      "status": "success"
+    },
+    "URG": {
+      "last_updated": "2025-05-06T09:15:06.552734",
+      "status": "success"
+    },
+    "AMPX": {
+      "last_updated": "2025-05-06T09:15:08.007029",
+      "status": "success"
+    },
+    "HIVE": {
+      "last_updated": "2025-05-06T09:15:09.573053",
+      "status": "success"
+    },
+    "CHPT": {
+      "last_updated": "2025-05-06T09:15:12.961793",
+      "status": "success"
+    },
+    "SLI": {
+      "last_updated": "2025-05-06T09:15:15.017171",
+      "status": "success"
+    },
+    "DDD": {
+      "last_updated": "2025-05-06T09:15:17.288750",
+      "status": "success"
+    },
+    "MVIS": {
+      "last_updated": "2025-05-06T09:15:19.680566",
+      "status": "success"
+    },
+    "GOSS": {
+      "last_updated": "2025-05-06T09:15:21.141468",
+      "status": "success"
+    },
+    "IAUX": {
+      "last_updated": "2025-05-06T09:15:22.593713",
+      "status": "success"
+    },
+    "GEVO": {
+      "last_updated": "2025-05-06T09:15:24.148196",
+      "status": "success"
+    },
+    "UROY": {
+      "last_updated": "2025-05-06T09:15:25.631943",
+      "status": "success"
+    },
+    "RR": {
+      "last_updated": "2025-05-06T09:15:26.828071",
+      "status": "success"
+    },
+    "LXRX": {
+      "last_updated": "2025-05-06T09:15:28.577968",
+      "status": "success"
+    },
+    "CGC": {
+      "last_updated": "2025-05-06T09:15:30.149908",
+      "status": "success"
+    },
+    "AZUL": {
+      "last_updated": "2025-05-06T09:15:31.598610",
+      "status": "success"
+    },
+    "QSI": {
+      "last_updated": "2025-05-06T09:15:33.002076",
+      "status": "success"
+    },
+    "BYON": {
+      "last_updated": "2025-05-06T09:15:34.319354",
+      "status": "success"
+    },
+    "OCGN": {
+      "last_updated": "2025-05-06T09:15:35.792219",
+      "status": "success"
+    },
+    "KOPN": {
+      "last_updated": "2025-05-06T09:15:37.138822",
+      "status": "success"
+    },
+    "ESPR": {
+      "last_updated": "2025-05-06T09:15:38.457781",
+      "status": "success"
+    },
+    "CAN": {
+      "last_updated": "2025-05-06T09:15:39.773031",
+      "status": "success"
+    },
+    "HUMA": {
+      "last_updated": "2025-05-06T09:15:41.226109",
+      "status": "success"
+    },
+    "REI": {
+      "last_updated": "2025-05-06T09:15:42.625739",
+      "status": "success"
+    },
+    "CRML": {
+      "last_updated": "2025-05-06T09:15:43.828443",
+      "status": "success"
+    },
+    "SLS": {
+      "last_updated": "2025-05-06T09:15:45.457468",
+      "status": "success"
+    },
+    "SGMO": {
+      "last_updated": "2025-05-06T09:15:47.296563",
+      "status": "success"
+    },
+    "LPRO": {
+      "last_updated": "2025-05-06T09:15:49.464610",
+      "status": "success"
+    },
+    "EAF": {
+      "last_updated": "2025-05-06T09:15:50.910490",
+      "status": "success"
+    },
+    "IRWD": {
+      "last_updated": "2025-05-06T09:15:52.252352",
+      "status": "success"
+    },
+    "FATE": {
+      "last_updated": "2025-05-06T09:15:53.861585",
+      "status": "success"
+    },
+    "ABAT": {
+      "last_updated": "2025-05-06T09:15:55.199318",
+      "status": "success"
+    },
+    "LESL": {
+      "last_updated": "2025-05-06T09:15:56.675959",
+      "status": "success"
+    },
+    "REKR": {
+      "last_updated": "2025-05-06T09:15:58.024812",
+      "status": "success"
+    },
+    "FFIE": {
+      "last_updated": "2025-05-06T09:15:59.388511",
+      "status": "success"
+    },
+    "QVCC": {
+      "last_updated": "2025-05-06T09:16:00.841744",
+      "status": "success"
+    },
+    "ONDS": {
+      "last_updated": "2025-05-06T09:16:02.234569",
+      "status": "success"
+    },
+    "CYCC": {
+      "last_updated": "2025-05-06T09:16:03.672203",
+      "status": "success"
+    },
+    "GPRO": {
+      "last_updated": "2025-05-06T09:16:05.508625",
+      "status": "success"
+    },
+    "STRO": {
+      "last_updated": "2025-05-06T09:16:07.097376",
+      "status": "success"
+    },
+    "STEM": {
+      "last_updated": "2025-05-06T09:16:09.097425",
+      "status": "success"
+    },
+    "MBOT": {
+      "last_updated": "2025-05-06T09:16:10.433837",
+      "status": "success"
+    },
+    "GORO": {
+      "last_updated": "2025-05-06T09:16:11.697407",
+      "status": "success"
+    },
+    "BLNK": {
+      "last_updated": "2025-05-06T09:16:13.194363",
+      "status": "success"
+    },
+    "OPTT": {
+      "last_updated": "2025-05-06T09:16:14.655062",
+      "status": "success"
+    },
+    "MIST": {
+      "last_updated": "2025-05-06T09:16:15.928112",
+      "status": "success"
+    },
+    "APLT": {
+      "last_updated": "2025-05-06T09:16:17.518965",
+      "status": "success"
+    },
+    "AREC": {
+      "last_updated": "2025-05-06T09:16:19.042252",
+      "status": "success"
+    },
+    "ABVE": {
+      "last_updated": "2025-05-06T09:16:20.213945",
+      "status": "success"
+    },
+    "MRSN": {
+      "last_updated": "2025-05-06T09:16:21.575041",
+      "status": "success"
+    },
+    "WW": {
+      "last_updated": "2025-05-06T09:16:22.949072",
+      "status": "success"
+    },
+    "MLGO": {
+      "last_updated": "2025-05-06T09:16:24.198439",
+      "status": "success"
+    },
+    "EJH": {
+      "last_updated": "2025-05-06T09:16:25.558074",
+      "status": "success"
+    },
+    "KITT": {
+      "last_updated": "2025-05-06T09:16:26.983250",
+      "status": "success"
+    },
+    "OMEX": {
+      "last_updated": "2025-05-06T09:16:28.439414",
+      "status": "success"
+    },
+    "NOVA": {
+      "last_updated": "2025-05-06T09:16:29.771423",
+      "status": "success"
+    },
+    "JYD": {
+      "last_updated": "2025-05-06T09:16:30.952830",
+      "status": "success"
+    },
+    "UPXI": {
+      "last_updated": "2025-05-06T09:16:32.437292",
+      "status": "success"
+    },
+    "XAIR": {
+      "last_updated": "2025-05-06T09:16:33.955119",
+      "status": "success"
+    },
+    "STI": {
+      "last_updated": "2025-05-06T09:16:35.238254",
+      "status": "success"
+    },
+    "GWAV": {
+      "last_updated": "2025-05-06T09:16:36.535678",
+      "status": "success"
+    },
+    "SPHL": {
+      "last_updated": "2025-05-06T09:16:37.843109",
+      "status": "success"
+    },
+    "RLMD": {
+      "last_updated": "2025-05-06T09:16:39.177116",
+      "status": "success"
+    },
+    "RNAZ": {
+      "last_updated": "2025-05-06T09:16:40.537057",
+      "status": "success"
+    },
+    "NVNI": {
+      "last_updated": "2025-05-06T09:16:42.105497",
+      "status": "success"
+    },
+    "PSTV": {
+      "last_updated": "2025-05-06T09:16:43.558118",
+      "status": "success"
+    },
+    "HCTI": {
+      "last_updated": "2025-05-06T09:16:44.862215",
+      "status": "success"
+    },
+    "DHAI": {
+      "last_updated": "2025-05-06T09:16:46.020639",
+      "status": "success"
+    },
+    "TRUG": {
+      "last_updated": "2025-05-06T09:16:47.242182",
+      "status": "success"
+    },
+    "PET": {
+      "last_updated": "2025-05-06T09:16:48.493539",
+      "status": "success"
+    },
+    "TWG": {
+      "last_updated": "2025-05-06T09:16:49.611138",
+      "status": "success"
+    },
+    "DUO": {
+      "last_updated": "2025-05-06T09:16:50.854868",
+      "status": "success"
+    },
+    "BURU": {
+      "last_updated": "2025-05-06T09:16:52.048444",
+      "status": "success"
+    },
+    "AREB": {
+      "last_updated": "2025-05-06T09:16:53.238656",
+      "status": "success"
+    },
+    "LYRA": {
+      "last_updated": "2025-05-06T09:16:54.533264",
+      "status": "success"
+    },
+    "GNPX": {
+      "last_updated": "2025-05-06T09:16:55.786790",
+      "status": "success"
+    },
+    "DRCT": {
+      "last_updated": "2025-05-06T09:16:57.012684",
+      "status": "success"
+    },
+    "TRNR": {
+      "last_updated": "2025-05-06T09:17:26.733923",
+      "status": "success"
+    },
+    "SOPA": {
+      "last_updated": "2025-05-06T09:17:28.101781",
+      "status": "success"
+    },
+    "LRHC": {
+      "last_updated": "2025-05-06T09:17:29.305922",
+      "status": "success"
+    },
+    "ZCAR": {
+      "last_updated": "2025-05-06T09:17:30.737021",
+      "status": "success"
+    },
+    "NITO": {
+      "last_updated": "2025-05-06T09:17:32.097787",
+      "status": "success"
+    },
+    "RSLS": {
+      "last_updated": "2025-05-06T09:17:33.691510",
+      "status": "success"
+    },
+    "FRGT": {
+      "last_updated": "2025-05-06T09:17:35.041642",
+      "status": "success"
+    },
+    "PLRZ": {
+      "last_updated": "2025-05-06T09:17:36.203060",
+      "status": "success"
+    },
+    "ADIL": {
+      "last_updated": "2025-05-06T09:17:37.460659",
+      "status": "success"
+    },
+    "GCTK": {
+      "last_updated": "2025-05-06T09:17:38.664168",
+      "status": "success"
+    },
+    "IXHL": {
+      "last_updated": "2025-05-06T09:17:39.839694",
+      "status": "success"
+    },
+    "NAOV": {
+      "last_updated": "2025-05-06T09:17:41.083892",
+      "status": "success"
+    },
+    "SPRC": {
+      "last_updated": "2025-05-06T09:17:42.737756",
+      "status": "success"
+    },
+    "HEPA": {
+      "last_updated": "2025-05-06T09:17:43.929006",
+      "status": "success"
+    },
+    "ONCO": {
+      "last_updated": "2025-05-06T09:17:45.083878",
+      "status": "success"
+    },
+    "DGLY": {
+      "last_updated": "2025-05-06T09:17:46.583748",
+      "status": "success"
+    },
+    "BLMZ": {
+      "last_updated": "2025-05-06T09:17:47.748798",
+      "status": "success"
+    },
+    "NIVF": {
+      "last_updated": "2025-05-06T09:17:49.079148",
+      "status": "success"
+    },
+    "AGMH": {
+      "last_updated": "2025-05-06T09:17:50.402903",
+      "status": "success"
+    },
+    "BTOG": {
+      "last_updated": "2025-05-06T09:17:51.613107",
+      "status": "success"
+    },
+    "PAPL": {
+      "last_updated": "2025-05-06T09:17:52.716765",
+      "status": "success"
+    },
+    "KNW": {
+      "last_updated": "2025-05-06T09:18:03.524519",
+      "status": "success"
+    },
+    "TLSS": {
+      "last_updated": "2025-05-06T09:18:04.953323",
+      "status": "success"
+    },
+    "CNEY": {
+      "last_updated": "2025-05-06T09:18:06.304628",
+      "status": "success"
+    },
+    "LGMK": {
+      "last_updated": "2025-05-06T09:18:07.584033",
+      "status": "success"
+    }
+  }
+}

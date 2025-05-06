@@ -1,0 +1,38 @@
+/Users/soonjeongguan/Desktop/Repository/BT/
+│
+├── index.html                  # Main application HTML
+├── css/                        # CSS styles (unchanged)
+│
+├── js/                         # JavaScript files
+│   ├── dti-data.js             # Modified to use local CSV files first
+│   ├── dti-stock-lists.js      # Stock list definitions
+│   ├── dti-indicators.js       # DTI calculations
+│   ├── dti-backtest.js         # Backtesting logic
+│   └── dti-ui.js               # UI components
+│
+├── python/                     # New Python directory
+│   ├── requirements.txt        # Python dependencies
+│   ├── fetch_stock_data.py     # Main script for fetching data
+│   ├── stock_lists.py          # Python version of stock lists
+│   ├── batch_processor.py      # Handles batch processing
+│   ├── csv_manager.py          # Manages CSV files
+│   ├── config.py               # Configuration settings
+│   └── scheduled_update.py     # Script for scheduled updates
+│
+├── DATA/                       # CSV storage directory
+│   ├── nifty50/                # Organized by index
+│   │   ├── ADANIENT.NS.csv
+│   │   ├── APOLLOHOSP.NS.csv
+│   │   └── ...
+│   ├── ftse100/
+│   │   ├── BARC.L.csv
+│   │   └── ...
+│   ├── us_stocks/
+│   │   ├── AAPL.csv
+│   │   ├── MSFT.csv
+│   │   └── ...
+│   └── metadata.json           # Tracks last update times
+│
+└── scripts/                    # Utility scripts
+    ├── update_stocks.sh        # Shell script to run Python updater
+    └── setup.sh                # Installation script

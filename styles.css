@@ -1,0 +1,2551 @@
+/* DTI Backtester - Enhanced UI Styles 3.0
+   Professional trading platform with refined visuals, improved UX, and analytics dashboard */
+
+:root {
+    /* Core Color Palette - Refined trading platform colors */
+    --primary-color: #2563eb;        /* Royal blue - main accent */
+    --primary-dark: #1d4ed8;         /* Darker blue for hover states */
+    --primary-light: #dbeafe;        /* Light blue for backgrounds */
+    --primary-lightest: #f0f7ff;     /* Extremely light blue for subtle highlights */
+    --secondary-color: #7c3aed;      /* Vibrant purple - secondary accent */
+    --secondary-dark: #6d28d9;       /* Darker purple for hover states */
+    --secondary-light: #ede9fe;      /* Light purple for backgrounds */
+    --success-color: #059669;        /* Rich green for positive values */
+    --success-dark: #047857;         /* Darker green for hover states */
+    --success-light: #d1fae5;        /* Light green for backgrounds */
+    --danger-color: #dc2626;         /* Vivid red for negative values/alerts */
+    --danger-dark: #b91c1c;          /* Darker red for hover states */
+    --danger-light: #fee2e2;         /* Light red for backgrounds */
+    --warning-color: #d97706;        /* Deep amber for warnings */
+    --warning-dark: #b45309;         /* Darker amber for hover states */
+    --warning-light: #fef3c7;        /* Light amber for backgrounds */
+    --info-color: #0891b2;           /* Deep cyan for info */
+    --info-dark: #0e7490;            /* Darker cyan for hover states */
+    --info-light: #e0f2fe;           /* Light cyan for backgrounds */
+
+    /* Neutral Colors - More refined grayscale */
+    --bg-color: #f9fafb;             /* Subtle off-white background */
+    --card-bg: #ffffff;              /* Card background */
+    --text-color: #111827;           /* Darker primary text for better contrast */
+    --text-secondary: #4b5563;       /* Darker secondary text */
+    --border-color: #e5e7eb;         /* Refined border color */
+    --border-hover: #d1d5db;         /* Border hover state */
+    
+    /* Enhanced Shadows */
+    --shadow-xs: 0 1px 2px rgba(0,0,0,0.05);
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.04);
+    --shadow: 0 4px 6px -1px rgba(0,0,0,0.07), 0 2px 4px -1px rgba(0,0,0,0.04);
+    --shadow-md: 0 10px 15px -3px rgba(0,0,0,0.07), 0 4px 6px -2px rgba(0,0,0,0.04);
+    --shadow-lg: 0 20px 25px -5px rgba(0,0,0,0.07), 0 10px 10px -5px rgba(0,0,0,0.03);
+    --shadow-inner: inset 0 2px 4px 0 rgba(0,0,0,0.04);
+    
+    /* UI Elements */
+    --chart-height: 340px;           /* Slightly taller charts */
+    --radius-xs: 3px;                /* Extra small radius */
+    --radius-sm: 5px;                /* Small radius */
+    --radius: 8px;                   /* Default radius */
+    --radius-md: 10px;               /* Medium radius */
+    --radius-lg: 12px;               /* Large radius */
+    --transition-fast: 0.15s;        /* Fast transitions */
+    --transition-normal: 0.25s;      /* Standard transitions */
+    --transition-slow: 0.4s;         /* Slower, more dramatic transitions */
+    
+    /* Typography */
+    --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --line-height-tight: 1.4;
+    --line-height: 1.6;
+    --line-height-loose: 1.8;
+    
+    /* Layout */
+    --content-max-width: 1480px;
+    --sidebar-width: 340px;
+    --card-spacing: 24px;
+    --section-spacing: 32px;
+}
+
+/* ==========================================================================
+   Base Styles
+   ========================================================================== */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+    height: 100%;
+}
+
+body {
+    font-family: var(--font-family);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: var(--line-height);
+    padding: 24px;
+    min-height: 100vh;
+    overflow-x: hidden;
+    font-feature-settings: 'kern', 'liga', 'calt';
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    line-height: var(--line-height-tight);
+    color: var(--text-color);
+    margin-bottom: 0.6em;
+    letter-spacing: -0.01em;
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: all var(--transition-fast) ease;
+    font-weight: 500;
+}
+
+a:hover {
+    color: var(--primary-dark);
+    text-decoration: none;
+}
+
+p {
+    margin-bottom: 1.2em;
+}
+
+strong {
+    font-weight: 600;
+}
+
+/* ==========================================================================
+   Layout & Containers
+   ========================================================================== */
+
+.app-container {
+    max-width: var(--content-max-width);
+    margin: 0 auto;
+}
+
+.header {
+    margin-bottom: var(--section-spacing);
+    padding-bottom: 18px;
+    border-bottom: 2px solid var(--primary-light);
+    position: relative;
+}
+
+.app-title {
+    color: var(--primary-color);
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: -0.02em;
+    position: relative;
+    display: inline-block;
+}
+
+/* Add a subtle gradient underline to the title */
+.app-title::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    border-radius: 2px;
+    opacity: 0.8;
+}
+
+.app-description {
+    color: var(--text-secondary);
+    font-size: 15px;
+    line-height: var(--line-height);
+    margin-bottom: 14px;
+    max-width: 850px;
+}
+
+.dashboard {
+    display: grid;
+    grid-template-columns: var(--sidebar-width) 1fr;
+    gap: 28px;
+    margin-bottom: var(--section-spacing);
+}
+
+/* ==========================================================================
+   Cards & Containers - Enhanced
+   ========================================================================== */
+
+.card {
+    background: var(--card-bg);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow);
+    padding: var(--card-spacing);
+    margin-bottom: 28px;
+    transition: all var(--transition-normal);
+    border: 1px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Add subtle accent border to cards */
+.card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    opacity: 0.8;
+}
+
+.card:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 18px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+}
+
+/* Add a subtle fade effect to title borders */
+.card-title::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(to right, var(--border-color) 70%, transparent);
+}
+
+.charts-container {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+.chart-wrapper {
+    position: relative;
+    height: var(--chart-height);
+    width: 100%;
+    background-color: white;
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-inner);
+    transition: all var(--transition-normal);
+}
+
+.chart-wrapper:hover {
+    box-shadow: var(--shadow-inner), 0 0 0 2px rgba(37,99,235,0.1);
+}
+
+/* ==========================================================================
+   Form Elements - Enhanced
+   ========================================================================== */
+
+.parameters-section {
+    margin-bottom: 28px;
+    padding-bottom: 2px; /* Prevents margin collapse */
+}
+
+.parameters-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: var(--text-color);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    padding-left: 12px;
+}
+
+/* Add a vertical accent line before section titles */
+.parameters-title::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 2px;
+    bottom: 2px;
+    width: 3px;
+    background-color: var(--primary-color);
+    border-radius: 2px;
+}
+
+.parameter-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 18px;
+}
+
+.parameter-group label {
+    font-weight: 500;
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: var(--text-color);
+}
+
+/* All form inputs - enhanced styling */
+input[type="number"], 
+input[type="file"], 
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="date"],
+textarea,
+select {
+    padding: 10px 14px;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    font-size: 14px;
+    line-height: 1.5;
+    transition: all var(--transition-fast);
+    width: 100%;
+    background-color: white;
+    color: var(--text-color);
+    box-shadow: var(--shadow-xs);
+}
+
+/* Hover states for inputs */
+input[type="number"]:hover, 
+input[type="file"]:hover,
+input[type="text"]:hover,
+input[type="password"]:hover,
+input[type="email"]:hover,
+input[type="date"]:hover,
+textarea:hover,
+select:hover {
+    border-color: var(--border-hover);
+}
+
+/* Focus states for inputs */
+input[type="number"]:focus, 
+input[type="file"]:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus,
+input[type="date"]:focus,
+textarea:focus,
+select:focus {
+    border-color: var(--primary-color);
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+}
+
+/* Improved checkbox styling */
+input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+    accent-color: var(--primary-color);
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.checkbox-wrapper {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 3px 0;
+}
+
+.checkbox-wrapper label {
+    margin-bottom: 0;
+    cursor: pointer;
+}
+
+/* Form hints with improved styling */
+.form-hint {
+    font-size: 12px;
+    color: var(--text-secondary);
+    margin-top: 6px;
+    line-height: 1.5;
+}
+
+/* Improved button styling */
+button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 12px 16px;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 14px;
+    transition: all var(--transition-fast);
+    width: 100%;
+    margin-top: 12px;
+    line-height: 1.4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    overflow: hidden;
+    letter-spacing: 0.01em;
+}
+
+/* Add a subtle hover animation to buttons */
+button:hover {
+    background-color: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+}
+
+button:active {
+    transform: translateY(-1px);
+}
+
+/* Button with hover ripple effect */
+button::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 5px;
+    height: 5px;
+    background: rgba(255, 255, 255, 0.5);
+    opacity: 0;
+    border-radius: 100%;
+    transform: scale(1, 1) translate(-50%, -50%);
+    transform-origin: 50% 50%;
+}
+
+button:hover::after {
+    animation: ripple 0.6s ease-out;
+}
+
+@keyframes ripple {
+    0% {
+        transform: scale(0, 0) translate(-50%, -50%);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(20, 20) translate(-50%, -50%);
+        opacity: 0;
+    }
+}
+
+/* Button Variations */
+.btn-secondary {
+    background-color: var(--text-secondary);
+}
+
+.btn-secondary:hover {
+    background-color: #374151;
+}
+
+.btn-success {
+    background-color: var(--success-color);
+}
+
+.btn-success:hover {
+    background-color: var(--success-dark);
+}
+
+.btn-danger {
+    background-color: var(--danger-color);
+}
+
+.btn-danger:hover {
+    background-color: var(--danger-dark);
+}
+
+.btn-warning {
+    background-color: var(--warning-color);
+}
+
+.btn-warning:hover {
+    background-color: var(--warning-dark);
+}
+
+.btn-info {
+    background-color: var(--info-color);
+}
+
+.btn-info:hover {
+    background-color: var(--info-dark);
+}
+
+.btn-outline {
+    background-color: transparent;
+    color: var(--primary-color);
+    border: 1.5px solid var(--primary-color);
+    font-weight: 500;
+}
+
+.btn-outline:hover {
+    background-color: var(--primary-light);
+    color: var(--primary-dark);
+    border-color: var(--primary-dark);
+}
+
+.btn-outline-secondary {
+    background-color: transparent;
+    color: var(--text-secondary);
+    border: 1.5px solid var(--text-secondary);
+}
+
+.btn-outline-secondary:hover {
+    background-color: rgba(75, 85, 99, 0.1);
+    color: #374151;
+    border-color: #374151;
+}
+
+/* Status indicator */
+.update-status {
+    background-color: var(--primary-lightest);
+    border-left: 3px solid var(--primary-color);
+    padding: 10px 15px;
+    margin-top: 15px;
+    border-radius: var(--radius-sm);
+    font-size: 14px;
+    color: var(--primary-color);
+    transition: all 0.3s ease;
+}
+
+/* ==========================================================================
+   Statistics & Metrics - Enhanced
+   ========================================================================== */
+
+.statistics-card {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+    margin-bottom: 28px;
+}
+
+.stat-item {
+    background-color: white;
+    padding: 20px;
+    border-radius: var(--radius);
+    border-left: 4px solid var(--primary-color);
+    transition: all var(--transition-normal);
+    box-shadow: var(--shadow-sm);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Add subtle background pattern to stat items */
+.stat-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: 
+        radial-gradient(circle at 100% 150%, var(--primary-lightest) 24%, white 24.5%),
+        radial-gradient(circle at 0 150%, var(--primary-lightest) 24%, white 24.5%);
+    background-size: 6em 6em;
+    background-position: top right, top left;
+    background-repeat: no-repeat;
+    opacity: 0.15;
+    z-index: 0;
+}
+
+.stat-item:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+}
+
+.stat-value {
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 8px;
+    line-height: 1.2;
+    position: relative;
+    z-index: 1;
+}
+
+.stat-label {
+    font-size: 14px;
+    color: var(--text-secondary);
+    position: relative;
+    z-index: 1;
+    font-weight: 500;
+}
+
+/* Stat Item Variations */
+.stat-item.success {
+    border-left-color: var(--success-color);
+}
+
+.stat-item.success .stat-value {
+    color: var(--success-color);
+}
+
+.stat-item.danger {
+    border-left-color: var(--danger-color);
+}
+
+.stat-item.danger .stat-value {
+    color: var(--danger-color);
+}
+
+/* ==========================================================================
+   Tables - Enhanced
+   ========================================================================== */
+
+.trades-table-container {
+    overflow-x: auto;
+    margin-top: 18px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--border-color);
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 14px;
+    background-color: white;
+}
+
+th, td {
+    padding: 14px 18px;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+}
+
+th {
+    background-color: var(--primary-lightest);
+    font-weight: 600;
+    color: var(--primary-dark);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 0.03em;
+}
+
+/* Zebra striping for tables */
+tr:nth-child(even) {
+    background-color: rgba(243, 244, 246, 0.5);
+}
+
+tr:hover {
+    background-color: rgba(219, 234, 254, 0.15);
+}
+
+/* First and last cells get special treatment for rounded corners */
+table tr:first-child th:first-child {
+    border-top-left-radius: var(--radius-sm);
+}
+
+table tr:first-child th:last-child {
+    border-top-right-radius: var(--radius-sm);
+}
+
+table tr:last-child td:first-child {
+    border-bottom-left-radius: var(--radius-sm);
+}
+
+table tr:last-child td:last-child {
+    border-bottom-right-radius: var(--radius-sm);
+}
+
+.positive {
+    color: var(--success-color);
+    font-weight: 600;
+}
+
+.negative {
+    color: var(--danger-color);
+    font-weight: 600;
+}
+
+/* Enhanced exit tags */
+.exit-tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.tp-tag {
+    background-color: var(--success-light);
+    color: var(--success-color);
+    border: 1px solid rgba(5, 150, 105, 0.2);
+}
+
+.sl-tag {
+    background-color: var(--danger-light);
+    color: var(--danger-color);
+    border: 1px solid rgba(220, 38, 38, 0.2);
+}
+
+.time-tag {
+    background-color: var(--warning-light);
+    color: var(--warning-color);
+    border: 1px solid rgba(217, 119, 6, 0.2);
+}
+
+.end-tag {
+    background-color: rgba(243, 244, 246, 0.7);
+    color: var(--text-secondary);
+    border: 1px solid rgba(156, 163, 175, 0.2);
+}
+
+.no-data {
+    text-align: center;
+    padding: 50px 20px;
+    color: var(--text-secondary);
+    font-style: italic;
+    background-color: rgba(249, 250, 251, 0.5);
+}
+
+/* Exit reason table styles */
+.exit-reason-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 0;
+}
+
+.exit-reason-table th {
+    text-align: left;
+    padding: 10px 15px;
+    font-size: 13px;
+    background-color: var(--primary-lightest);
+    color: var(--primary-color);
+}
+
+.exit-reason-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 14px;
+}
+
+.exit-reason-table tr:last-child td {
+    border-bottom: none;
+}
+
+.exit-reason-table tr:hover {
+    background-color: rgba(243, 244, 246, 0.5);
+}
+
+/* ==========================================================================
+   CSV Info & Status - Enhanced
+   ========================================================================== */
+
+.csv-info {
+    padding: 14px 18px;
+    margin-top: 14px;
+    background-color: var(--info-light);
+    border-radius: var(--radius);
+    font-size: 14px;
+    border-left: 4px solid var(--info-color);
+    box-shadow: var(--shadow-xs);
+    position: relative;
+}
+
+/* Add subtle animation when csv info appears */
+@keyframes fadeSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.csv-info:not([style*="display: none"]) {
+    animation: fadeSlideIn 0.5s ease-out forwards;
+}
+
+/* ==========================================================================
+   Navigation & Tabs - Enhanced
+   ========================================================================== */
+
+/* Navigation bar */
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 18px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 12px;
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    background-color: white;
+    color: var(--primary-color);
+    text-decoration: none;
+    border-radius: var(--radius);
+    font-weight: 600;
+    border: 1.5px solid var(--primary-color);
+    transition: all var(--transition-fast);
+    box-shadow: var(--shadow-xs);
+}
+
+.nav-link:hover {
+    background-color: var(--primary-color);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+    text-decoration: none;
+}
+
+.active-trades-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--danger-color);
+    color: white;
+    border-radius: 12px;
+    min-width: 22px;
+    height: 22px;
+    padding: 0 6px;
+    font-size: 12px;
+    margin-left: 5px;
+    font-weight: 700;
+}
+
+/* Tab navigation for trade history */
+.trade-tabs {
+    display: flex;
+    gap: 2px;
+    margin-bottom: 28px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.trade-tab {
+    padding: 12px 20px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all var(--transition-fast);
+    border-bottom: 3px solid transparent;
+    color: var(--text-secondary);
+    position: relative;
+}
+
+.trade-tab.active {
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+    font-weight: 600;
+}
+
+.trade-tab:hover:not(.active) {
+    background-color: var(--primary-lightest);
+    color: var(--primary-color);
+}
+
+/* Add a subtle animation for active tab */
+.trade-tab.active::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: var(--primary-color);
+    animation: slideRight 0.3s ease-out forwards;
+    transform-origin: left;
+}
+
+@keyframes slideRight {
+    from {
+        transform: scaleX(0);
+    }
+    to {
+        transform: scaleX(1);
+    }
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+    animation: fadeTab 0.4s ease-out;
+}
+
+@keyframes fadeTab {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Index tabs */
+.index-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    margin-bottom: 18px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.index-tab {
+    padding: 10px 16px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all var(--transition-fast);
+    border-bottom: 3px solid transparent;
+    color: var(--text-secondary);
+}
+
+.index-tab.active {
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+    font-weight: 600;
+}
+
+.index-tab:hover:not(.active) {
+    background-color: var(--primary-lightest);
+    color: var(--primary-color);
+}
+
+.index-content {
+    animation: fadeIn 0.3s ease-out;
+    padding-top: 10px;
+}
+
+/* Analytics tabs */
+.analytics-tabs {
+    display: flex;
+    border-bottom: 1px solid var(--border-color);
+    margin-bottom: 20px;
+}
+
+.analytics-tab {
+    padding: 12px 20px;
+    cursor: pointer;
+    font-weight: 500;
+    border-bottom: 3px solid transparent;
+    transition: all 0.2s ease;
+    color: var(--text-secondary);
+}
+
+.analytics-tab.active {
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+    font-weight: 600;
+}
+
+.analytics-tab:hover:not(.active) {
+    background-color: var(--primary-lightest);
+    color: var(--primary-color);
+}
+
+.analytics-tab-content {
+    display: none;
+}
+
+.analytics-tab-content.active {
+    display: block;
+    animation: fadeIn 0.4s ease;
+}
+
+/* Analytics controls */
+.analytics-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.time-filter {
+    display: flex;
+    align-items: center;
+}
+
+.time-filter label {
+    margin-right: 10px;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.time-filter select {
+    padding: 8px 12px;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border-color);
+    background-color: white;
+    font-size: 14px;
+    width: auto;
+    margin-top: 0;
+}
+
+/* ==========================================================================
+   Buying Opportunities - Enhanced
+   ========================================================================== */
+
+.buying-opportunities-section {
+    margin-top: 28px;
+}
+
+.opportunities-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 18px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.opportunity-section {
+    margin-bottom: 28px;
+}
+
+.section-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--text-color);
+    margin-bottom: 16px;
+    padding-left: 12px;
+    position: relative;
+}
+
+/* Enhanced vertical accent line for section titles */
+.section-title::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 2px;
+    bottom: 2px;
+    width: 3px;
+    background-color: var(--secondary-color);
+    border-radius: 2px;
+}
+
+.opportunity-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.opportunity-card {
+    background-color: white;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 20px;
+    transition: all var(--transition-normal);
+    border: 1px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Add subtle hover effect to cards */
+.opportunity-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-lg);
+}
+
+/* Add subtle accent at the top of each card */
+.opportunity-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    opacity: 0.8;
+}
+
+.opportunity-header {
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border-color);
+    position: relative;
+}
+
+/* Add a fade effect to headers */
+.opportunity-header::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(to right, var(--border-color) 70%, transparent);
+}
+
+.stock-name {
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+.stock-symbol {
+    font-size: 14px;
+    color: var(--text-secondary);
+    margin-top: 3px;
+    display: block;
+}
+
+.opportunity-details {
+    margin-bottom: 18px;
+}
+
+.detail-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding-bottom: 4px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.05);
+}
+
+.detail-row:last-child {
+    border-bottom: none;
+}
+
+.detail-label {
+    color: var(--text-secondary);
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.detail-value {
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--text-color);
+}
+
+.opportunity-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 16px;
+}
+
+.view-details-btn {
+    flex: 1;
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 10px 14px;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    font-weight: 600;
+    transition: all var(--transition-fast);
+    margin-top: 0;
+    font-size: 13px;
+}
+
+.view-details-btn:hover {
+    background-color: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+}
+
+.take-trade-btn {
+    flex: 1;
+    background-color: var(--success-color);
+    color: white;
+    border: none;
+    padding: 10px 14px;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    font-weight: 600;
+    transition: all var(--transition-fast);
+    margin-top: 0;
+    font-size: 13px;
+}
+
+.take-trade-btn:hover {
+    background-color: var(--success-dark);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+}
+
+.take-trade-btn:active,
+.view-details-btn:active {
+    transform: translateY(0);
+}
+
+.no-opportunities {
+    text-align: center;
+    padding: 50px 20px;
+    color: var(--text-secondary);
+    font-style: italic;
+    background-color: rgba(243, 244, 246, 0.5);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-inner);
+}
+
+/* ==========================================================================
+   Batch Processing - Enhanced
+   ========================================================================== */
+
+.batch-status {
+    padding: 16px;
+    margin-top: 14px;
+    background-color: var(--primary-lightest);
+    border-radius: var(--radius);
+    font-size: 14px;
+    animation: fadeIn 0.3s ease;
+    border-left: 4px solid var(--primary-color);
+    box-shadow: var(--shadow-xs);
+}
+
+.progress-bar {
+    height: 8px;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+    margin-top: 12px;
+    overflow: hidden;
+    box-shadow: var(--shadow-inner);
+}
+
+.progress {
+    height: 100%;
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    border-radius: 4px;
+    transition: width 0.4s cubic-bezier(0.45, 0.05, 0.55, 0.95);
+}
+
+/* Scan all button */
+#batch-process-btn {
+    background-color: var(--secondary-color);
+}
+
+#batch-process-btn:hover {
+    background-color: var(--secondary-dark);
+}
+
+#batch-process-btn:disabled {
+    background-color: #c4b5fd;
+    cursor: not-allowed;
+    animation: none;
+}
+
+/* ==========================================================================
+   Trade Management - Enhanced
+   ========================================================================== */
+
+/* Page navigation */
+.page-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.nav-title {
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--primary-color);
+    letter-spacing: -0.01em;
+    position: relative;
+    display: inline-block;
+}
+
+/* Add an optional subtle gradient underline to the title */
+.nav-title::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    border-radius: 2px;
+    opacity: 0.8;
+}
+
+.btn-nav {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    border-radius: var(--radius);
+    font-size: 14px;
+    font-weight: 600;
+    background-color: white;
+    color: var(--primary-color);
+    border: 1.5px solid var(--primary-color);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    width: auto;
+    margin-top: 0;
+    box-shadow: var(--shadow-xs);
+}
+
+.btn-nav:hover {
+    background-color: var(--primary-color);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+    text-decoration: none;
+}
+
+/* Enhanced trade cards */
+.trade-card {
+    position: relative;
+    border-left: 4px solid #94a3b8;
+    margin-bottom: 22px;
+    padding: 22px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    background-color: white;
+    transition: all var(--transition-normal);
+}
+
+.trade-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+}
+
+.trade-card.active {
+    border-left-color: var(--info-color);
+}
+
+.trade-card.profit {
+    border-left-color: var(--success-color);
+}
+
+.trade-card.loss {
+    border-left-color: var(--danger-color);
+}
+
+.trade-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 18px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--border-color);
+    position: relative;
+}
+
+/* Add a fade effect to card headers */
+.trade-card-header::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(to right, var(--border-color) 70%, transparent);
+}
+
+/* Enhanced grid for trade info */
+.trade-info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: 18px;
+    margin-bottom: 18px;
+}
+
+.trade-info-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.trade-info-label {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-bottom: 3px;
+    font-weight: 500;
+}
+
+.trade-info-value {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+.trade-actions {
+    display: flex;
+    gap: 12px;
+    margin-top: 18px;
+}
+
+.btn-close-trade {
+    background-color: var(--danger-color);
+}
+
+.btn-close-trade:hover {
+    background-color: var(--danger-dark);
+}
+
+.btn-edit-trade {
+    background-color: var(--warning-color);
+}
+
+.btn-edit-trade:hover {
+    background-color: var(--warning-dark);
+}
+
+.trade-timer {
+    font-size: 14px;
+    margin-top: 12px;
+    color: var(--text-secondary);
+    padding: 10px 14px;
+    background-color: var(--bg-color);
+    border-radius: var(--radius);
+    border-left: 3px solid #94a3b8;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    box-shadow: var(--shadow-xs);
+}
+
+/* Enhanced status badges */
+.trade-status {
+    display: inline-flex;
+    align-items: center;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.status-active {
+    background-color: var(--info-light);
+    color: var(--info-color);
+    border: 1px solid rgba(8, 145, 178, 0.2);
+}
+
+.status-profit {
+    background-color: var(--success-light);
+    color: var(--success-color);
+    border: 1px solid rgba(5, 150, 105, 0.2);
+}
+
+.status-loss {
+    background-color: var(--danger-light);
+    color: var(--danger-color);
+    border: 1px solid rgba(220, 38, 38, 0.2);
+}
+
+/* Enhanced trade statistics */
+.trade-statistics {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-bottom: 32px;
+}
+
+.statistic-card {
+    padding: 20px;
+    border-radius: var(--radius);
+    background-color: white;
+    box-shadow: var(--shadow);
+    transition: all var(--transition-normal);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--primary-color);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Add subtle background pattern to statistic cards */
+.statistic-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: 
+        radial-gradient(circle at 100% 150%, var(--primary-lightest) 24%, white 24.5%),
+        radial-gradient(circle at 0 150%, var(--primary-lightest) 24%, white 24.5%);
+    background-size: 6em 6em;
+    background-position: top right, top left;
+    background-repeat: no-repeat;
+    opacity: 0.15;
+    z-index: 0;
+}
+
+.statistic-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+}
+
+.statistic-value {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: var(--primary-color);
+    line-height: 1.2;
+    position: relative;
+    z-index: 1;
+}
+
+.statistic-label {
+    font-size: 14px;
+    color: var(--text-secondary);
+    font-weight: 500;
+    position: relative;
+    z-index: 1;
+}
+
+/* Styles for specific statistic cards */
+.statistic-card.success {
+    border-left-color: var(--success-color);
+}
+
+.statistic-card.success .statistic-value {
+    color: var(--success-color);
+}
+
+.statistic-card.danger {
+    border-left-color: var(--danger-color);
+}
+
+.statistic-card.danger .statistic-value {
+    color: var(--danger-color);
+}
+
+.statistic-card.info {
+    border-left-color: var(--info-color);
+}
+
+.statistic-card.info .statistic-value {
+    color: var(--info-color);
+}
+
+/* Currency-specific stat cards */
+.currency-stat-card {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: var(--card-bg);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--border-color);
+}
+
+.currency-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.currency-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin: 0;
+}
+
+.currency-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 15px;
+}
+
+/* Enhanced empty state */
+.empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-secondary);
+    animation: fadeIn 0.4s ease;
+    background-color: rgba(243, 244, 246, 0.5);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-inner);
+}
+
+.empty-state-icon {
+    font-size: 54px;
+    margin-bottom: 18px;
+    color: #cbd5e1;
+}
+
+.empty-state-message {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+/* ==========================================================================
+   Analytics Components - Enhanced
+   ========================================================================== */
+
+/* Chart container styles */
+.chart-container {
+    background-color: white;
+    border-radius: var(--radius);
+    padding: 20px;
+    box-shadow: var(--shadow-sm);
+    margin-bottom: 24px;
+    height: 350px;
+    position: relative;
+    border: 1px solid var(--border-color);
+    transition: all var(--transition-normal);
+}
+
+.chart-container:hover {
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+}
+
+.chart-container h4 {
+    font-size: 16px;
+    margin-bottom: 15px;
+    color: var(--primary-color);
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.chart-container h4::before {
+    content: '';
+    display: block;
+    width: 3px;
+    height: 16px;
+    background-color: var(--primary-color);
+    border-radius: 2px;
+}
+
+.chart-row {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    margin-bottom: 24px;
+}
+
+.chart-full {
+    grid-column: 1 / -1;
+}
+
+/* Metrics cards */
+.metrics-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
+.metric-card {
+    background-color: white;
+    border-radius: var(--radius);
+    padding: 16px;
+    box-shadow: var(--shadow-sm);
+    border-left: 4px solid var(--primary-color);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.metric-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+}
+
+.metric-card.success {
+    border-left-color: var(--success-color);
+}
+
+.metric-card.danger {
+    border-left-color: var(--danger-color);
+}
+
+.metric-card.warning {
+    border-left-color: var(--warning-color);
+}
+
+.metric-card.neutral {
+    border-left-color: var(--secondary-color);
+}
+
+/* Add subtle background pattern to metric cards */
+.metric-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: 
+        radial-gradient(circle at 100% 150%, var(--primary-lightest) 24%, white 24.5%),
+        radial-gradient(circle at 0 150%, var(--primary-lightest) 24%, white 24.5%);
+    background-size: 6em 6em;
+    background-position: top right, top left;
+    background-repeat: no-repeat;
+    opacity: 0.10;
+    z-index: 0;
+}
+
+.metric-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    position: relative;
+    z-index: 1;
+}
+
+.metric-value {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: var(--text-color);
+    position: relative;
+    z-index: 1;
+}
+
+.metric-card.success .metric-value {
+    color: var(--success-color);
+}
+
+.metric-card.danger .metric-value {
+    color: var(--danger-color);
+}
+
+.metric-card.warning .metric-value {
+    color: var(--warning-color);
+}
+
+.metric-desc {
+    font-size: 12px;
+    color: var(--text-secondary);
+    position: relative;
+    z-index: 1;
+}
+
+/* Export controls */
+.export-controls {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.export-report-btn {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 8px 14px;
+    border-radius: var(--radius-sm);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-top: 0;
+    width: auto;
+    font-size: 14px;
+}
+
+.export-report-btn:hover {
+    background-color: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+}
+
+/* Metrics explanation styles */
+.metrics-details {
+    background-color: white;
+    border-radius: var(--radius);
+    padding: 20px;
+    margin-top: 24px;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--border-color);
+}
+
+.metrics-details h4 {
+    font-size: 16px;
+    margin-bottom: 15px;
+    color: var(--primary-color);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 10px;
+}
+
+.metrics-explanation {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 16px;
+}
+
+.metrics-explanation p {
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+/* Calendar heatmap styles */
+.calendar-heatmap {
+    background-color: white;
+    border-radius: var(--radius);
+    padding: 20px;
+    box-shadow: var(--shadow-sm);
+    margin-bottom: 24px;
+    position: relative;
+    border: 1px solid var(--border-color);
+}
+
+.calendar-year-selector {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.current-year {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 15px;
+}
+
+.year-nav {
+    background: none;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    padding: 0;
+    margin: 0;
+}
+
+.year-nav:hover {
+    background-color: var(--primary-lightest);
+    border-color: var(--primary-color);
+    transform: translateY(-2px);
+}
+
+.heatmap-container {
+    display: flex;
+    overflow-x: auto;
+    padding-bottom: 10px;
+}
+
+.month-column {
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+    min-width: 24px;
+}
+
+.month-header {
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 5px 0;
+    color: var(--text-secondary);
+}
+
+.day-cell {
+    width: 24px;
+    height: 24px;
+    border-radius: 2px;
+    margin: 2px 0;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.day-cell:hover {
+    transform: scale(1.2);
+    box-shadow: var(--shadow-sm);
+}
+
+.heatmap-legend {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    margin: 0 15px;
+}
+
+.legend-color {
+    width: 16px;
+    height: 16px;
+    border-radius: 2px;
+    margin-right: 6px;
+}
+
+.legend-label {
+    font-size: 12px;
+    color: var(--text-secondary);
+}
+
+#heatmap-tooltip {
+    position: absolute;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 10px;
+    border-radius: var(--radius-sm);
+    font-size: 12px;
+    pointer-events: none;
+    z-index: 1000;
+}
+
+.tooltip-date {
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+/* No data message */
+.no-data-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: var(--text-secondary);
+    font-style: italic;
+    background-color: rgba(243, 244, 246, 0.7);
+    padding: 15px 20px;
+    border-radius: var(--radius);
+    width: 80%;
+}
+
+/* ==========================================================================
+   Dialogs & Modals - Enhanced
+   ========================================================================== */
+
+.modal-overlay,
+.dialog-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(4px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity var(--transition-normal), visibility var(--transition-normal);
+}
+
+.modal-overlay.active,
+.dialog-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.modal-content,
+.dialog-content {
+    background-color: white;
+    border-radius: var(--radius-md);
+    width: 90%;
+    max-width: 520px;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 0;
+    box-shadow: var(--shadow-lg);
+    transform: translateY(30px);
+    transition: transform var(--transition-normal);
+    border: 1px solid var(--border-color);
+}
+
+.modal-overlay.active .modal-content,
+.dialog-overlay.active .dialog-content {
+    transform: translateY(0);
+    animation: modalEnter 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.modal-header,
+.dialog-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 22px;
+    border-bottom: 1px solid var(--border-color);
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: var(--radius-md) var(--radius-md) 0 0;
+}
+
+.modal-title,
+.dialog-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.modal-close,
+.dialog-close {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: white;
+    width: auto;
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    opacity: 0.8;
+    transition: opacity var(--transition-fast);
+    box-shadow: none;
+}
+
+.modal-close:hover,
+.dialog-close:hover {
+    opacity: 1;
+    background: transparent;
+    box-shadow: none;
+    transform: none;
+}
+
+.modal-body,
+.dialog-body {
+    padding: 22px;
+}
+
+.modal-footer,
+.dialog-actions {
+    padding: 16px 22px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+    border-top: 1px solid var(--border-color);
+    background-color: var(--bg-color);
+    border-radius: 0 0 var(--radius-md) var(--radius-md);
+}
+
+.modal-footer button,
+.dialog-actions button {
+    width: auto;
+    margin: 0;
+}
+
+/* ==========================================================================
+   Notifications - Enhanced
+   ========================================================================== */
+
+.notification {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    padding: 16px 22px;
+    border-radius: var(--radius);
+    z-index: 1000;
+    max-width: 360px;
+    box-shadow: var(--shadow-lg);
+    animation: notificationEnter 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border-left: 4px solid;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: white;
+}
+
+.notification-success {
+    border-left-color: var(--success-color);
+    color: var(--success-color);
+}
+
+.notification-error {
+    border-left-color: var(--danger-color);
+    color: var(--danger-color);
+}
+
+.notification-info {
+    border-left-color: var(--primary-color);
+    color: var(--primary-color);
+}
+
+.notification-warning {
+    border-left-color: var(--warning-color);
+    color: var(--warning-color);
+}
+
+.notification-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.notification-content {
+    flex: 1;
+}
+
+/* Trade PL info styling */
+.trade-pl-info {
+    margin: 8px 0 16px;
+    padding: 14px;
+    border-radius: var(--radius);
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    box-shadow: var(--shadow-xs);
+}
+
+.trade-pl-info.positive {
+    background-color: var(--success-light);
+    color: var(--success-color);
+    border-left: 4px solid var(--success-color);
+}
+
+.trade-pl-info.negative {
+    background-color: var(--danger-light);
+    color: var(--danger-color);
+    border-left: 4px solid var(--danger-color);
+}
+
+/* ==========================================================================
+   Info Section - Enhanced
+   ========================================================================== */
+
+.info-section {
+    margin-top: 28px;
+}
+
+.info-section .card {
+    background-color: var(--primary-lightest);
+}
+
+.info-section p {
+    margin-bottom: 14px;
+    font-size: 15px;
+    line-height: var(--line-height);
+}
+
+.info-section ol {
+    margin-left: 24px;
+    margin-bottom: 18px;
+}
+
+.info-section li {
+    margin-bottom: 8px;
+    font-size: 14px;
+    line-height: var(--line-height);
+}
+
+/* ==========================================================================
+   Animations - Enhanced
+   ========================================================================== */
+
+@keyframes rotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.spinner {
+    animation: rotate 1s linear infinite;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes fadeOut {
+    0% { opacity: 1; transform: translateY(0); }
+    100% { opacity: 0; transform: translateY(20px); }
+}
+
+@keyframes modalEnter {
+    0% { transform: scale(0.95) translateY(30px); opacity: 0; }
+    100% { transform: scale(1) translateY(0); opacity: 1; }
+}
+
+@keyframes notificationEnter {
+    0% { transform: translateX(100px); opacity: 0; }
+    100% { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.6; }
+    100% { opacity: 1; }
+}
+
+@keyframes shimmer {
+    0% { background-position: -1000px 0; }
+    100% { background-position: 1000px 0; }
+}
+
+/* Enhanced loading animation for buttons */
+button:disabled {
+    background-color: #93c5fd;
+    position: relative;
+    overflow: hidden;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+}
+
+button:disabled::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(
+        -45deg,
+        rgba(255, 255, 255, 0.2) 25%,
+        transparent 25%,
+        transparent 50%,
+        rgba(255, 255, 255, 0.2) 50%,
+        rgba(255, 255, 255, 0.2) 75%,
+        transparent 75%,
+        transparent
+    );
+    background-size: 50px 50px;
+    animation: shimmer 2s linear infinite;
+    border-radius: var(--radius-sm);
+}
+
+/* ==========================================================================
+   Responsive Adjustments - Enhanced
+   ========================================================================== */
+
+@media (max-width: 1200px) {
+    .dashboard {
+        grid-template-columns: 300px 1fr;
+        gap: 24px;
+    }
+    
+    .statistics-card {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    body {
+        padding: 20px;
+    }
+    
+    .chart-row {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .metrics-row {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 992px) {
+    .dashboard {
+        grid-template-columns: 1fr;
+    }
+    
+    .statistics-card {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .opportunity-cards {
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    }
+    
+    .header {
+        margin-bottom: 24px;
+    }
+    
+    .chart-row {
+        grid-template-columns: 1fr;
+    }
+    
+    .metrics-row {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .trade-statistics {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 16px;
+    }
+    
+    .card {
+        padding: 20px;
+    }
+    
+    .nav-bar {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 14px;
+    }
+    
+    .nav-links {
+        width: 100%;
+    }
+    
+    .statistics-card {
+        grid-template-columns: 1fr 1fr;
+        gap: 16px;
+    }
+    
+    .trade-card-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+    }
+    
+    .trade-info-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+    }
+    
+    .trade-actions {
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .trade-actions button {
+        width: 100%;
+    }
+    
+    .modal-content,
+    .dialog-content {
+        width: 95%;
+    }
+    
+    .trade-statistics {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .metrics-row {
+        grid-template-columns: 1fr;
+    }
+    
+    .opportunity-cards {
+        grid-template-columns: 1fr;
+    }
+    
+    .page-nav {
+        flex-direction: column;
+        gap: 14px;
+        align-items: flex-start;
+    }
+    
+    .page-nav .btn-nav {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    th, td {
+        padding: 12px 14px;
+    }
+    
+    .card-title {
+        font-size: 17px;
+    }
+    
+    .app-title {
+        font-size: 26px;
+    }
+    
+    .app-description {
+        font-size: 14px;
+    }
+    
+    .analytics-tabs {
+        flex-wrap: wrap;
+    }
+    
+    .analytics-tab {
+        flex: 1 0 50%;
+        text-align: center;
+    }
+    
+    .export-controls {
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .export-report-btn {
+        width: 100%;
+    }
+    
+    .analytics-controls {
+        flex-direction: column;
+        gap: 16px;
+        align-items: flex-start;
+    }
+    
+    .time-filter {
+        width: 100%;
+    }
+    
+    .time-filter select {
+        flex: 1;
+    }
+}
+
+@media (max-width: 576px) {
+    .trade-info-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .trade-statistics {
+        grid-template-columns: 1fr;
+    }
+    
+    .trade-tabs {
+        flex-direction: column;
+        border-bottom: none;
+    }
+    
+    .trade-tab {
+        border-left: 3px solid transparent;
+        border-bottom: none;
+        padding: 10px 15px;
+    }
+    
+    .trade-tab.active {
+        border-left-color: var(--primary-color);
+        border-bottom: none;
+        background-color: var(--primary-lightest);
+    }
+    
+    .trade-tab.active::after {
+        display: none;
+    }
+    
+    .statistics-card {
+        grid-template-columns: 1fr;
+    }
+    
+    .header {
+        margin-bottom: 20px;
+    }
+    
+    body {
+        padding: 12px;
+    }
+    
+    .card {
+        padding: 16px;
+        margin-bottom: 20px;
+    }
+    
+    .chart-wrapper {
+        height: 300px;
+    }
+    
+    .chart-container {
+        height: 300px;
+    }
+    
+    .metrics-explanation {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .index-tabs {
+        flex-direction: column;
+        border-bottom: none;
+    }
+    
+    .index-tab {
+        padding: 8px 14px;
+        border-bottom: none;
+        border-left: 3px solid transparent;
+    }
+    
+    .index-tab.active {
+        border-left-color: var(--primary-color);
+        border-bottom: none;
+        background-color: var(--primary-lightest);
+    }
+    
+    .notification {
+        left: 16px;
+        right: 16px;
+        width: auto;
+        max-width: none;
+    }
+}
+
+/* ==========================================================================
+   Print Optimizations
+   ========================================================================== */
+
+@media print {
+    body {
+        background-color: white;
+        padding: 0;
+        font-size: 12pt;
+    }
+    
+    .card {
+        box-shadow: none;
+        border: 1px solid #ddd;
+        break-inside: avoid;
+        margin-bottom: 20pt;
+    }
+    
+    .chart-container, 
+    .statistic-card, 
+    .metric-card {
+        box-shadow: none;
+        border: 1px solid #ddd;
+    }
+    
+    .trade-card {
+        box-shadow: none;
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+    
+    .chart-container {
+        height: auto;
+        min-height: 250pt;
+    }
+    
+    button, 
+    .export-controls, 
+    .analytics-controls {
+        display: none;
+    }
+    
+    .empty-state {
+        border: 1px solid #ddd;
+        background: white;
+        box-shadow: none;
+    }
+    
+    /* Force table rows to avoid breaking across pages */
+    tr { page-break-inside: avoid; }
+    
+    /* Add page breaks before major sections */
+    .card:nth-child(n+3) {
+        page-break-before: always;
+    }
+}

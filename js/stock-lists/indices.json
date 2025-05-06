@@ -1,0 +1,6 @@
+[
+  { "name": "Nifty 50 Index", "symbol": "^NSEI" },
+  { "name": "S&P 500 Index", "symbol": "^GSPC" },
+  { "name": "FTSE 100 Index", "symbol": "^FTSE" },
+  { "name": "Bank Nifty Index", "symbol": "^NSEBANK" }
+]

@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-05-03",
+  "lists": [
+    {
+      "id": "nifty50",
+      "name": "Nifty 50",
+      "region": "India",
+      "file": "nifty50.json"
+    },
+    {
+      "id": "niftyNext50",
+      "name": "Nifty Next 50",
+      "region": "India",
+      "file": "niftyNext50.json"
+    },
+    {
+      "id": "niftyMidcap150",
+      "name": "Nifty Midcap 150",
+      "region": "India",
+      "file": "niftyMidcap150.json"
+    },
+    {
+      "id": "ftse100",
+      "name": "FTSE 100",
+      "region": "UK",
+      "file": "ftse100.json"
+    },
+    {
+      "id": "ftse250",
+      "name": "FTSE 250",
+      "region": "UK",
+      "file": "ftse250.json"
+    },
+    {
+      "id": "usMidCap",
+      "name": "US Mid Cap",
+      "region": "US",
+      "file": "usMidCap.json"
+    },
+    {
+      "id": "usSmallCap",
+      "name": "US Small Cap",
+      "region": "US",
+      "file": "usSmallCap.json"
+    },
+    {
+      "id": "usStocks",
+      "name": "US Stocks",
+      "region": "US",
+      "file": "usStocks.json"
+    },
+    {
+      "id": "indices",
+      "name": "Market Indices",
+      "region": "Global",
+      "file": "indices.json"
+    }
+  ]
+}

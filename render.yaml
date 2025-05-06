@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: bt88-backend
+    env: node
+    buildCommand: npm install && pip install -r requirements.txt
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+    plan: starter
+    autoDeploy: true
+    healthCheckPath: /api/health
